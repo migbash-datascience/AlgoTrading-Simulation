@@ -1,0 +1,14 @@
+# Folder with "instance" values
+instance/
+
+# Dependecy 'pipenv' file(s)
+Pipfile
+
+# Folder with *REAL & Functioning Strategies
+strategy/*_cross.py
+
+# Folder with code snippets, bugs and issues found along the way, code issue documentation
+other/
+
+# Folder containning the final `backtested` strategy data stored in JSON format
+strat_perm_data/

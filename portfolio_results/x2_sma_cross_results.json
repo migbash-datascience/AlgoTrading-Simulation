@@ -1,0 +1,5562 @@
+{
+    "0": {
+        "Buy Order Time": 1575166860000,
+        "Buy Price": 7391.35,
+        "Sell Order Time": 1575168540000,
+        "Sell Price": 7395.75,
+        "Share Quantity": 0.067646641,
+        "Comission": 1.0002976452,
+        "(%) Change": 0.0459956889,
+        "Portfolio Total": 0.2299784447
+    },
+    "1": {
+        "Buy Order Time": 1575173040000,
+        "Buy Price": 7277.4,
+        "Sell Order Time": 1575174720000,
+        "Sell Price": 7279.3,
+        "Share Quantity": 0.0687058565,
+        "Comission": 1.0001305411,
+        "(%) Change": 0.0123652604,
+        "Portfolio Total": 0.2918047466
+    },
+    "2": {
+        "Buy Order Time": 1575175440000,
+        "Buy Price": 7287.3,
+        "Sell Order Time": 1575178140000,
+        "Sell Price": 7322.7,
+        "Share Quantity": 0.0686125177,
+        "Comission": 1.0024288831,
+        "(%) Change": 0.4720207912,
+        "Portfolio Total": 2.6519087026
+    },
+    "3": {
+        "Buy Order Time": 1575180600000,
+        "Buy Price": 7291.65,
+        "Sell Order Time": 1575183360000,
+        "Sell Price": 7308.3,
+        "Share Quantity": 0.0685715853,
+        "Comission": 1.0011417169,
+        "(%) Change": 0.2146134041,
+        "Portfolio Total": 3.7249757233
+    },
+    "4": {
+        "Buy Order Time": 1575184500000,
+        "Buy Price": 7311.3,
+        "Sell Order Time": 1575186360000,
+        "Sell Price": 7315.15,
+        "Share Quantity": 0.0683872909,
+        "Comission": 1.0002632911,
+        "(%) Change": 0.0389771547,
+        "Portfolio Total": 3.9198614966
+    },
+    "5": {
+        "Buy Order Time": 1575188820000,
+        "Buy Price": 7294.05,
+        "Sell Order Time": 1575190320000,
+        "Sell Price": 7289.95,
+        "Share Quantity": 0.0685490228,
+        "Comission": 0.999718949,
+        "(%) Change": -0.0699161501,
+        "Portfolio Total": 3.5702807459
+    },
+    "6": {
+        "Buy Order Time": 1575191580000,
+        "Buy Price": 7293.1,
+        "Sell Order Time": 1575192540000,
+        "Sell Price": 7290.85,
+        "Share Quantity": 0.068557952,
+        "Comission": 0.9998457446,
+        "(%) Change": -0.0445605537,
+        "Portfolio Total": 3.3474779773
+    },
+    "7": {
+        "Buy Order Time": 1575194340000,
+        "Buy Price": 7284.9,
+        "Sell Order Time": 1575199200000,
+        "Sell Price": 7361.5,
+        "Share Quantity": 0.068635122,
+        "Comission": 1.0052574503,
+        "(%) Change": 1.037690875,
+        "Portfolio Total": 8.535932352
+    },
+    "8": {
+        "Buy Order Time": 1575203040000,
+        "Buy Price": 7330.65,
+        "Sell Order Time": 1575210180000,
+        "Sell Price": 7438.2,
+        "Share Quantity": 0.0682067757,
+        "Comission": 1.0073356387,
+        "(%) Change": 1.4533863213,
+        "Portfolio Total": 15.8028639585
+    },
+    "9": {
+        "Buy Order Time": 1575217200000,
+        "Buy Price": 7320.75,
+        "Sell Order Time": 1575218460000,
+        "Sell Price": 7315.9,
+        "Share Quantity": 0.0682990131,
+        "Comission": 0.9996687498,
+        "(%) Change": -0.0799053205,
+        "Portfolio Total": 15.403337356
+    },
+    "10": {
+        "Buy Order Time": 1575219540000,
+        "Buy Price": 7321.95,
+        "Sell Order Time": 1575220140000,
+        "Sell Price": 7317.95,
+        "Share Quantity": 0.0682878195,
+        "Comission": 0.9997268487,
+        "(%) Change": -0.0682840889,
+        "Portfolio Total": 15.0619169114
+    },
+    "11": {
+        "Buy Order Time": 1575222060000,
+        "Buy Price": 7312.5,
+        "Sell Order Time": 1575224400000,
+        "Sell Price": 7315.1,
+        "Share Quantity": 0.0683760684,
+        "Comission": 1.0001777778,
+        "(%) Change": 0.0218779107,
+        "Portfolio Total": 15.1713064651
+    },
+    "12": {
+        "Buy Order Time": 1575225000000,
+        "Buy Price": 7316.35,
+        "Sell Order Time": 1575225360000,
+        "Sell Price": 7317.15,
+        "Share Quantity": 0.0683400876,
+        "Comission": 1.0000546721,
+        "(%) Change": -0.0027343508,
+        "Portfolio Total": 15.1576347113
+    },
+    "13": {
+        "Buy Order Time": 1575225540000,
+        "Buy Price": 7317.3,
+        "Sell Order Time": 1575226200000,
+        "Sell Price": 7316.1,
+        "Share Quantity": 0.0683312151,
+        "Comission": 0.9999180025,
+        "(%) Change": -0.030064614,
+        "Portfolio Total": 15.0073116411
+    },
+    "14": {
+        "Buy Order Time": 1575229320000,
+        "Buy Price": 7298.15,
+        "Sell Order Time": 1575233940000,
+        "Sell Price": 7362.55,
+        "Share Quantity": 0.0685105129,
+        "Comission": 1.004412077,
+        "(%) Change": 0.8686528493,
+        "Portfolio Total": 19.3505758877
+    },
+    "15": {
+        "Buy Order Time": 1575236220000,
+        "Buy Price": 7342.45,
+        "Sell Order Time": 1575239100000,
+        "Sell Price": 7368.1,
+        "Share Quantity": 0.068097161,
+        "Comission": 1.0017466922,
+        "(%) Change": 0.3356952149,
+        "Portfolio Total": 21.0290519623
+    },
+    "16": {
+        "Buy Order Time": 1575240780000,
+        "Buy Price": 7369.7,
+        "Sell Order Time": 1575244140000,
+        "Sell Price": 7404.2,
+        "Share Quantity": 0.0678453668,
+        "Comission": 1.0023406652,
+        "(%) Change": 0.4545321972,
+        "Portfolio Total": 23.3017129482
+    },
+    "17": {
+        "Buy Order Time": 1575250620000,
+        "Buy Price": 7365.25,
+        "Sell Order Time": 1575253620000,
+        "Sell Price": 7398.0,
+        "Share Quantity": 0.0678863582,
+        "Comission": 1.0022232782,
+        "(%) Change": 0.4310481887,
+        "Portfolio Total": 25.4569538919
+    },
+    "18": {
+        "Buy Order Time": 1575255480000,
+        "Buy Price": 7395.5,
+        "Sell Order Time": 1575256440000,
+        "Sell Price": 7391.6,
+        "Share Quantity": 0.067608681,
+        "Comission": 0.9997363261,
+        "(%) Change": -0.066252942,
+        "Portfolio Total": 25.1256891819
+    },
+    "19": {
+        "Buy Order Time": 1575262080000,
+        "Buy Price": 7338.6,
+        "Sell Order Time": 1575264060000,
+        "Sell Price": 7342.2,
+        "Share Quantity": 0.0681328864,
+        "Comission": 1.0002452784,
+        "(%) Change": 0.0354257586,
+        "Portfolio Total": 25.3028179749
+    },
+    "20": {
+        "Buy Order Time": 1575268920000,
+        "Buy Price": 7224.5,
+        "Sell Order Time": 1575271500000,
+        "Sell Price": 7241.55,
+        "Share Quantity": 0.0692089418,
+        "Comission": 1.0011800125,
+        "(%) Change": 0.2221443697,
+        "Portfolio Total": 26.4135398233
+    },
+    "21": {
+        "Buy Order Time": 1575273240000,
+        "Buy Price": 7239.9,
+        "Sell Order Time": 1575274440000,
+        "Sell Price": 7237.85,
+        "Share Quantity": 0.0690617274,
+        "Comission": 0.9998584235,
+        "(%) Change": -0.0421256982,
+        "Portfolio Total": 26.2029113324
+    },
+    "22": {
+        "Buy Order Time": 1575277080000,
+        "Buy Price": 7218.6,
+        "Sell Order Time": 1575283620000,
+        "Sell Price": 7325.75,
+        "Share Quantity": 0.0692655085,
+        "Comission": 1.0074217992,
+        "(%) Change": 1.4704039315,
+        "Portfolio Total": 33.55493099
+    },
+    "23": {
+        "Buy Order Time": 1575286080000,
+        "Buy Price": 7298.35,
+        "Sell Order Time": 1575286800000,
+        "Sell Price": 7289.65,
+        "Share Quantity": 0.0685086355,
+        "Comission": 0.9994039749,
+        "(%) Change": -0.1328985863,
+        "Portfolio Total": 32.8904380584
+    },
+    "24": {
+        "Buy Order Time": 1575290520000,
+        "Buy Price": 7273.5,
+        "Sell Order Time": 1575292800000,
+        "Sell Price": 7296.75,
+        "Share Quantity": 0.0687426961,
+        "Comission": 1.0015982677,
+        "(%) Change": 0.3058830237,
+        "Portfolio Total": 34.4198531771
+    },
+    "25": {
+        "Buy Order Time": 1575293640000,
+        "Buy Price": 7302.4,
+        "Sell Order Time": 1575295140000,
+        "Sell Price": 7303.65,
+        "Share Quantity": 0.0684706398,
+        "Comission": 1.0000855883,
+        "(%) Change": 0.0034223599,
+        "Portfolio Total": 34.4369649768
+    },
+    "26": {
+        "Buy Order Time": 1575296460000,
+        "Buy Price": 7308.3,
+        "Sell Order Time": 1575297900000,
+        "Sell Price": 7310.5,
+        "Share Quantity": 0.0684153634,
+        "Comission": 1.0001505138,
+        "(%) Change": 0.0164176277,
+        "Portfolio Total": 34.5190531153
+    },
+    "27": {
+        "Buy Order Time": 1575299940000,
+        "Buy Price": 7299.0,
+        "Sell Order Time": 1575303300000,
+        "Sell Price": 7309.85,
+        "Share Quantity": 0.0685025346,
+        "Comission": 1.0007432525,
+        "(%) Change": 0.1349398102,
+        "Portfolio Total": 35.1937521664
+    },
+    "28": {
+        "Buy Order Time": 1575308580000,
+        "Buy Price": 7274.75,
+        "Sell Order Time": 1575310200000,
+        "Sell Price": 7276.45,
+        "Share Quantity": 0.0687308842,
+        "Comission": 1.0001168425,
+        "(%) Change": 0.0096207177,
+        "Portfolio Total": 35.2418557547
+    },
+    "29": {
+        "Buy Order Time": 1575312360000,
+        "Buy Price": 7272.85,
+        "Sell Order Time": 1575313380000,
+        "Sell Price": 7270.95,
+        "Share Quantity": 0.0687488399,
+        "Comission": 0.9998693772,
+        "(%) Change": -0.0398725311,
+        "Portfolio Total": 35.0424930992
+    },
+    "30": {
+        "Buy Order Time": 1575314580000,
+        "Buy Price": 7272.75,
+        "Sell Order Time": 1575316620000,
+        "Sell Price": 7276.9,
+        "Share Quantity": 0.0687497852,
+        "Comission": 1.0002853116,
+        "(%) Change": 0.0433084416,
+        "Portfolio Total": 35.2590353074
+    },
+    "31": {
+        "Buy Order Time": 1575316740000,
+        "Buy Price": 7277.1,
+        "Sell Order Time": 1575320280000,
+        "Sell Price": 7299.55,
+        "Share Quantity": 0.0687086889,
+        "Comission": 1.0015425101,
+        "(%) Change": 0.2947390786,
+        "Portfolio Total": 36.7327307004
+    },
+    "32": {
+        "Buy Order Time": 1575321360000,
+        "Buy Price": 7301.05,
+        "Sell Order Time": 1575323220000,
+        "Sell Price": 7302.2,
+        "Share Quantity": 0.0684833003,
+        "Comission": 1.0000787558,
+        "(%) Change": 0.0020534203,
+        "Portfolio Total": 36.742997802
+    },
+    "33": {
+        "Buy Order Time": 1575324120000,
+        "Buy Price": 7304.8,
+        "Sell Order Time": 1575327540000,
+        "Sell Price": 7322.75,
+        "Share Quantity": 0.0684481437,
+        "Comission": 1.0012286442,
+        "(%) Change": 0.2320223874,
+        "Portfolio Total": 37.9031097391
+    },
+    "34": {
+        "Buy Order Time": 1575328380000,
+        "Buy Price": 7328.15,
+        "Sell Order Time": 1575328560000,
+        "Sell Price": 7326.15,
+        "Share Quantity": 0.0682300444,
+        "Comission": 0.9998635399,
+        "(%) Change": -0.0409361645,
+        "Portfolio Total": 37.6984289165
+    },
+    "35": {
+        "Buy Order Time": 1575332100000,
+        "Buy Price": 7308.55,
+        "Sell Order Time": 1575335880000,
+        "Sell Price": 7369.6,
+        "Share Quantity": 0.0684130231,
+        "Comission": 1.0041766151,
+        "(%) Change": 0.8215832605,
+        "Portfolio Total": 41.806345219
+    },
+    "36": {
+        "Buy Order Time": 1575340080000,
+        "Buy Price": 7344.95,
+        "Sell Order Time": 1575341400000,
+        "Sell Price": 7343.9,
+        "Share Quantity": 0.0680739828,
+        "Comission": 0.9999285223,
+        "(%) Change": -0.0279093598,
+        "Portfolio Total": 41.66679842
+    },
+    "37": {
+        "Buy Order Time": 1575344940000,
+        "Buy Price": 7335.75,
+        "Sell Order Time": 1575347160000,
+        "Sell Price": 7341.1,
+        "Share Quantity": 0.0681593566,
+        "Comission": 1.0003646526,
+        "(%) Change": 0.0592936693,
+        "Portfolio Total": 41.9632667667
+    },
+    "38": {
+        "Buy Order Time": 1575350040000,
+        "Buy Price": 7299.35,
+        "Sell Order Time": 1575351420000,
+        "Sell Price": 7296.55,
+        "Share Quantity": 0.0684992499,
+        "Comission": 0.9998082021,
+        "(%) Change": -0.0520568023,
+        "Portfolio Total": 41.7029827549
+    },
+    "39": {
+        "Buy Order Time": 1575353880000,
+        "Buy Price": 7285.85,
+        "Sell Order Time": 1575357600000,
+        "Sell Price": 7296.55,
+        "Share Quantity": 0.0686261726,
+        "Comission": 1.0007343,
+        "(%) Change": 0.1331246965,
+        "Portfolio Total": 42.3686062374
+    },
+    "40": {
+        "Buy Order Time": 1575360420000,
+        "Buy Price": 7294.0,
+        "Sell Order Time": 1575362400000,
+        "Sell Price": 7297.4,
+        "Share Quantity": 0.0685494927,
+        "Comission": 1.0002330683,
+        "(%) Change": 0.0329005612,
+        "Portfolio Total": 42.5331090433
+    },
+    "41": {
+        "Buy Order Time": 1575363300000,
+        "Buy Price": 7300.65,
+        "Sell Order Time": 1575365160000,
+        "Sell Price": 7305.1,
+        "Share Quantity": 0.0684870525,
+        "Comission": 1.0003047674,
+        "(%) Change": 0.0472518917,
+        "Portfolio Total": 42.7693685018
+    },
+    "42": {
+        "Buy Order Time": 1575369420000,
+        "Buy Price": 7267.0,
+        "Sell Order Time": 1575372540000,
+        "Sell Price": 7280.25,
+        "Share Quantity": 0.0688041833,
+        "Comission": 1.0009116554,
+        "(%) Change": 0.1685577039,
+        "Portfolio Total": 43.6121570215
+    },
+    "43": {
+        "Buy Order Time": 1575375060000,
+        "Buy Price": 7270.3,
+        "Sell Order Time": 1575380100000,
+        "Sell Price": 7288.15,
+        "Share Quantity": 0.068772953,
+        "Comission": 1.0012275972,
+        "(%) Change": 0.2317479664,
+        "Portfolio Total": 44.7708968536
+    },
+    "44": {
+        "Buy Order Time": 1575382140000,
+        "Buy Price": 7283.95,
+        "Sell Order Time": 1575386220000,
+        "Sell Price": 7328.0,
+        "Share Quantity": 0.0686440736,
+        "Comission": 1.0030237714,
+        "(%) Change": 0.590983961,
+        "Portfolio Total": 47.7258166587
+    },
+    "45": {
+        "Buy Order Time": 1575387360000,
+        "Buy Price": 7331.6,
+        "Sell Order Time": 1575388980000,
+        "Sell Price": 7332.75,
+        "Share Quantity": 0.0681979377,
+        "Comission": 1.0000784276,
+        "(%) Change": 0.0020448684,
+        "Portfolio Total": 47.7360410007
+    },
+    "46": {
+        "Buy Order Time": 1575391980000,
+        "Buy Price": 7318.9,
+        "Sell Order Time": 1575395280000,
+        "Sell Price": 7329.6,
+        "Share Quantity": 0.068316277,
+        "Comission": 1.0007309842,
+        "(%) Change": 0.1325235898,
+        "Portfolio Total": 48.3986589499
+    },
+    "47": {
+        "Buy Order Time": 1575396660000,
+        "Buy Price": 7330.1,
+        "Sell Order Time": 1575400020000,
+        "Sell Price": 7344.55,
+        "Share Quantity": 0.0682118934,
+        "Comission": 1.0009856619,
+        "(%) Change": 0.1834765465,
+        "Portfolio Total": 49.3160416826
+    },
+    "48": {
+        "Buy Order Time": 1575401760000,
+        "Buy Price": 7343.05,
+        "Sell Order Time": 1575402420000,
+        "Sell Price": 7338.5,
+        "Share Quantity": 0.0680915968,
+        "Comission": 0.9996901832,
+        "(%) Change": -0.0755774533,
+        "Portfolio Total": 48.9381544162
+    },
+    "49": {
+        "Buy Order Time": 1575406800000,
+        "Buy Price": 7299.15,
+        "Sell Order Time": 1575407340000,
+        "Sell Price": 7297.7,
+        "Share Quantity": 0.0685011268,
+        "Comission": 0.9999006734,
+        "(%) Change": -0.0335641914,
+        "Portfolio Total": 48.7703334594
+    },
+    "50": {
+        "Buy Order Time": 1575409320000,
+        "Buy Price": 7297.65,
+        "Sell Order Time": 1575412140000,
+        "Sell Price": 7317.35,
+        "Share Quantity": 0.068515207,
+        "Comission": 1.0013497496,
+        "(%) Change": 0.2562283783,
+        "Portfolio Total": 50.051475351
+    },
+    "51": {
+        "Buy Order Time": 1575414360000,
+        "Buy Price": 7308.55,
+        "Sell Order Time": 1575414720000,
+        "Sell Price": 7306.45,
+        "Share Quantity": 0.0684130231,
+        "Comission": 0.9998563327,
+        "(%) Change": -0.0424141086,
+        "Portfolio Total": 49.8394048081
+    },
+    "52": {
+        "Buy Order Time": 1575416700000,
+        "Buy Price": 7302.15,
+        "Sell Order Time": 1575416880000,
+        "Sell Price": 7301.45,
+        "Share Quantity": 0.068472984,
+        "Comission": 0.9999520689,
+        "(%) Change": -0.0232801582,
+        "Portfolio Total": 49.7230040173
+    },
+    "53": {
+        "Buy Order Time": 1575422520000,
+        "Buy Price": 7167.0,
+        "Sell Order Time": 1575424260000,
+        "Sell Price": 7165.35,
+        "Share Quantity": 0.069764197,
+        "Comission": 0.9998848891,
+        "(%) Change": -0.0369734183,
+        "Portfolio Total": 49.5381369258
+    },
+    "54": {
+        "Buy Order Time": 1575428580000,
+        "Buy Price": 7144.3,
+        "Sell Order Time": 1575431460000,
+        "Sell Price": 7155.85,
+        "Share Quantity": 0.0699858629,
+        "Comission": 1.0008083367,
+        "(%) Change": 0.1476588562,
+        "Portfolio Total": 50.2764312068
+    },
+    "55": {
+        "Buy Order Time": 1575433500000,
+        "Buy Price": 7151.3,
+        "Sell Order Time": 1575435180000,
+        "Sell Price": 7151.05,
+        "Share Quantity": 0.0699173577,
+        "Comission": 0.9999825207,
+        "(%) Change": -0.017479095,
+        "Portfolio Total": 50.1890357318
+    },
+    "56": {
+        "Buy Order Time": 1575438360000,
+        "Buy Price": 7140.35,
+        "Sell Order Time": 1575439260000,
+        "Sell Price": 7136.75,
+        "Share Quantity": 0.0700245786,
+        "Comission": 0.9997479115,
+        "(%) Change": -0.0644190819,
+        "Portfolio Total": 49.8669403225
+    },
+    "57": {
+        "Buy Order Time": 1575440520000,
+        "Buy Price": 7139.25,
+        "Sell Order Time": 1575443580000,
+        "Sell Price": 7143.45,
+        "Share Quantity": 0.0700353679,
+        "Comission": 1.0002941485,
+        "(%) Change": 0.0448185153,
+        "Portfolio Total": 50.0910328989
+    },
+    "58": {
+        "Buy Order Time": 1575448500000,
+        "Buy Price": 7131.2,
+        "Sell Order Time": 1575451680000,
+        "Sell Price": 7174.8,
+        "Share Quantity": 0.0701144267,
+        "Comission": 1.003056989,
+        "(%) Change": 0.5973320481,
+        "Portfolio Total": 53.0776931392
+    },
+    "59": {
+        "Buy Order Time": 1575452040000,
+        "Buy Price": 7178.85,
+        "Sell Order Time": 1575454500000,
+        "Sell Price": 7189.55,
+        "Share Quantity": 0.0696490385,
+        "Comission": 1.0007452447,
+        "(%) Change": 0.1351087536,
+        "Portfolio Total": 53.753236907
+    },
+    "60": {
+        "Buy Order Time": 1575455340000,
+        "Buy Price": 7193.4,
+        "Sell Order Time": 1575458400000,
+        "Sell Price": 7213.95,
+        "Share Quantity": 0.0695081603,
+        "Comission": 1.0014283927,
+        "(%) Change": 0.2717570496,
+        "Portfolio Total": 55.1120221551
+    },
+    "61": {
+        "Buy Order Time": 1575461040000,
+        "Buy Price": 7199.55,
+        "Sell Order Time": 1575463440000,
+        "Sell Price": 7210.3,
+        "Share Quantity": 0.069448785,
+        "Comission": 1.0007465744,
+        "(%) Change": 0.135414761,
+        "Portfolio Total": 55.7890959601
+    },
+    "62": {
+        "Buy Order Time": 1575464760000,
+        "Buy Price": 7212.25,
+        "Sell Order Time": 1575468420000,
+        "Sell Price": 7496.8,
+        "Share Quantity": 0.0693264931,
+        "Comission": 1.0197268536,
+        "(%) Change": 3.9312319061,
+        "Portfolio Total": 75.4452554905
+    },
+    "63": {
+        "Buy Order Time": 1575469560000,
+        "Buy Price": 7512.7,
+        "Sell Order Time": 1575470040000,
+        "Sell Price": 7499.85,
+        "Share Quantity": 0.0665539686,
+        "Comission": 0.9991447815,
+        "(%) Change": -0.1843431094,
+        "Portfolio Total": 74.5235399434
+    },
+    "64": {
+        "Buy Order Time": 1575472080000,
+        "Buy Price": 7475.75,
+        "Sell Order Time": 1575473100000,
+        "Sell Price": 7462.65,
+        "Share Quantity": 0.0668829214,
+        "Comission": 0.9991238337,
+        "(%) Change": -0.1885981184,
+        "Portfolio Total": 73.5805493516
+    },
+    "65": {
+        "Buy Order Time": 1575474660000,
+        "Buy Price": 7463.7,
+        "Sell Order Time": 1575476520000,
+        "Sell Price": 7467.85,
+        "Share Quantity": 0.0669909026,
+        "Comission": 1.0002780122,
+        "(%) Change": 0.0422005438,
+        "Portfolio Total": 73.7915520706
+    },
+    "66": {
+        "Buy Order Time": 1575479280000,
+        "Buy Price": 7462.05,
+        "Sell Order Time": 1575481860000,
+        "Sell Price": 7471.7,
+        "Share Quantity": 0.0670057156,
+        "Comission": 1.0006466052,
+        "(%) Change": 0.1159112227,
+        "Portfolio Total": 74.3711081842
+    },
+    "67": {
+        "Buy Order Time": 1575485520000,
+        "Buy Price": 7463.05,
+        "Sell Order Time": 1575488520000,
+        "Sell Price": 7478.2,
+        "Share Quantity": 0.0669967373,
+        "Comission": 1.0010150006,
+        "(%) Change": 0.1895871661,
+        "Portfolio Total": 75.3190440147
+    },
+    "68": {
+        "Buy Order Time": 1575490140000,
+        "Buy Price": 7478.2,
+        "Sell Order Time": 1575491160000,
+        "Sell Price": 7476.05,
+        "Share Quantity": 0.0668610093,
+        "Comission": 0.9998562488,
+        "(%) Change": -0.0421205136,
+        "Portfolio Total": 75.1084414466
+    },
+    "69": {
+        "Buy Order Time": 1575498060000,
+        "Buy Price": 7185.05,
+        "Sell Order Time": 1575502380000,
+        "Sell Price": 7223.3,
+        "Share Quantity": 0.0695889381,
+        "Comission": 1.0026617769,
+        "(%) Change": 0.5184005431,
+        "Portfolio Total": 77.7004441622
+    },
+    "70": {
+        "Buy Order Time": 1575505620000,
+        "Buy Price": 7203.95,
+        "Sell Order Time": 1575509820000,
+        "Sell Price": 7221.1,
+        "Share Quantity": 0.0694063673,
+        "Comission": 1.0011903192,
+        "(%) Change": 0.2241660434,
+        "Portfolio Total": 78.821274379
+    },
+    "71": {
+        "Buy Order Time": 1575511440000,
+        "Buy Price": 7220.05,
+        "Sell Order Time": 1575513360000,
+        "Sell Price": 7224.05,
+        "Share Quantity": 0.069251598,
+        "Comission": 1.0002770064,
+        "(%) Change": 0.0415471222,
+        "Portfolio Total": 79.0290099898
+    },
+    "72": {
+        "Buy Order Time": 1575516840000,
+        "Buy Price": 7201.05,
+        "Sell Order Time": 1575519540000,
+        "Sell Price": 7208.1,
+        "Share Quantity": 0.0694343186,
+        "Comission": 1.0004895119,
+        "(%) Change": 0.0840087277,
+        "Portfolio Total": 79.4490536284
+    },
+    "73": {
+        "Buy Order Time": 1575520560000,
+        "Buy Price": 7211.95,
+        "Sell Order Time": 1575522000000,
+        "Sell Price": 7210.2,
+        "Share Quantity": 0.0693293769,
+        "Comission": 0.9998786736,
+        "(%) Change": -0.038129475,
+        "Portfolio Total": 79.2584062533
+    },
+    "74": {
+        "Buy Order Time": 1575523260000,
+        "Buy Price": 7214.35,
+        "Sell Order Time": 1575526440000,
+        "Sell Price": 7308.6,
+        "Share Quantity": 0.0693063131,
+        "Comission": 1.00653212,
+        "(%) Change": 1.2924721961,
+        "Portfolio Total": 85.7207672339
+    },
+    "75": {
+        "Buy Order Time": 1575527760000,
+        "Buy Price": 7313.65,
+        "Sell Order Time": 1575529080000,
+        "Sell Price": 7308.65,
+        "Share Quantity": 0.0683653169,
+        "Comission": 0.9996581734,
+        "(%) Change": -0.0820337065,
+        "Portfolio Total": 85.3105987015
+    },
+    "76": {
+        "Buy Order Time": 1575532140000,
+        "Buy Price": 7289.2,
+        "Sell Order Time": 1575538320000,
+        "Sell Price": 7332.95,
+        "Share Quantity": 0.0685946332,
+        "Comission": 1.0030010152,
+        "(%) Change": 0.5864429428,
+        "Portfolio Total": 88.2428134154
+    },
+    "77": {
+        "Buy Order Time": 1575541020000,
+        "Buy Price": 7322.25,
+        "Sell Order Time": 1575545700000,
+        "Sell Price": 7370.35,
+        "Share Quantity": 0.0682850217,
+        "Comission": 1.0032845095,
+        "(%) Change": 0.6432000477,
+        "Portfolio Total": 91.4588136538
+    },
+    "78": {
+        "Buy Order Time": 1575546600000,
+        "Buy Price": 7376.65,
+        "Sell Order Time": 1575552600000,
+        "Sell Price": 7436.7,
+        "Share Quantity": 0.0677814455,
+        "Comission": 1.0040702758,
+        "(%) Change": 0.8004436936,
+        "Portfolio Total": 95.4610321218
+    },
+    "79": {
+        "Buy Order Time": 1575556680000,
+        "Buy Price": 7390.55,
+        "Sell Order Time": 1575558960000,
+        "Sell Price": 7395.35,
+        "Share Quantity": 0.0676539635,
+        "Comission": 1.000324739,
+        "(%) Change": 0.0514126183,
+        "Portfolio Total": 95.7180952132
+    },
+    "80": {
+        "Buy Order Time": 1575561960000,
+        "Buy Price": 7339.7,
+        "Sell Order Time": 1575562680000,
+        "Sell Price": 7331.4,
+        "Share Quantity": 0.0681226753,
+        "Comission": 0.9994345818,
+        "(%) Change": -0.1267004725,
+        "Portfolio Total": 95.0845928506
+    },
+    "81": {
+        "Buy Order Time": 1575566940000,
+        "Buy Price": 7302.45,
+        "Sell Order Time": 1575570720000,
+        "Sell Price": 7346.2,
+        "Share Quantity": 0.068470171,
+        "Comission": 1.00299557,
+        "(%) Change": 0.5853789404,
+        "Portfolio Total": 98.0114875524
+    },
+    "82": {
+        "Buy Order Time": 1575571620000,
+        "Buy Price": 7350.55,
+        "Sell Order Time": 1575577500000,
+        "Sell Price": 7388.2,
+        "Share Quantity": 0.0680221208,
+        "Comission": 1.0025610328,
+        "(%) Change": 0.498567304,
+        "Portfolio Total": 100.5043240726
+    },
+    "83": {
+        "Buy Order Time": 1575579420000,
+        "Buy Price": 7381.15,
+        "Sell Order Time": 1575581100000,
+        "Sell Price": 7379.3,
+        "Share Quantity": 0.0677401218,
+        "Comission": 0.9998746808,
+        "(%) Change": -0.0386101716,
+        "Portfolio Total": 100.3112732146
+    },
+    "84": {
+        "Buy Order Time": 1575583260000,
+        "Buy Price": 7365.2,
+        "Sell Order Time": 1575586380000,
+        "Sell Price": 7385.15,
+        "Share Quantity": 0.0678868191,
+        "Comission": 1.001354342,
+        "(%) Change": 0.257272656,
+        "Portfolio Total": 101.5976364945
+    },
+    "85": {
+        "Buy Order Time": 1575586800000,
+        "Buy Price": 7389.95,
+        "Sell Order Time": 1575589140000,
+        "Sell Price": 7409.4,
+        "Share Quantity": 0.0676594564,
+        "Comission": 1.0013159764,
+        "(%) Change": 0.2496455866,
+        "Portfolio Total": 102.8458644273
+    },
+    "86": {
+        "Buy Order Time": 1575593700000,
+        "Buy Price": 7356.8,
+        "Sell Order Time": 1575599520000,
+        "Sell Price": 7404.8,
+        "Share Quantity": 0.0679643323,
+        "Comission": 1.003262288,
+        "(%) Change": 0.6388203799,
+        "Portfolio Total": 106.039966327
+    },
+    "87": {
+        "Buy Order Time": 1575602460000,
+        "Buy Price": 7390.05,
+        "Sell Order Time": 1575604140000,
+        "Sell Price": 7390.6,
+        "Share Quantity": 0.0676585409,
+        "Comission": 1.0000372122,
+        "(%) Change": -0.0060897722,
+        "Portfolio Total": 106.0095174659
+    },
+    "88": {
+        "Buy Order Time": 1575606900000,
+        "Buy Price": 7368.2,
+        "Sell Order Time": 1575611340000,
+        "Sell Price": 7394.5,
+        "Share Quantity": 0.0678591786,
+        "Comission": 1.0017846964,
+        "(%) Change": 0.3433432223,
+        "Portfolio Total": 107.7262335773
+    },
+    "89": {
+        "Buy Order Time": 1575616500000,
+        "Buy Price": 7365.25,
+        "Sell Order Time": 1575618720000,
+        "Sell Price": 7369.2,
+        "Share Quantity": 0.0678863582,
+        "Comission": 1.0002681511,
+        "(%) Change": 0.0400493106,
+        "Portfolio Total": 107.9264801302
+    },
+    "90": {
+        "Buy Order Time": 1575620040000,
+        "Buy Price": 7369.65,
+        "Sell Order Time": 1575620460000,
+        "Sell Price": 7367.95,
+        "Share Quantity": 0.0678458271,
+        "Comission": 0.9998846621,
+        "(%) Change": -0.0366351816,
+        "Portfolio Total": 107.7433042222
+    },
+    "91": {
+        "Buy Order Time": 1575625200000,
+        "Buy Price": 7337.15,
+        "Sell Order Time": 1575627900000,
+        "Sell Price": 7376.9,
+        "Share Quantity": 0.0681463511,
+        "Comission": 1.0027088175,
+        "(%) Change": 0.5280973018,
+        "Portfolio Total": 110.3837907314
+    },
+    "92": {
+        "Buy Order Time": 1575631560000,
+        "Buy Price": 7343.75,
+        "Sell Order Time": 1575633660000,
+        "Sell Price": 7346.5,
+        "Share Quantity": 0.0680851064,
+        "Comission": 1.000187234,
+        "(%) Change": 0.0238272377,
+        "Portfolio Total": 110.5029269197
+    },
+    "93": {
+        "Buy Order Time": 1575634260000,
+        "Buy Price": 7348.6,
+        "Sell Order Time": 1575637680000,
+        "Sell Price": 7370.3,
+        "Share Quantity": 0.0680401709,
+        "Comission": 1.0014764717,
+        "(%) Change": 0.2816662157,
+        "Portfolio Total": 111.9112579983
+    },
+    "94": {
+        "Buy Order Time": 1575639300000,
+        "Buy Price": 7368.7,
+        "Sell Order Time": 1575639960000,
+        "Sell Price": 7365.9,
+        "Share Quantity": 0.0678545741,
+        "Comission": 0.9998100072,
+        "(%) Change": -0.0515668979,
+        "Portfolio Total": 111.6534235087
+    },
+    "95": {
+        "Buy Order Time": 1575641940000,
+        "Buy Price": 7361.2,
+        "Sell Order Time": 1575644640000,
+        "Sell Price": 7376.75,
+        "Share Quantity": 0.0679237081,
+        "Comission": 1.0010562137,
+        "(%) Change": 0.1976436422,
+        "Portfolio Total": 112.6416417195
+    },
+    "96": {
+        "Buy Order Time": 1575644760000,
+        "Buy Price": 7377.8,
+        "Sell Order Time": 1575647520000,
+        "Sell Price": 7393.25,
+        "Share Quantity": 0.0677708802,
+        "Comission": 1.0010470601,
+        "(%) Change": 0.1958436518,
+        "Portfolio Total": 113.6208599783
+    },
+    "97": {
+        "Buy Order Time": 1575649260000,
+        "Buy Price": 7389.2,
+        "Sell Order Time": 1575656520000,
+        "Sell Price": 7443.35,
+        "Share Quantity": 0.0676663238,
+        "Comission": 1.0036641314,
+        "(%) Change": 0.7192434346,
+        "Portfolio Total": 117.2170771512
+    },
+    "98": {
+        "Buy Order Time": 1575658320000,
+        "Buy Price": 7445.5,
+        "Sell Order Time": 1575659040000,
+        "Sell Price": 7442.9,
+        "Share Quantity": 0.0671546572,
+        "Comission": 0.9998253979,
+        "(%) Change": -0.0483490081,
+        "Portfolio Total": 116.9753321108
+    },
+    "99": {
+        "Buy Order Time": 1575661440000,
+        "Buy Price": 7432.25,
+        "Sell Order Time": 1575663000000,
+        "Sell Price": 7432.2,
+        "Share Quantity": 0.0672743786,
+        "Comission": 0.9999966363,
+        "(%) Change": -0.0141275742,
+        "Portfolio Total": 116.9046942396
+    },
+    "100": {
+        "Buy Order Time": 1575664920000,
+        "Buy Price": 7430.85,
+        "Sell Order Time": 1575664980000,
+        "Sell Price": 7430.65,
+        "Share Quantity": 0.0672870533,
+        "Comission": 0.9999865426,
+        "(%) Change": -0.0161487117,
+        "Portfolio Total": 116.8239506811
+    },
+    "101": {
+        "Buy Order Time": 1575665160000,
+        "Buy Price": 7430.45,
+        "Sell Order Time": 1575665220000,
+        "Sell Price": 7430.2,
+        "Share Quantity": 0.0672906755,
+        "Comission": 0.9999831773,
+        "(%) Change": -0.0168224425,
+        "Portfolio Total": 116.7398384687
+    },
+    "102": {
+        "Buy Order Time": 1575665460000,
+        "Buy Price": 7429.85,
+        "Sell Order Time": 1575665520000,
+        "Sell Price": 7429.7,
+        "Share Quantity": 0.0672961096,
+        "Comission": 0.9999899056,
+        "(%) Change": -0.0154779693,
+        "Portfolio Total": 116.662448622
+    },
+    "103": {
+        "Buy Order Time": 1575666420000,
+        "Buy Price": 7430.9,
+        "Sell Order Time": 1575669960000,
+        "Sell Price": 7459.3,
+        "Share Quantity": 0.0672866005,
+        "Comission": 1.0019109395,
+        "(%) Change": 0.3687048549,
+        "Portfolio Total": 118.5059728963
+    },
+    "104": {
+        "Buy Order Time": 1575670260000,
+        "Buy Price": 7463.25,
+        "Sell Order Time": 1575674220000,
+        "Sell Price": 7505.9,
+        "Share Quantity": 0.0669949419,
+        "Comission": 1.0028573343,
+        "(%) Change": 0.5580295805,
+        "Portfolio Total": 121.2961207988
+    },
+    "105": {
+        "Buy Order Time": 1575675240000,
+        "Buy Price": 7503.25,
+        "Sell Order Time": 1575675300000,
+        "Sell Price": 7503.35,
+        "Share Quantity": 0.0666377903,
+        "Comission": 1.0000066638,
+        "(%) Change": -0.0119948911,
+        "Portfolio Total": 121.2361463434
+    },
+    "106": {
+        "Buy Order Time": 1575675720000,
+        "Buy Price": 7506.4,
+        "Sell Order Time": 1575678600000,
+        "Sell Price": 7528.15,
+        "Share Quantity": 0.0666098263,
+        "Comission": 1.0014487637,
+        "(%) Change": 0.2764114787,
+        "Portfolio Total": 122.6182037369
+    },
+    "107": {
+        "Buy Order Time": 1575681120000,
+        "Buy Price": 7520.2,
+        "Sell Order Time": 1575682800000,
+        "Sell Price": 7521.25,
+        "Share Quantity": 0.0664875934,
+        "Comission": 1.000069812,
+        "(%) Change": 0.0006639476,
+        "Portfolio Total": 122.6215234749
+    },
+    "108": {
+        "Buy Order Time": 1575684960000,
+        "Buy Price": 7516.5,
+        "Sell Order Time": 1575689040000,
+        "Sell Price": 7542.85,
+        "Share Quantity": 0.066520322,
+        "Comission": 1.0017528105,
+        "(%) Change": 0.3372347128,
+        "Portfolio Total": 124.307697039
+    },
+    "109": {
+        "Buy Order Time": 1575691800000,
+        "Buy Price": 7534.2,
+        "Sell Order Time": 1575695580000,
+        "Sell Price": 7560.2,
+        "Share Quantity": 0.0663640466,
+        "Comission": 1.0017254652,
+        "(%) Change": 0.3317973313,
+        "Portfolio Total": 125.9666836955
+    },
+    "110": {
+        "Buy Order Time": 1575697200000,
+        "Buy Price": 7559.15,
+        "Sell Order Time": 1575698820000,
+        "Sell Price": 7557.6,
+        "Share Quantity": 0.0661450031,
+        "Comission": 0.9998974752,
+        "(%) Change": -0.0337325953,
+        "Portfolio Total": 125.7980207192
+    },
+    "111": {
+        "Buy Order Time": 1575705780000,
+        "Buy Price": 7522.05,
+        "Sell Order Time": 1575707640000,
+        "Sell Price": 7524.35,
+        "Share Quantity": 0.0664712412,
+        "Comission": 1.0001528839,
+        "(%) Change": 0.0172804902,
+        "Portfolio Total": 125.8844231704
+    },
+    "112": {
+        "Buy Order Time": 1575710220000,
+        "Buy Price": 7500.2,
+        "Sell Order Time": 1575713040000,
+        "Sell Price": 7503.5,
+        "Share Quantity": 0.0666648889,
+        "Comission": 1.0002199941,
+        "(%) Change": 0.0306629157,
+        "Portfolio Total": 126.0377377491
+    },
+    "113": {
+        "Buy Order Time": 1575715080000,
+        "Buy Price": 7497.85,
+        "Sell Order Time": 1575722520000,
+        "Sell Price": 7536.7,
+        "Share Quantity": 0.0666857833,
+        "Comission": 1.0025907427,
+        "(%) Change": 0.5047768261,
+        "Portfolio Total": 128.5616218797
+    },
+    "114": {
+        "Buy Order Time": 1575725940000,
+        "Buy Price": 7520.2,
+        "Sell Order Time": 1575727740000,
+        "Sell Price": 7520.8,
+        "Share Quantity": 0.0664875934,
+        "Comission": 1.0000398926,
+        "(%) Change": -0.0053195379,
+        "Portfolio Total": 128.53502419
+    },
+    "115": {
+        "Buy Order Time": 1575729240000,
+        "Buy Price": 7519.9,
+        "Sell Order Time": 1575732420000,
+        "Sell Price": 7531.85,
+        "Share Quantity": 0.0664902459,
+        "Comission": 1.0007945584,
+        "(%) Change": 0.1456030724,
+        "Portfolio Total": 129.263039552
+    },
+    "116": {
+        "Buy Order Time": 1575735840000,
+        "Buy Price": 7512.05,
+        "Sell Order Time": 1575737880000,
+        "Sell Price": 7516.05,
+        "Share Quantity": 0.0665597274,
+        "Comission": 1.0002662389,
+        "(%) Change": 0.0399322923,
+        "Portfolio Total": 129.4627010133
+    },
+    "117": {
+        "Buy Order Time": 1575739320000,
+        "Buy Price": 7515.5,
+        "Sell Order Time": 1575739500000,
+        "Sell Price": 7515.2,
+        "Share Quantity": 0.066529173,
+        "Comission": 0.9999800412,
+        "(%) Change": -0.0172973194,
+        "Portfolio Total": 129.3762144162
+    },
+    "118": {
+        "Buy Order Time": 1575742200000,
+        "Buy Price": 7509.25,
+        "Sell Order Time": 1575743880000,
+        "Sell Price": 7510.35,
+        "Share Quantity": 0.0665845457,
+        "Comission": 1.000073243,
+        "(%) Change": 0.0013307155,
+        "Portfolio Total": 129.3828679939
+    },
+    "119": {
+        "Buy Order Time": 1575744120000,
+        "Buy Price": 7510.6,
+        "Sell Order Time": 1575744360000,
+        "Sell Price": 7510.4,
+        "Share Quantity": 0.0665725774,
+        "Comission": 0.9999866855,
+        "(%) Change": -0.0159772413,
+        "Portfolio Total": 129.3029817874
+    },
+    "120": {
+        "Buy Order Time": 1575746580000,
+        "Buy Price": 7501.2,
+        "Sell Order Time": 1575749880000,
+        "Sell Price": 7511.15,
+        "Share Quantity": 0.0666560017,
+        "Comission": 1.0006632272,
+        "(%) Change": 0.1193054014,
+        "Portfolio Total": 129.8995087946
+    },
+    "121": {
+        "Buy Order Time": 1575756720000,
+        "Buy Price": 7492.9,
+        "Sell Order Time": 1575760740000,
+        "Sell Price": 7508.35,
+        "Share Quantity": 0.0667298376,
+        "Comission": 1.001030976,
+        "(%) Change": 0.1928354712,
+        "Portfolio Total": 130.8636861507
+    },
+    "122": {
+        "Buy Order Time": 1575764880000,
+        "Buy Price": 7492.3,
+        "Sell Order Time": 1575765300000,
+        "Sell Price": 7488.75,
+        "Share Quantity": 0.0667351815,
+        "Comission": 0.9997630901,
+        "(%) Change": -0.0607258531,
+        "Portfolio Total": 130.5600568853
+    },
+    "123": {
+        "Buy Order Time": 1575769920000,
+        "Buy Price": 7433.45,
+        "Sell Order Time": 1575771120000,
+        "Sell Price": 7429.7,
+        "Share Quantity": 0.0672635183,
+        "Comission": 0.9997477618,
+        "(%) Change": -0.0638969491,
+        "Portfolio Total": 130.2405721399
+    },
+    "124": {
+        "Buy Order Time": 1575774360000,
+        "Buy Price": 7401.35,
+        "Sell Order Time": 1575775020000,
+        "Sell Price": 7399.25,
+        "Share Quantity": 0.0675552433,
+        "Comission": 0.999858134,
+        "(%) Change": -0.0418823341,
+        "Portfolio Total": 130.0311604695
+    },
+    "125": {
+        "Buy Order Time": 1575777600000,
+        "Buy Price": 7396.4,
+        "Sell Order Time": 1575777780000,
+        "Sell Price": 7396.1,
+        "Share Quantity": 0.0676004543,
+        "Comission": 0.9999797199,
+        "(%) Change": -0.0175758439,
+        "Portfolio Total": 129.9432812499
+    },
+    "126": {
+        "Buy Order Time": 1575779880000,
+        "Buy Price": 7393.55,
+        "Sell Order Time": 1575783600000,
+        "Sell Price": 7422.8,
+        "Share Quantity": 0.0676265123,
+        "Comission": 1.0019780755,
+        "(%) Change": 0.3820630404,
+        "Portfolio Total": 131.8535964519
+    },
+    "127": {
+        "Buy Order Time": 1575785400000,
+        "Buy Price": 7421.45,
+        "Sell Order Time": 1575788160000,
+        "Sell Price": 7434.35,
+        "Share Quantity": 0.067372279,
+        "Comission": 1.0008691024,
+        "(%) Change": 0.1603343133,
+        "Portfolio Total": 132.6552680187
+    },
+    "128": {
+        "Buy Order Time": 1575788580000,
+        "Buy Price": 7436.6,
+        "Sell Order Time": 1575791400000,
+        "Sell Price": 7441.3,
+        "Share Quantity": 0.0672350268,
+        "Comission": 1.0003160046,
+        "(%) Change": 0.0497496705,
+        "Portfolio Total": 132.9040163711
+    },
+    "129": {
+        "Buy Order Time": 1575795300000,
+        "Buy Price": 7425.9,
+        "Sell Order Time": 1575800700000,
+        "Sell Price": 7480.35,
+        "Share Quantity": 0.0673319059,
+        "Comission": 1.0036662223,
+        "(%) Change": 0.7197287033,
+        "Portfolio Total": 136.5026598875
+    },
+    "130": {
+        "Buy Order Time": 1575801360000,
+        "Buy Price": 7483.3,
+        "Sell Order Time": 1575806100000,
+        "Sell Price": 7516.15,
+        "Share Quantity": 0.0668154424,
+        "Comission": 1.0021948873,
+        "(%) Change": 0.4255850375,
+        "Portfolio Total": 138.6305850751
+    },
+    "131": {
+        "Buy Order Time": 1575810840000,
+        "Buy Price": 7506.3,
+        "Sell Order Time": 1575814320000,
+        "Sell Price": 7516.45,
+        "Share Quantity": 0.0666107137,
+        "Comission": 1.0006760987,
+        "(%) Change": 0.1218885989,
+        "Portfolio Total": 139.2400280698
+    },
+    "132": {
+        "Buy Order Time": 1575816360000,
+        "Buy Price": 7512.95,
+        "Sell Order Time": 1575820380000,
+        "Sell Price": 7534.6,
+        "Share Quantity": 0.066551754,
+        "Comission": 1.0014408455,
+        "(%) Change": 0.2748395657,
+        "Portfolio Total": 140.6142258985
+    },
+    "133": {
+        "Buy Order Time": 1575820680000,
+        "Buy Price": 7536.15,
+        "Sell Order Time": 1575821220000,
+        "Sell Price": 7533.25,
+        "Share Quantity": 0.0663468747,
+        "Comission": 0.9998075941,
+        "(%) Change": -0.0517480092,
+        "Portfolio Total": 140.3554858526
+    },
+    "134": {
+        "Buy Order Time": 1575824880000,
+        "Buy Price": 7512.25,
+        "Sell Order Time": 1575831300000,
+        "Sell Price": 7534.5,
+        "Share Quantity": 0.0665579553,
+        "Comission": 1.0014809145,
+        "(%) Change": 0.2828515969,
+        "Portfolio Total": 141.7697438369
+    },
+    "135": {
+        "Buy Order Time": 1575834660000,
+        "Buy Price": 7513.5,
+        "Sell Order Time": 1575836280000,
+        "Sell Price": 7513.4,
+        "Share Quantity": 0.0665468823,
+        "Comission": 0.9999933453,
+        "(%) Change": -0.0146402255,
+        "Portfolio Total": 141.6965427092
+    },
+    "136": {
+        "Buy Order Time": 1575837660000,
+        "Buy Price": 7514.45,
+        "Sell Order Time": 1575842820000,
+        "Sell Price": 7531.9,
+        "Share Quantity": 0.0665384692,
+        "Comission": 1.0011610963,
+        "(%) Change": 0.2188961122,
+        "Portfolio Total": 142.7910232703
+    },
+    "137": {
+        "Buy Order Time": 1575845220000,
+        "Buy Price": 7526.05,
+        "Sell Order Time": 1575847320000,
+        "Sell Price": 7531.85,
+        "Share Quantity": 0.0664359126,
+        "Comission": 1.0003853283,
+        "(%) Change": 0.0637733562,
+        "Portfolio Total": 143.1098900511
+    },
+    "138": {
+        "Buy Order Time": 1575850980000,
+        "Buy Price": 7515.25,
+        "Sell Order Time": 1575853620000,
+        "Sell Price": 7524.5,
+        "Share Quantity": 0.0665313862,
+        "Comission": 1.0006154153,
+        "(%) Change": 0.1097685983,
+        "Portfolio Total": 143.6587330427
+    },
+    "139": {
+        "Buy Order Time": 1575860100000,
+        "Buy Price": 7481.85,
+        "Sell Order Time": 1575862260000,
+        "Sell Price": 7489.5,
+        "Share Quantity": 0.0668283914,
+        "Comission": 1.0005112372,
+        "(%) Change": 0.0888749275,
+        "Portfolio Total": 144.1031076801
+    },
+    "140": {
+        "Buy Order Time": 1575863100000,
+        "Buy Price": 7492.15,
+        "Sell Order Time": 1575867420000,
+        "Sell Price": 7513.55,
+        "Share Quantity": 0.0667365176,
+        "Comission": 1.0014281615,
+        "(%) Change": 0.2722659295,
+        "Portfolio Total": 145.4644373277
+    },
+    "141": {
+        "Buy Order Time": 1575869460000,
+        "Buy Price": 7508.15,
+        "Sell Order Time": 1575870600000,
+        "Sell Price": 7504.55,
+        "Share Quantity": 0.0665943009,
+        "Comission": 0.9997602605,
+        "(%) Change": -0.0612635637,
+        "Portfolio Total": 145.1581195091
+    },
+    "142": {
+        "Buy Order Time": 1575873240000,
+        "Buy Price": 7482.7,
+        "Sell Order Time": 1575873540000,
+        "Sell Price": 7481.1,
+        "Share Quantity": 0.0668208,
+        "Comission": 0.9998930867,
+        "(%) Change": -0.0347453872,
+        "Portfolio Total": 144.9843925732
+    },
+    "143": {
+        "Buy Order Time": 1575874200000,
+        "Buy Price": 7482.35,
+        "Sell Order Time": 1575875820000,
+        "Sell Price": 7488.0,
+        "Share Quantity": 0.0668239256,
+        "Comission": 1.0003775552,
+        "(%) Change": 0.0621412049,
+        "Portfolio Total": 145.2950985977
+    },
+    "144": {
+        "Buy Order Time": 1575880740000,
+        "Buy Price": 7464.55,
+        "Sell Order Time": 1575881880000,
+        "Sell Price": 7461.25,
+        "Share Quantity": 0.0669832743,
+        "Comission": 0.9997789552,
+        "(%) Change": -0.0576026546,
+        "Portfolio Total": 145.0070853246
+    },
+    "145": {
+        "Buy Order Time": 1575882420000,
+        "Buy Price": 7463.0,
+        "Sell Order Time": 1575884460000,
+        "Sell Price": 7466.4,
+        "Share Quantity": 0.0669971861,
+        "Comission": 1.0002277904,
+        "(%) Change": 0.0321555971,
+        "Portfolio Total": 145.1678633099
+    },
+    "146": {
+        "Buy Order Time": 1575887220000,
+        "Buy Price": 7461.95,
+        "Sell Order Time": 1575891780000,
+        "Sell Price": 7484.65,
+        "Share Quantity": 0.0670066136,
+        "Comission": 1.0015210501,
+        "(%) Change": 0.2907883187,
+        "Portfolio Total": 146.6218049036
+    },
+    "147": {
+        "Buy Order Time": 1575894300000,
+        "Buy Price": 7478.8,
+        "Sell Order Time": 1575899880000,
+        "Sell Price": 7510.45,
+        "Share Quantity": 0.0668556453,
+        "Comission": 1.0021159812,
+        "(%) Change": 0.4097968126,
+        "Portfolio Total": 148.6707889665
+    },
+    "148": {
+        "Buy Order Time": 1575901320000,
+        "Buy Price": 7511.15,
+        "Sell Order Time": 1575905040000,
+        "Sell Price": 7533.45,
+        "Share Quantity": 0.0665677027,
+        "Comission": 1.0014844598,
+        "(%) Change": 0.28355865,
+        "Portfolio Total": 150.0885822165
+    },
+    "149": {
+        "Buy Order Time": 1575909480000,
+        "Buy Price": 7433.4,
+        "Sell Order Time": 1575909840000,
+        "Sell Price": 7426.1,
+        "Share Quantity": 0.0672639707,
+        "Comission": 0.999508973,
+        "(%) Change": -0.1116515857,
+        "Portfolio Total": 149.5303242879
+    },
+    "150": {
+        "Buy Order Time": 1575911700000,
+        "Buy Price": 7424.9,
+        "Sell Order Time": 1575914040000,
+        "Sell Price": 7434.7,
+        "Share Quantity": 0.0673409743,
+        "Comission": 1.0006599415,
+        "(%) Change": 0.1185112265,
+        "Portfolio Total": 150.1228804206
+    },
+    "151": {
+        "Buy Order Time": 1575914640000,
+        "Buy Price": 7437.3,
+        "Sell Order Time": 1575918360000,
+        "Sell Price": 7443.7,
+        "Share Quantity": 0.0672286986,
+        "Comission": 1.0004302637,
+        "(%) Change": 0.0726012093,
+        "Portfolio Total": 150.4858864669
+    },
+    "152": {
+        "Buy Order Time": 1575926580000,
+        "Buy Price": 7317.6,
+        "Sell Order Time": 1575926640000,
+        "Sell Price": 7317.6,
+        "Share Quantity": 0.0683284137,
+        "Comission": 1.0,
+        "(%) Change": -0.0136656827,
+        "Portfolio Total": 150.4175580532
+    },
+    "153": {
+        "Buy Order Time": 1575926760000,
+        "Buy Price": 7318.65,
+        "Sell Order Time": 1575929820000,
+        "Sell Price": 7336.05,
+        "Share Quantity": 0.0683186107,
+        "Comission": 1.0011887438,
+        "(%) Change": 0.2240688003,
+        "Portfolio Total": 151.5379020549
+    },
+    "154": {
+        "Buy Order Time": 1575931680000,
+        "Buy Price": 7332.9,
+        "Sell Order Time": 1575933180000,
+        "Sell Price": 7334.15,
+        "Share Quantity": 0.0681858473,
+        "Comission": 1.0000852323,
+        "(%) Change": 0.00340813,
+        "Portfolio Total": 151.5549427051
+    },
+    "155": {
+        "Buy Order Time": 1575933540000,
+        "Buy Price": 7335.05,
+        "Sell Order Time": 1575936240000,
+        "Sell Price": 7341.95,
+        "Share Quantity": 0.0681658612,
+        "Comission": 1.0004703444,
+        "(%) Change": 0.0804293039,
+        "Portfolio Total": 151.9570892246
+    },
+    "156": {
+        "Buy Order Time": 1575939240000,
+        "Buy Price": 7331.65,
+        "Sell Order Time": 1575942600000,
+        "Sell Price": 7354.9,
+        "Share Quantity": 0.0681974726,
+        "Comission": 1.0015855912,
+        "(%) Change": 0.3034571264,
+        "Portfolio Total": 153.4743748567
+    },
+    "157": {
+        "Buy Order Time": 1575942780000,
+        "Buy Price": 7356.55,
+        "Sell Order Time": 1575945540000,
+        "Sell Price": 7374.35,
+        "Share Quantity": 0.067966642,
+        "Comission": 1.0012098062,
+        "(%) Change": 0.2283514717,
+        "Portfolio Total": 154.6161322153
+    },
+    "158": {
+        "Buy Order Time": 1575948240000,
+        "Buy Price": 7372.7,
+        "Sell Order Time": 1575951600000,
+        "Sell Price": 7378.8,
+        "Share Quantity": 0.0678177601,
+        "Comission": 1.0004136883,
+        "(%) Change": 0.0691685042,
+        "Portfolio Total": 154.9619747365
+    },
+    "159": {
+        "Buy Order Time": 1575952380000,
+        "Buy Price": 7380.65,
+        "Sell Order Time": 1575954300000,
+        "Sell Price": 7383.45,
+        "Share Quantity": 0.0677447108,
+        "Comission": 1.0001896852,
+        "(%) Change": 0.0243855259,
+        "Portfolio Total": 155.0839023658
+    },
+    "160": {
+        "Buy Order Time": 1575959340000,
+        "Buy Price": 7357.5,
+        "Sell Order Time": 1575961500000,
+        "Sell Price": 7360.75,
+        "Share Quantity": 0.0679578661,
+        "Comission": 1.0002208631,
+        "(%) Change": 0.0305780379,
+        "Portfolio Total": 155.2367925552
+    },
+    "161": {
+        "Buy Order Time": 1575964080000,
+        "Buy Price": 7351.3,
+        "Sell Order Time": 1575965700000,
+        "Sell Price": 7350.15,
+        "Share Quantity": 0.068015181,
+        "Comission": 0.9999217825,
+        "(%) Change": -0.0292454638,
+        "Portfolio Total": 155.0905652361
+    },
+    "162": {
+        "Buy Order Time": 1575969300000,
+        "Buy Price": 7317.5,
+        "Sell Order Time": 1575970980000,
+        "Sell Price": 7318.55,
+        "Share Quantity": 0.0683293475,
+        "Comission": 1.0000717458,
+        "(%) Change": 0.000682313,
+        "Portfolio Total": 155.0939768011
+    },
+    "163": {
+        "Buy Order Time": 1575972540000,
+        "Buy Price": 7319.25,
+        "Sell Order Time": 1575976260000,
+        "Sell Price": 7342.7,
+        "Share Quantity": 0.0683130102,
+        "Comission": 1.0016019401,
+        "(%) Change": 0.3067035292,
+        "Portfolio Total": 156.627494447
+    },
+    "164": {
+        "Buy Order Time": 1575976320000,
+        "Buy Price": 7343.15,
+        "Sell Order Time": 1575978720000,
+        "Sell Price": 7351.9,
+        "Share Quantity": 0.0680906695,
+        "Comission": 1.0005957934,
+        "(%) Change": 0.1055324242,
+        "Portfolio Total": 157.1551565679
+    },
+    "165": {
+        "Buy Order Time": 1575981480000,
+        "Buy Price": 7339.7,
+        "Sell Order Time": 1575983400000,
+        "Sell Price": 7342.7,
+        "Share Quantity": 0.0681226753,
+        "Comission": 1.000204368,
+        "(%) Change": 0.0272462857,
+        "Portfolio Total": 157.2913879965
+    },
+    "166": {
+        "Buy Order Time": 1575988140000,
+        "Buy Price": 7320.45,
+        "Sell Order Time": 1575989880000,
+        "Sell Price": 7324.15,
+        "Share Quantity": 0.068301812,
+        "Comission": 1.0002527167,
+        "(%) Change": 0.0368795263,
+        "Portfolio Total": 157.475785628
+    },
+    "167": {
+        "Buy Order Time": 1575997620000,
+        "Buy Price": 7232.15,
+        "Sell Order Time": 1575999540000,
+        "Sell Price": 7236.85,
+        "Share Quantity": 0.0691357342,
+        "Comission": 1.000324938,
+        "(%) Change": 0.0511559503,
+        "Portfolio Total": 157.7315653797
+    },
+    "168": {
+        "Buy Order Time": 1576002900000,
+        "Buy Price": 7204.6,
+        "Sell Order Time": 1576006200000,
+        "Sell Price": 7214.45,
+        "Share Quantity": 0.0694001055,
+        "Comission": 1.000683591,
+        "(%) Change": 0.1228286985,
+        "Portfolio Total": 158.3457088719
+    },
+    "169": {
+        "Buy Order Time": 1576006980000,
+        "Buy Price": 7218.3,
+        "Sell Order Time": 1576008720000,
+        "Sell Price": 7218.15,
+        "Share Quantity": 0.0692683873,
+        "Comission": 0.9999896097,
+        "(%) Change": -0.0159315851,
+        "Portfolio Total": 158.2660509463
+    },
+    "170": {
+        "Buy Order Time": 1576011300000,
+        "Buy Price": 7200.25,
+        "Sell Order Time": 1576015260000,
+        "Sell Price": 7226.15,
+        "Share Quantity": 0.0694420333,
+        "Comission": 1.0017985487,
+        "(%) Change": 0.3457963467,
+        "Portfolio Total": 159.9950326796
+    },
+    "171": {
+        "Buy Order Time": 1576016040000,
+        "Buy Price": 7228.6,
+        "Sell Order Time": 1576021320000,
+        "Sell Price": 7242.3,
+        "Share Quantity": 0.0691696871,
+        "Comission": 1.0009476247,
+        "(%) Change": 0.1756778958,
+        "Portfolio Total": 160.8734221586
+    },
+    "172": {
+        "Buy Order Time": 1576023660000,
+        "Buy Price": 7234.5,
+        "Sell Order Time": 1576026300000,
+        "Sell Price": 7238.5,
+        "Share Quantity": 0.0691132767,
+        "Comission": 1.0002764531,
+        "(%) Change": 0.0414641447,
+        "Portfolio Total": 161.080742882
+    },
+    "173": {
+        "Buy Order Time": 1576027920000,
+        "Buy Price": 7238.25,
+        "Sell Order Time": 1576031040000,
+        "Sell Price": 7256.35,
+        "Share Quantity": 0.0690774704,
+        "Comission": 1.0012503022,
+        "(%) Change": 0.2362276752,
+        "Portfolio Total": 162.2618812578
+    },
+    "174": {
+        "Buy Order Time": 1576032360000,
+        "Buy Price": 7259.1,
+        "Sell Order Time": 1576032960000,
+        "Sell Price": 7256.0,
+        "Share Quantity": 0.0688790621,
+        "Comission": 0.9997864749,
+        "(%) Change": -0.0564778895,
+        "Portfolio Total": 161.9794918105
+    },
+    "175": {
+        "Buy Order Time": 1576037460000,
+        "Buy Price": 7211.9,
+        "Sell Order Time": 1576039500000,
+        "Sell Price": 7217.45,
+        "Share Quantity": 0.0693298576,
+        "Comission": 1.0003847807,
+        "(%) Change": 0.0630848351,
+        "Portfolio Total": 162.2949159857
+    },
+    "176": {
+        "Buy Order Time": 1576040760000,
+        "Buy Price": 7219.35,
+        "Sell Order Time": 1576042440000,
+        "Sell Price": 7219.1,
+        "Share Quantity": 0.0692583127,
+        "Comission": 0.9999826854,
+        "(%) Change": -0.0173143383,
+        "Portfolio Total": 162.208344294
+    },
+    "177": {
+        "Buy Order Time": 1576045260000,
+        "Buy Price": 7206.1,
+        "Sell Order Time": 1576046640000,
+        "Sell Price": 7204.1,
+        "Share Quantity": 0.0693856594,
+        "Comission": 0.9998612287,
+        "(%) Change": -0.0416294699,
+        "Portfolio Total": 162.0001969446
+    },
+    "178": {
+        "Buy Order Time": 1576046820000,
+        "Buy Price": 7204.6,
+        "Sell Order Time": 1576050660000,
+        "Sell Price": 7217.55,
+        "Share Quantity": 0.0694001055,
+        "Comission": 1.0008987314,
+        "(%) Change": 0.1658537777,
+        "Portfolio Total": 162.8294658332
+    },
+    "179": {
+        "Buy Order Time": 1576050840000,
+        "Buy Price": 7217.5,
+        "Sell Order Time": 1576053540000,
+        "Sell Price": 7223.95,
+        "Share Quantity": 0.0692760651,
+        "Comission": 1.0004468306,
+        "(%) Change": 0.07550472,
+        "Portfolio Total": 163.2069894334
+    },
+    "180": {
+        "Buy Order Time": 1576054860000,
+        "Buy Price": 7224.65,
+        "Sell Order Time": 1576058640000,
+        "Sell Price": 7238.85,
+        "Share Quantity": 0.0692075049,
+        "Comission": 1.0009827466,
+        "(%) Change": 0.1826942101,
+        "Portfolio Total": 164.1204604841
+    },
+    "181": {
+        "Buy Order Time": 1576062060000,
+        "Buy Price": 7215.95,
+        "Sell Order Time": 1576064520000,
+        "Sell Price": 7228.0,
+        "Share Quantity": 0.0692909458,
+        "Comission": 1.0008349559,
+        "(%) Change": 0.1531214191,
+        "Portfolio Total": 164.8860675798
+    },
+    "182": {
+        "Buy Order Time": 1576065060000,
+        "Buy Price": 7230.15,
+        "Sell Order Time": 1576070340000,
+        "Sell Price": 7247.7,
+        "Share Quantity": 0.0691548585,
+        "Comission": 1.0012136678,
+        "(%) Change": 0.2288857953,
+        "Portfolio Total": 166.0304965565
+    },
+    "183": {
+        "Buy Order Time": 1576072380000,
+        "Buy Price": 7240.2,
+        "Sell Order Time": 1576074240000,
+        "Sell Price": 7242.1,
+        "Share Quantity": 0.0690588658,
+        "Comission": 1.0001312118,
+        "(%) Change": 0.0124287836,
+        "Portfolio Total": 166.0926404744
+    },
+    "184": {
+        "Buy Order Time": 1576080960000,
+        "Buy Price": 7171.95,
+        "Sell Order Time": 1576084140000,
+        "Sell Price": 7194.05,
+        "Share Quantity": 0.0697160465,
+        "Comission": 1.0015407246,
+        "(%) Change": 0.2941802338,
+        "Portfolio Total": 167.5635416432
+    },
+    "185": {
+        "Buy Order Time": 1576087200000,
+        "Buy Price": 7192.15,
+        "Sell Order Time": 1576089420000,
+        "Sell Price": 7197.15,
+        "Share Quantity": 0.0695202408,
+        "Comission": 1.0003476012,
+        "(%) Change": 0.0556113596,
+        "Portfolio Total": 167.8415984412
+    },
+    "186": {
+        "Buy Order Time": 1576091640000,
+        "Buy Price": 7190.8,
+        "Sell Order Time": 1576093560000,
+        "Sell Price": 7194.15,
+        "Share Quantity": 0.0695332925,
+        "Comission": 1.0002329365,
+        "(%) Change": 0.0326774081,
+        "Portfolio Total": 168.0049854818
+    },
+    "187": {
+        "Buy Order Time": 1576094940000,
+        "Buy Price": 7195.6,
+        "Sell Order Time": 1576095720000,
+        "Sell Price": 7194.55,
+        "Share Quantity": 0.0694869087,
+        "Comission": 0.9999270387,
+        "(%) Change": -0.0284886186,
+        "Portfolio Total": 167.8625423889
+    },
+    "188": {
+        "Buy Order Time": 1576099200000,
+        "Buy Price": 7180.8,
+        "Sell Order Time": 1576103340000,
+        "Sell Price": 7192.25,
+        "Share Quantity": 0.0696301248,
+        "Comission": 1.0007972649,
+        "(%) Change": 0.1455158581,
+        "Portfolio Total": 168.5901216791
+    },
+    "189": {
+        "Buy Order Time": 1576105140000,
+        "Buy Price": 7192.55,
+        "Sell Order Time": 1576108320000,
+        "Sell Price": 7203.0,
+        "Share Quantity": 0.0695163746,
+        "Comission": 1.0007264461,
+        "(%) Change": 0.131375848,
+        "Portfolio Total": 169.247000919
+    },
+    "190": {
+        "Buy Order Time": 1576108680000,
+        "Buy Price": 7203.2,
+        "Sell Order Time": 1576110240000,
+        "Sell Price": 7207.1,
+        "Share Quantity": 0.069413594,
+        "Comission": 1.000270713,
+        "(%) Change": 0.0402561263,
+        "Portfolio Total": 169.4482815504
+    },
+    "191": {
+        "Buy Order Time": 1576113720000,
+        "Buy Price": 7140.35,
+        "Sell Order Time": 1576114620000,
+        "Sell Price": 7139.7,
+        "Share Quantity": 0.0700245786,
+        "Comission": 0.999954484,
+        "(%) Change": -0.0231074735,
+        "Portfolio Total": 169.3327441829
+    },
+    "192": {
+        "Buy Order Time": 1576116360000,
+        "Buy Price": 7138.15,
+        "Sell Order Time": 1576119120000,
+        "Sell Price": 7161.65,
+        "Share Quantity": 0.0700461604,
+        "Comission": 1.0016460848,
+        "(%) Change": 0.3151846615,
+        "Portfolio Total": 170.9086674904
+    },
+    "193": {
+        "Buy Order Time": 1576121100000,
+        "Buy Price": 7159.25,
+        "Sell Order Time": 1576123740000,
+        "Sell Price": 7162.05,
+        "Share Quantity": 0.0698397178,
+        "Comission": 1.0001955512,
+        "(%) Change": 0.025139567,
+        "Portfolio Total": 171.0343653253
+    },
+    "194": {
+        "Buy Order Time": 1576125660000,
+        "Buy Price": 7161.15,
+        "Sell Order Time": 1576126440000,
+        "Sell Price": 7159.25,
+        "Share Quantity": 0.0698211879,
+        "Comission": 0.9998673397,
+        "(%) Change": -0.0404944365,
+        "Portfolio Total": 170.8318931427
+    },
+    "195": {
+        "Buy Order Time": 1576129080000,
+        "Buy Price": 7155.15,
+        "Sell Order Time": 1576131540000,
+        "Sell Price": 7160.35,
+        "Share Quantity": 0.069879737,
+        "Comission": 1.0003633746,
+        "(%) Change": 0.0586939006,
+        "Portfolio Total": 171.1253626455
+    },
+    "196": {
+        "Buy Order Time": 1576132980000,
+        "Buy Price": 7159.7,
+        "Sell Order Time": 1576135680000,
+        "Sell Price": 7163.85,
+        "Share Quantity": 0.0698353283,
+        "Comission": 1.0002898166,
+        "(%) Change": 0.0439922089,
+        "Portfolio Total": 171.3453236902
+    },
+    "197": {
+        "Buy Order Time": 1576140600000,
+        "Buy Price": 7131.4,
+        "Sell Order Time": 1576146180000,
+        "Sell Price": 7160.4,
+        "Share Quantity": 0.0701124604,
+        "Comission": 1.0020332614,
+        "(%) Change": 0.3926012668,
+        "Portfolio Total": 173.3083300241
+    },
+    "198": {
+        "Buy Order Time": 1576147680000,
+        "Buy Price": 7160.1,
+        "Sell Order Time": 1576151460000,
+        "Sell Price": 7185.05,
+        "Share Quantity": 0.0698314269,
+        "Comission": 1.0017422941,
+        "(%) Change": 0.3344682016,
+        "Portfolio Total": 174.9806710323
+    },
+    "199": {
+        "Buy Order Time": 1576152300000,
+        "Buy Price": 7188.75,
+        "Sell Order Time": 1576154460000,
+        "Sell Price": 7198.1,
+        "Share Quantity": 0.0695531212,
+        "Comission": 1.0006503217,
+        "(%) Change": 0.116144666,
+        "Portfolio Total": 175.5613943624
+    },
+    "200": {
+        "Buy Order Time": 1576156440000,
+        "Buy Price": 7194.05,
+        "Sell Order Time": 1576157280000,
+        "Sell Price": 7190.8,
+        "Share Quantity": 0.06950188,
+        "Comission": 0.9997741189,
+        "(%) Change": -0.0590734582,
+        "Portfolio Total": 175.2660270714
+    },
+    "201": {
+        "Buy Order Time": 1576159320000,
+        "Buy Price": 7187.95,
+        "Sell Order Time": 1576161240000,
+        "Sell Price": 7193.1,
+        "Share Quantity": 0.0695608623,
+        "Comission": 1.0003582384,
+        "(%) Change": 0.0577305318,
+        "Portfolio Total": 175.5546797305
+    },
+    "202": {
+        "Buy Order Time": 1576163880000,
+        "Buy Price": 7159.85,
+        "Sell Order Time": 1576170240000,
+        "Sell Price": 7200.25,
+        "Share Quantity": 0.0698338652,
+        "Comission": 1.0028212882,
+        "(%) Change": 0.5502514538,
+        "Portfolio Total": 178.3059369993
+    },
+    "203": {
+        "Buy Order Time": 1576172160000,
+        "Buy Price": 7199.75,
+        "Sell Order Time": 1576174080000,
+        "Sell Price": 7201.3,
+        "Share Quantity": 0.0694468558,
+        "Comission": 1.0001076426,
+        "(%) Change": 0.007637659,
+        "Portfolio Total": 178.3441252945
+    },
+    "204": {
+        "Buy Order Time": 1576175160000,
+        "Buy Price": 7204.05,
+        "Sell Order Time": 1576176780000,
+        "Sell Price": 7204.85,
+        "Share Quantity": 0.0694054039,
+        "Comission": 1.0000555243,
+        "(%) Change": -0.0027769869,
+        "Portfolio Total": 178.3302403601
+    },
+    "205": {
+        "Buy Order Time": 1576177440000,
+        "Buy Price": 7208.65,
+        "Sell Order Time": 1576178340000,
+        "Sell Price": 7208.0,
+        "Share Quantity": 0.0693611148,
+        "Comission": 0.9999549153,
+        "(%) Change": -0.0228885424,
+        "Portfolio Total": 178.2157976478
+    },
+    "206": {
+        "Buy Order Time": 1576179240000,
+        "Buy Price": 7208.05,
+        "Sell Order Time": 1576179360000,
+        "Sell Price": 7208.35,
+        "Share Quantity": 0.0693668884,
+        "Comission": 1.0000208101,
+        "(%) Change": -0.0097116531,
+        "Portfolio Total": 178.1672393824
+    },
+    "207": {
+        "Buy Order Time": 1576181580000,
+        "Buy Price": 7206.45,
+        "Sell Order Time": 1576186200000,
+        "Sell Price": 7240.35,
+        "Share Quantity": 0.0693822895,
+        "Comission": 1.0023520596,
+        "(%) Change": 0.4565028265,
+        "Portfolio Total": 180.4497535149
+    },
+    "208": {
+        "Buy Order Time": 1576192380000,
+        "Buy Price": 7201.05,
+        "Sell Order Time": 1576193940000,
+        "Sell Price": 7201.45,
+        "Share Quantity": 0.0694343186,
+        "Comission": 1.0000277737,
+        "(%) Change": -0.0083325039,
+        "Portfolio Total": 180.4080909953
+    },
+    "209": {
+        "Buy Order Time": 1576194840000,
+        "Buy Price": 7204.25,
+        "Sell Order Time": 1576197780000,
+        "Sell Price": 7207.4,
+        "Share Quantity": 0.0694034771,
+        "Comission": 1.000218621,
+        "(%) Change": 0.0298404605,
+        "Portfolio Total": 180.557293298
+    },
+    "210": {
+        "Buy Order Time": 1576200840000,
+        "Buy Price": 7202.95,
+        "Sell Order Time": 1576201980000,
+        "Sell Price": 7201.35,
+        "Share Quantity": 0.0694160032,
+        "Comission": 0.9998889344,
+        "(%) Change": -0.0360947797,
+        "Portfolio Total": 180.3768193995
+    },
+    "211": {
+        "Buy Order Time": 1576202520000,
+        "Buy Price": 7202.1,
+        "Sell Order Time": 1576202640000,
+        "Sell Price": 7202.2,
+        "Share Quantity": 0.0694241957,
+        "Comission": 1.0000069424,
+        "(%) Change": -0.0124964516,
+        "Portfolio Total": 180.3143371414
+    },
+    "212": {
+        "Buy Order Time": 1576203240000,
+        "Buy Price": 7203.05,
+        "Sell Order Time": 1576205760000,
+        "Sell Price": 7210.3,
+        "Share Quantity": 0.0694150395,
+        "Comission": 1.000503259,
+        "(%) Change": 0.0867618126,
+        "Portfolio Total": 180.7481462043
+    },
+    "213": {
+        "Buy Order Time": 1576206720000,
+        "Buy Price": 7212.4,
+        "Sell Order Time": 1576212540000,
+        "Sell Price": 7234.65,
+        "Share Quantity": 0.0693250513,
+        "Comission": 1.0015424824,
+        "(%) Change": 0.2946100815,
+        "Portfolio Total": 182.2211966118
+    },
+    "214": {
+        "Buy Order Time": 1576215600000,
+        "Buy Price": 7224.95,
+        "Sell Order Time": 1576217100000,
+        "Sell Price": 7224.6,
+        "Share Quantity": 0.0692046312,
+        "Comission": 0.9999757784,
+        "(%) Change": -0.0186849152,
+        "Portfolio Total": 182.1277720359
+    },
+    "215": {
+        "Buy Order Time": 1576220280000,
+        "Buy Price": 7217.4,
+        "Sell Order Time": 1576224720000,
+        "Sell Price": 7236.75,
+        "Share Quantity": 0.069277025,
+        "Comission": 1.0013405104,
+        "(%) Change": 0.2542281083,
+        "Portfolio Total": 183.3989125775
+    },
+    "216": {
+        "Buy Order Time": 1576227780000,
+        "Buy Price": 7216.2,
+        "Sell Order Time": 1576231440000,
+        "Sell Price": 7221.35,
+        "Share Quantity": 0.0692885452,
+        "Comission": 1.000356836,
+        "(%) Change": 0.0575045476,
+        "Portfolio Total": 183.6864353155
+    },
+    "217": {
+        "Buy Order Time": 1576233420000,
+        "Buy Price": 7220.4,
+        "Sell Order Time": 1576233780000,
+        "Sell Price": 7219.9,
+        "Share Quantity": 0.0692482411,
+        "Comission": 0.9999653759,
+        "(%) Change": -0.0207739928,
+        "Portfolio Total": 183.5825653515
+    },
+    "218": {
+        "Buy Order Time": 1576233900000,
+        "Buy Price": 7220.15,
+        "Sell Order Time": 1576238820000,
+        "Sell Price": 7226.55,
+        "Share Quantity": 0.0692506388,
+        "Comission": 1.0004432041,
+        "(%) Change": 0.0747845515,
+        "Portfolio Total": 183.9564881091
+    },
+    "219": {
+        "Buy Order Time": 1576241100000,
+        "Buy Price": 7219.05,
+        "Sell Order Time": 1576246560000,
+        "Sell Price": 7232.45,
+        "Share Quantity": 0.0692611909,
+        "Comission": 1.0009281,
+        "(%) Change": 0.1717548971,
+        "Portfolio Total": 184.8152625947
+    },
+    "220": {
+        "Buy Order Time": 1576248360000,
+        "Buy Price": 7231.25,
+        "Sell Order Time": 1576248780000,
+        "Sell Price": 7229.65,
+        "Share Quantity": 0.0691443388,
+        "Comission": 0.9998893691,
+        "(%) Change": -0.0359535263,
+        "Portfolio Total": 184.6354949633
+    },
+    "221": {
+        "Buy Order Time": 1576249740000,
+        "Buy Price": 7230.7,
+        "Sell Order Time": 1576257540000,
+        "Sell Price": 7278.6,
+        "Share Quantity": 0.0691495982,
+        "Comission": 1.0033122658,
+        "(%) Change": 0.6485774231,
+        "Portfolio Total": 187.8783820789
+    },
+    "222": {
+        "Buy Order Time": 1576259760000,
+        "Buy Price": 7271.05,
+        "Sell Order Time": 1576261920000,
+        "Sell Price": 7274.45,
+        "Share Quantity": 0.0687658591,
+        "Comission": 1.0002338039,
+        "(%) Change": 0.0330043968,
+        "Portfolio Total": 188.0434040631
+    },
+    "223": {
+        "Buy Order Time": 1576265460000,
+        "Buy Price": 7249.15,
+        "Sell Order Time": 1576267620000,
+        "Sell Price": 7257.3,
+        "Share Quantity": 0.0689736038,
+        "Comission": 1.0005621349,
+        "(%) Change": 0.0986244989,
+        "Portfolio Total": 188.5365265578
+    },
+    "224": {
+        "Buy Order Time": 1576267860000,
+        "Buy Price": 7258.15,
+        "Sell Order Time": 1576267920000,
+        "Sell Price": 7258.1,
+        "Share Quantity": 0.0688880775,
+        "Comission": 0.9999965556,
+        "(%) Change": -0.0144664488,
+        "Portfolio Total": 188.4641943137
+    },
+    "225": {
+        "Buy Order Time": 1576268040000,
+        "Buy Price": 7258.25,
+        "Sell Order Time": 1576268760000,
+        "Sell Price": 7258.15,
+        "Share Quantity": 0.0688871284,
+        "Comission": 0.9999931113,
+        "(%) Change": -0.0151550733,
+        "Portfolio Total": 188.3884189469
+    },
+    "226": {
+        "Buy Order Time": 1576269840000,
+        "Buy Price": 7258.65,
+        "Sell Order Time": 1576270920000,
+        "Sell Price": 7257.7,
+        "Share Quantity": 0.0688833323,
+        "Comission": 0.9999345608,
+        "(%) Change": -0.0268635981,
+        "Portfolio Total": 188.2541009566
+    },
+    "227": {
+        "Buy Order Time": 1576275720000,
+        "Buy Price": 7243.9,
+        "Sell Order Time": 1576277100000,
+        "Sell Price": 7243.65,
+        "Share Quantity": 0.0690235923,
+        "Comission": 0.9999827441,
+        "(%) Change": -0.0172556599,
+        "Portfolio Total": 188.1678226573
+    },
+    "228": {
+        "Buy Order Time": 1576278780000,
+        "Buy Price": 7242.7,
+        "Sell Order Time": 1576282380000,
+        "Sell Price": 7251.05,
+        "Share Quantity": 0.0690350284,
+        "Comission": 1.0005764425,
+        "(%) Change": 0.1014735328,
+        "Portfolio Total": 188.6751903212
+    },
+    "229": {
+        "Buy Order Time": 1576285020000,
+        "Buy Price": 7244.15,
+        "Sell Order Time": 1576286580000,
+        "Sell Price": 7243.55,
+        "Share Quantity": 0.0690212102,
+        "Comission": 0.9999585873,
+        "(%) Change": -0.0220862156,
+        "Portfolio Total": 188.5647592432
+    },
+    "230": {
+        "Buy Order Time": 1576287000000,
+        "Buy Price": 7245.35,
+        "Sell Order Time": 1576289940000,
+        "Sell Price": 7259.05,
+        "Share Quantity": 0.0690097787,
+        "Comission": 1.000945434,
+        "(%) Change": 0.175271789,
+        "Portfolio Total": 189.4411181883
+    },
+    "231": {
+        "Buy Order Time": 1576291440000,
+        "Buy Price": 7259.85,
+        "Sell Order Time": 1576292700000,
+        "Sell Price": 7258.65,
+        "Share Quantity": 0.0688719464,
+        "Comission": 0.9999173537,
+        "(%) Change": -0.030302518,
+        "Portfolio Total": 189.2896055982
+    },
+    "232": {
+        "Buy Order Time": 1576295040000,
+        "Buy Price": 7251.3,
+        "Sell Order Time": 1576300020000,
+        "Sell Price": 7258.55,
+        "Share Quantity": 0.0689531532,
+        "Comission": 1.0004999104,
+        "(%) Change": 0.0861845475,
+        "Portfolio Total": 189.7205283355
+    },
+    "233": {
+        "Buy Order Time": 1576300080000,
+        "Buy Price": 7258.65,
+        "Sell Order Time": 1576300140000,
+        "Sell Price": 7258.6,
+        "Share Quantity": 0.0688833323,
+        "Comission": 0.9999965558,
+        "(%) Change": -0.0144654523,
+        "Portfolio Total": 189.6482010738
+    },
+    "234": {
+        "Buy Order Time": 1576300980000,
+        "Buy Price": 7259.2,
+        "Sell Order Time": 1576304100000,
+        "Sell Price": 7262.75,
+        "Share Quantity": 0.0688781133,
+        "Comission": 1.0002445173,
+        "(%) Change": 0.0351244694,
+        "Portfolio Total": 189.8238234208
+    },
+    "235": {
+        "Buy Order Time": 1576308300000,
+        "Buy Price": 7249.6,
+        "Sell Order Time": 1576311000000,
+        "Sell Price": 7250.85,
+        "Share Quantity": 0.0689693224,
+        "Comission": 1.0000862117,
+        "(%) Change": 0.0034472769,
+        "Portfolio Total": 189.8410598055
+    },
+    "236": {
+        "Buy Order Time": 1576315560000,
+        "Buy Price": 7195.9,
+        "Sell Order Time": 1576316940000,
+        "Sell Price": 7192.8,
+        "Share Quantity": 0.0694840117,
+        "Comission": 0.9997845996,
+        "(%) Change": -0.0569738962,
+        "Portfolio Total": 189.5561903243
+    },
+    "237": {
+        "Buy Order Time": 1576317240000,
+        "Buy Price": 7195.25,
+        "Sell Order Time": 1576318500000,
+        "Sell Price": 7194.65,
+        "Share Quantity": 0.0694902887,
+        "Comission": 0.9999583058,
+        "(%) Change": -0.0222363129,
+        "Portfolio Total": 189.4450087597
+    },
+    "238": {
+        "Buy Order Time": 1576318740000,
+        "Buy Price": 7194.5,
+        "Sell Order Time": 1576318920000,
+        "Sell Price": 7194.3,
+        "Share Quantity": 0.0694975328,
+        "Comission": 0.9999861005,
+        "(%) Change": -0.0166792147,
+        "Portfolio Total": 189.3616126862
+    },
+    "239": {
+        "Buy Order Time": 1576319160000,
+        "Buy Price": 7195.1,
+        "Sell Order Time": 1576319460000,
+        "Sell Price": 7194.85,
+        "Share Quantity": 0.0694917374,
+        "Comission": 0.9999826271,
+        "(%) Change": -0.0173726929,
+        "Portfolio Total": 189.2747492217
+    },
+    "240": {
+        "Buy Order Time": 1576319940000,
+        "Buy Price": 7195.55,
+        "Sell Order Time": 1576320360000,
+        "Sell Price": 7194.15,
+        "Share Quantity": 0.0694873915,
+        "Comission": 0.9999027177,
+        "(%) Change": -0.0333525959,
+        "Portfolio Total": 189.107986242
+    },
+    "241": {
+        "Buy Order Time": 1576324440000,
+        "Buy Price": 7177.75,
+        "Sell Order Time": 1576326240000,
+        "Sell Price": 7180.0,
+        "Share Quantity": 0.0696597123,
+        "Comission": 1.0001567344,
+        "(%) Change": 0.0174127445,
+        "Portfolio Total": 189.1950499643
+    },
+    "242": {
+        "Buy Order Time": 1576330620000,
+        "Buy Price": 7157.4,
+        "Sell Order Time": 1576331880000,
+        "Sell Price": 7154.35,
+        "Share Quantity": 0.0698577696,
+        "Comission": 0.9997869338,
+        "(%) Change": -0.0565818165,
+        "Portfolio Total": 188.9121408818
+    },
+    "243": {
+        "Buy Order Time": 1576334340000,
+        "Buy Price": 7141.7,
+        "Sell Order Time": 1576336620000,
+        "Sell Price": 7143.55,
+        "Share Quantity": 0.0700113418,
+        "Comission": 1.000129521,
+        "(%) Change": 0.0119001145,
+        "Portfolio Total": 188.9716414545
+    },
+    "244": {
+        "Buy Order Time": 1576341480000,
+        "Buy Price": 7049.1,
+        "Sell Order Time": 1576345740000,
+        "Sell Price": 7072.2,
+        "Share Quantity": 0.0709310408,
+        "Comission": 1.001638507,
+        "(%) Change": 0.3134919563,
+        "Portfolio Total": 190.5391012361
+    },
+    "245": {
+        "Buy Order Time": 1576347600000,
+        "Buy Price": 7070.2,
+        "Sell Order Time": 1576351200000,
+        "Sell Price": 7092.2,
+        "Share Quantity": 0.0707193573,
+        "Comission": 1.0015558259,
+        "(%) Change": 0.2969992953,
+        "Portfolio Total": 192.0240977124
+    },
+    "246": {
+        "Buy Order Time": 1576351560000,
+        "Buy Price": 7093.85,
+        "Sell Order Time": 1576352640000,
+        "Sell Price": 7093.3,
+        "Share Quantity": 0.0704835879,
+        "Comission": 0.999961234,
+        "(%) Change": -0.0218493658,
+        "Portfolio Total": 191.9148508835
+    },
+    "247": {
+        "Buy Order Time": 1576356900000,
+        "Buy Price": 7073.4,
+        "Sell Order Time": 1576360680000,
+        "Sell Price": 7084.65,
+        "Share Quantity": 0.0706873639,
+        "Comission": 1.0007952328,
+        "(%) Change": 0.1448978535,
+        "Portfolio Total": 192.6393401509
+    },
+    "248": {
+        "Buy Order Time": 1576362600000,
+        "Buy Price": 7081.0,
+        "Sell Order Time": 1576365480000,
+        "Sell Price": 7087.15,
+        "Share Quantity": 0.0706114956,
+        "Comission": 1.0004342607,
+        "(%) Change": 0.0727237077,
+        "Portfolio Total": 193.0029586892
+    },
+    "249": {
+        "Buy Order Time": 1576371420000,
+        "Buy Price": 7038.95,
+        "Sell Order Time": 1576373220000,
+        "Sell Price": 7040.4,
+        "Share Quantity": 0.0710333217,
+        "Comission": 1.0001029983,
+        "(%) Change": 0.0063915357,
+        "Portfolio Total": 193.0349163676
+    },
+    "250": {
+        "Buy Order Time": 1576374780000,
+        "Buy Price": 7039.15,
+        "Sell Order Time": 1576378860000,
+        "Sell Price": 7060.2,
+        "Share Quantity": 0.0710313035,
+        "Comission": 1.0014952089,
+        "(%) Change": 0.2848142857,
+        "Portfolio Total": 194.4589877961
+    },
+    "251": {
+        "Buy Order Time": 1576382880000,
+        "Buy Price": 7056.0,
+        "Sell Order Time": 1576385460000,
+        "Sell Price": 7061.0,
+        "Share Quantity": 0.070861678,
+        "Comission": 1.0003543084,
+        "(%) Change": 0.056684321,
+        "Portfolio Total": 194.7424094012
+    },
+    "252": {
+        "Buy Order Time": 1576389360000,
+        "Buy Price": 7052.4,
+        "Sell Order Time": 1576390320000,
+        "Sell Price": 7051.35,
+        "Share Quantity": 0.0708978504,
+        "Comission": 0.9999255573,
+        "(%) Change": -0.0290670631,
+        "Portfolio Total": 194.5970740858
+    },
+    "253": {
+        "Buy Order Time": 1576392420000,
+        "Buy Price": 7047.75,
+        "Sell Order Time": 1576398480000,
+        "Sell Price": 7139.1,
+        "Share Quantity": 0.0709446277,
+        "Comission": 1.0064807917,
+        "(%) Change": 1.2818774674,
+        "Portfolio Total": 201.0064614227
+    },
+    "254": {
+        "Buy Order Time": 1576400460000,
+        "Buy Price": 7140.0,
+        "Sell Order Time": 1576402200000,
+        "Sell Price": 7143.35,
+        "Share Quantity": 0.0700280112,
+        "Comission": 1.0002345938,
+        "(%) Change": 0.0329098796,
+        "Portfolio Total": 201.1710108209
+    },
+    "255": {
+        "Buy Order Time": 1576408800000,
+        "Buy Price": 7102.65,
+        "Sell Order Time": 1576410720000,
+        "Sell Price": 7105.15,
+        "Share Quantity": 0.0703962606,
+        "Comission": 1.0001759907,
+        "(%) Change": 0.0211164003,
+        "Portfolio Total": 201.2765928227
+    },
+    "256": {
+        "Buy Order Time": 1576411560000,
+        "Buy Price": 7108.65,
+        "Sell Order Time": 1576413420000,
+        "Sell Price": 7116.7,
+        "Share Quantity": 0.0703368431,
+        "Comission": 1.0005662116,
+        "(%) Change": 0.0991669837,
+        "Portfolio Total": 201.7724277413
+    },
+    "257": {
+        "Buy Order Time": 1576415880000,
+        "Buy Price": 7085.35,
+        "Sell Order Time": 1576417380000,
+        "Sell Price": 7083.85,
+        "Share Quantity": 0.0705681441,
+        "Comission": 0.9998941478,
+        "(%) Change": -0.0352825781,
+        "Portfolio Total": 201.5960148507
+    },
+    "258": {
+        "Buy Order Time": 1576418820000,
+        "Buy Price": 7083.85,
+        "Sell Order Time": 1576424340000,
+        "Sell Price": 7116.45,
+        "Share Quantity": 0.0705830869,
+        "Comission": 1.0023010086,
+        "(%) Change": 0.4460526266,
+        "Portfolio Total": 203.8262779839
+    },
+    "259": {
+        "Buy Order Time": 1576425960000,
+        "Buy Price": 7115.85,
+        "Sell Order Time": 1576427340000,
+        "Sell Price": 7113.45,
+        "Share Quantity": 0.0702656745,
+        "Comission": 0.9998313624,
+        "(%) Change": -0.0477782888,
+        "Portfolio Total": 203.58738654
+    },
+    "260": {
+        "Buy Order Time": 1576430160000,
+        "Buy Price": 7097.7,
+        "Sell Order Time": 1576433100000,
+        "Sell Price": 7109.05,
+        "Share Quantity": 0.0704453555,
+        "Comission": 1.0007995548,
+        "(%) Change": 0.145810621,
+        "Portfolio Total": 204.3164396449
+    },
+    "261": {
+        "Buy Order Time": 1576434300000,
+        "Buy Price": 7112.3,
+        "Sell Order Time": 1576437360000,
+        "Sell Price": 7117.75,
+        "Share Quantity": 0.0703007466,
+        "Comission": 1.0003831391,
+        "(%) Change": 0.0625622775,
+        "Portfolio Total": 204.6292510322
+    },
+    "262": {
+        "Buy Order Time": 1576440480000,
+        "Buy Price": 7113.6,
+        "Sell Order Time": 1576444380000,
+        "Sell Price": 7126.8,
+        "Share Quantity": 0.0702878992,
+        "Comission": 1.0009278003,
+        "(%) Change": 0.1714894315,
+        "Portfolio Total": 205.4866981898
+    },
+    "263": {
+        "Buy Order Time": 1576447140000,
+        "Buy Price": 7123.15,
+        "Sell Order Time": 1576449600000,
+        "Sell Price": 7126.6,
+        "Share Quantity": 0.0701936643,
+        "Comission": 1.0002421681,
+        "(%) Change": 0.0343914958,
+        "Portfolio Total": 205.6586556687
+    },
+    "264": {
+        "Buy Order Time": 1576450500000,
+        "Buy Price": 7128.2,
+        "Sell Order Time": 1576450800000,
+        "Sell Price": 7127.75,
+        "Share Quantity": 0.0701439354,
+        "Comission": 0.9999684352,
+        "(%) Change": -0.0203412984,
+        "Portfolio Total": 205.5569491765
+    },
+    "265": {
+        "Buy Order Time": 1576453500000,
+        "Buy Price": 7115.5,
+        "Sell Order Time": 1576455360000,
+        "Sell Price": 7118.3,
+        "Share Quantity": 0.0702691308,
+        "Comission": 1.0001967536,
+        "(%) Change": 0.0252941219,
+        "Portfolio Total": 205.6834197862
+    },
+    "266": {
+        "Buy Order Time": 1576458960000,
+        "Buy Price": 7088.1,
+        "Sell Order Time": 1576462320000,
+        "Sell Price": 7092.4,
+        "Share Quantity": 0.0705407655,
+        "Comission": 1.0003033253,
+        "(%) Change": 0.0465526259,
+        "Portfolio Total": 205.9161829156
+    },
+    "267": {
+        "Buy Order Time": 1576463580000,
+        "Buy Price": 7094.05,
+        "Sell Order Time": 1576465140000,
+        "Sell Price": 7093.05,
+        "Share Quantity": 0.0704816008,
+        "Comission": 0.9999295184,
+        "(%) Change": -0.0281916468,
+        "Portfolio Total": 205.7752246817
+    },
+    "268": {
+        "Buy Order Time": 1576466460000,
+        "Buy Price": 7094.65,
+        "Sell Order Time": 1576467360000,
+        "Sell Price": 7091.85,
+        "Share Quantity": 0.0704756401,
+        "Comission": 0.9998026682,
+        "(%) Change": -0.0535587051,
+        "Portfolio Total": 205.5074311564
+    },
+    "269": {
+        "Buy Order Time": 1576471440000,
+        "Buy Price": 7064.7,
+        "Sell Order Time": 1576473960000,
+        "Sell Price": 7069.5,
+        "Share Quantity": 0.0707744136,
+        "Comission": 1.0003397172,
+        "(%) Change": 0.0537837457,
+        "Portfolio Total": 205.7763498849
+    },
+    "270": {
+        "Buy Order Time": 1576474560000,
+        "Buy Price": 7071.95,
+        "Sell Order Time": 1576476000000,
+        "Sell Price": 7072.35,
+        "Share Quantity": 0.0707018573,
+        "Comission": 1.0000282807,
+        "(%) Change": -0.0084846228,
+        "Portfolio Total": 205.733926771
+    },
+    "271": {
+        "Buy Order Time": 1576476900000,
+        "Buy Price": 7075.4,
+        "Sell Order Time": 1576479300000,
+        "Sell Price": 7083.5,
+        "Share Quantity": 0.0706673828,
+        "Comission": 1.0005724058,
+        "(%) Change": 0.1003395934,
+        "Portfolio Total": 206.2356247382
+    },
+    "272": {
+        "Buy Order Time": 1576479600000,
+        "Buy Price": 7084.6,
+        "Sell Order Time": 1576479720000,
+        "Sell Price": 7084.45,
+        "Share Quantity": 0.0705756147,
+        "Comission": 0.9999894137,
+        "(%) Change": -0.016232242,
+        "Portfolio Total": 206.1544635284
+    },
+    "273": {
+        "Buy Order Time": 1576480200000,
+        "Buy Price": 7085.3,
+        "Sell Order Time": 1576482000000,
+        "Sell Price": 7087.6,
+        "Share Quantity": 0.0705686421,
+        "Comission": 1.0001623079,
+        "(%) Change": 0.0183455562,
+        "Portfolio Total": 206.2461913093
+    },
+    "274": {
+        "Buy Order Time": 1576485180000,
+        "Buy Price": 7069.5,
+        "Sell Order Time": 1576486980000,
+        "Sell Price": 7070.5,
+        "Share Quantity": 0.0707263597,
+        "Comission": 1.0000707264,
+        "(%) Change": -0.0000010004,
+        "Portfolio Total": 206.2461863071
+    },
+    "275": {
+        "Buy Order Time": 1576488900000,
+        "Buy Price": 7067.15,
+        "Sell Order Time": 1576490640000,
+        "Sell Price": 7067.25,
+        "Share Quantity": 0.070749878,
+        "Comission": 1.000007075,
+        "(%) Change": -0.0127350781,
+        "Portfolio Total": 206.1825109164
+    },
+    "276": {
+        "Buy Order Time": 1576492080000,
+        "Buy Price": 7068.15,
+        "Sell Order Time": 1576494180000,
+        "Sell Price": 7071.3,
+        "Share Quantity": 0.0707398683,
+        "Comission": 1.0002228306,
+        "(%) Change": 0.0304149908,
+        "Portfolio Total": 206.3345858702
+    },
+    "277": {
+        "Buy Order Time": 1576495560000,
+        "Buy Price": 7071.55,
+        "Sell Order Time": 1576499220000,
+        "Sell Price": 7089.2,
+        "Share Quantity": 0.0707058566,
+        "Comission": 1.0012479584,
+        "(%) Change": 0.2354328548,
+        "Portfolio Total": 207.5117501441
+    },
+    "278": {
+        "Buy Order Time": 1576500660000,
+        "Buy Price": 7092.65,
+        "Sell Order Time": 1576503180000,
+        "Sell Price": 7107.85,
+        "Share Quantity": 0.070495513,
+        "Comission": 1.0010715318,
+        "(%) Change": 0.2001921492,
+        "Portfolio Total": 208.5127108899
+    },
+    "279": {
+        "Buy Order Time": 1576503720000,
+        "Buy Price": 7111.75,
+        "Sell Order Time": 1576506540000,
+        "Sell Price": 7130.65,
+        "Share Quantity": 0.0703061834,
+        "Comission": 1.0013287869,
+        "(%) Change": 0.2516774523,
+        "Portfolio Total": 209.7710981514
+    },
+    "280": {
+        "Buy Order Time": 1576509300000,
+        "Buy Price": 7118.8,
+        "Sell Order Time": 1576509360000,
+        "Sell Price": 7118.2,
+        "Share Quantity": 0.0702365567,
+        "Comission": 0.9999578581,
+        "(%) Change": -0.0224751062,
+        "Portfolio Total": 209.6587226205
+    },
+    "281": {
+        "Buy Order Time": 1576513140000,
+        "Buy Price": 7094.1,
+        "Sell Order Time": 1576514400000,
+        "Sell Price": 7093.7,
+        "Share Quantity": 0.070481104,
+        "Comission": 0.9999718076,
+        "(%) Change": -0.0197343117,
+        "Portfolio Total": 209.5600510619
+    },
+    "282": {
+        "Buy Order Time": 1576514940000,
+        "Buy Price": 7094.8,
+        "Sell Order Time": 1576517520000,
+        "Sell Price": 7099.0,
+        "Share Quantity": 0.0704741501,
+        "Comission": 1.0002959914,
+        "(%) Change": 0.0450992841,
+        "Portfolio Total": 209.7855474824
+    },
+    "283": {
+        "Buy Order Time": 1576518780000,
+        "Buy Price": 7099.15,
+        "Sell Order Time": 1576521000000,
+        "Sell Price": 7102.95,
+        "Share Quantity": 0.0704309671,
+        "Comission": 1.0002676377,
+        "(%) Change": 0.0394375716,
+        "Portfolio Total": 209.9827353403
+    },
+    "284": {
+        "Buy Order Time": 1576526880000,
+        "Buy Price": 6906.55,
+        "Sell Order Time": 1576528440000,
+        "Sell Price": 6906.4,
+        "Share Quantity": 0.0723950453,
+        "Comission": 0.9999891407,
+        "(%) Change": -0.0166507032,
+        "Portfolio Total": 209.8994818244
+    },
+    "285": {
+        "Buy Order Time": 1576531260000,
+        "Buy Price": 6874.6,
+        "Sell Order Time": 1576533960000,
+        "Sell Price": 6888.25,
+        "Share Quantity": 0.0727315044,
+        "Comission": 1.000992785,
+        "(%) Change": 0.1839962647,
+        "Portfolio Total": 210.819463148
+    },
+    "286": {
+        "Buy Order Time": 1576534620000,
+        "Buy Price": 6891.85,
+        "Sell Order Time": 1576536300000,
+        "Sell Price": 6892.9,
+        "Share Quantity": 0.0725494606,
+        "Comission": 1.0000761769,
+        "(%) Change": 0.0007243893,
+        "Portfolio Total": 210.8230850945
+    },
+    "287": {
+        "Buy Order Time": 1576538640000,
+        "Buy Price": 6893.5,
+        "Sell Order Time": 1576540620000,
+        "Sell Price": 6897.7,
+        "Share Quantity": 0.0725320955,
+        "Comission": 1.0003046348,
+        "(%) Change": 0.0464161219,
+        "Portfolio Total": 211.0551657041
+    },
+    "288": {
+        "Buy Order Time": 1576541100000,
+        "Buy Price": 6898.5,
+        "Sell Order Time": 1576543920000,
+        "Sell Price": 6901.9,
+        "Share Quantity": 0.0724795245,
+        "Comission": 1.0002464304,
+        "(%) Change": 0.0347865995,
+        "Portfolio Total": 211.2290987018
+    },
+    "289": {
+        "Buy Order Time": 1576546560000,
+        "Buy Price": 6893.35,
+        "Sell Order Time": 1576546980000,
+        "Sell Price": 6892.15,
+        "Share Quantity": 0.0725336738,
+        "Comission": 0.9999129596,
+        "(%) Change": -0.0319135538,
+        "Portfolio Total": 211.0695309329
+    },
+    "290": {
+        "Buy Order Time": 1576549140000,
+        "Buy Price": 6891.15,
+        "Sell Order Time": 1576551960000,
+        "Sell Price": 6895.6,
+        "Share Quantity": 0.0725568301,
+        "Comission": 1.0003228779,
+        "(%) Change": 0.0500595274,
+        "Portfolio Total": 211.3198285699
+    },
+    "291": {
+        "Buy Order Time": 1576555740000,
+        "Buy Price": 6880.1,
+        "Sell Order Time": 1576557000000,
+        "Sell Price": 6878.15,
+        "Share Quantity": 0.0726733623,
+        "Comission": 0.9998582869,
+        "(%) Change": -0.042875224,
+        "Portfolio Total": 211.1054524499
+    },
+    "292": {
+        "Buy Order Time": 1576558500000,
+        "Buy Price": 6877.95,
+        "Sell Order Time": 1576562760000,
+        "Sell Price": 6892.0,
+        "Share Quantity": 0.0726960795,
+        "Comission": 1.0010213799,
+        "(%) Change": 0.1897219174,
+        "Portfolio Total": 212.054062037
+    },
+    "293": {
+        "Buy Order Time": 1576566120000,
+        "Buy Price": 6890.15,
+        "Sell Order Time": 1576567560000,
+        "Sell Price": 6889.65,
+        "Share Quantity": 0.0725673607,
+        "Comission": 0.9999637163,
+        "(%) Change": -0.0217696816,
+        "Portfolio Total": 211.9452136291
+    },
+    "294": {
+        "Buy Order Time": 1576573500000,
+        "Buy Price": 6872.6,
+        "Sell Order Time": 1576575960000,
+        "Sell Price": 6881.3,
+        "Share Quantity": 0.07275267,
+        "Comission": 1.0006329482,
+        "(%) Change": 0.1120299021,
+        "Portfolio Total": 212.5053631396
+    },
+    "295": {
+        "Buy Order Time": 1576576980000,
+        "Buy Price": 6882.8,
+        "Sell Order Time": 1576579560000,
+        "Sell Price": 6889.5,
+        "Share Quantity": 0.0726448538,
+        "Comission": 1.0004867205,
+        "(%) Change": 0.0828080618,
+        "Portfolio Total": 212.9194034487
+    },
+    "296": {
+        "Buy Order Time": 1576582800000,
+        "Buy Price": 6885.55,
+        "Sell Order Time": 1576585920000,
+        "Sell Price": 6912.4,
+        "Share Quantity": 0.0726158404,
+        "Comission": 1.0019497353,
+        "(%) Change": 0.3753955786,
+        "Portfolio Total": 214.7963813419
+    },
+    "297": {
+        "Buy Order Time": 1576594080000,
+        "Buy Price": 6745.7,
+        "Sell Order Time": 1576595700000,
+        "Sell Price": 6746.7,
+        "Share Quantity": 0.0741212921,
+        "Comission": 1.0000741213,
+        "(%) Change": -0.0000010988,
+        "Portfolio Total": 214.7963758479
+    },
+    "298": {
+        "Buy Order Time": 1576601040000,
+        "Buy Price": 6707.4,
+        "Sell Order Time": 1576603800000,
+        "Sell Price": 6724.35,
+        "Share Quantity": 0.0745445329,
+        "Comission": 1.0012635298,
+        "(%) Change": 0.2377782221,
+        "Portfolio Total": 215.9852669585
+    },
+    "299": {
+        "Buy Order Time": 1576606500000,
+        "Buy Price": 6716.2,
+        "Sell Order Time": 1576608240000,
+        "Sell Price": 6717.2,
+        "Share Quantity": 0.0744468598,
+        "Comission": 1.0000744469,
+        "(%) Change": -0.0000011085,
+        "Portfolio Total": 215.9852614162
+    },
+    "300": {
+        "Buy Order Time": 1576617420000,
+        "Buy Price": 6602.35,
+        "Sell Order Time": 1576621200000,
+        "Sell Price": 6611.95,
+        "Share Quantity": 0.0757306111,
+        "Comission": 1.0007270139,
+        "(%) Change": 0.1302456396,
+        "Portfolio Total": 216.6364896142
+    },
+    "301": {
+        "Buy Order Time": 1576621440000,
+        "Buy Price": 6614.2,
+        "Sell Order Time": 1576622820000,
+        "Sell Price": 6618.75,
+        "Share Quantity": 0.0755949321,
+        "Comission": 1.0003439569,
+        "(%) Change": 0.0536672015,
+        "Portfolio Total": 216.9048256218
+    },
+    "302": {
+        "Buy Order Time": 1576624740000,
+        "Buy Price": 6604.55,
+        "Sell Order Time": 1576628100000,
+        "Sell Price": 6614.85,
+        "Share Quantity": 0.0757053849,
+        "Comission": 1.0007797655,
+        "(%) Change": 0.1408002095,
+        "Portfolio Total": 217.6088266691
+    },
+    "303": {
+        "Buy Order Time": 1576629240000,
+        "Buy Price": 6619.25,
+        "Sell Order Time": 1576633920000,
+        "Sell Price": 6662.3,
+        "Share Quantity": 0.0755372588,
+        "Comission": 1.003251879,
+        "(%) Change": 0.6352192185,
+        "Portfolio Total": 220.7849227616
+    },
+    "304": {
+        "Buy Order Time": 1576635720000,
+        "Buy Price": 6663.15,
+        "Sell Order Time": 1576640100000,
+        "Sell Price": 6705.15,
+        "Share Quantity": 0.0750395834,
+        "Comission": 1.0031516625,
+        "(%) Change": 0.6152772838,
+        "Portfolio Total": 223.8613091808
+    },
+    "305": {
+        "Buy Order Time": 1576642380000,
+        "Buy Price": 6695.3,
+        "Sell Order Time": 1576643760000,
+        "Sell Price": 6692.9,
+        "Share Quantity": 0.0746792526,
+        "Comission": 0.9998207698,
+        "(%) Change": -0.0507792148,
+        "Portfolio Total": 223.6074131067
+    },
+    "306": {
+        "Buy Order Time": 1576646100000,
+        "Buy Price": 6678.3,
+        "Sell Order Time": 1576646520000,
+        "Sell Price": 6675.15,
+        "Share Quantity": 0.074869353,
+        "Comission": 0.9997641615,
+        "(%) Change": -0.0621380316,
+        "Portfolio Total": 223.2967229489
+    },
+    "307": {
+        "Buy Order Time": 1576648860000,
+        "Buy Price": 6666.35,
+        "Sell Order Time": 1576650840000,
+        "Sell Price": 6670.5,
+        "Share Quantity": 0.0750035627,
+        "Comission": 1.0003112648,
+        "(%) Change": 0.0472475753,
+        "Portfolio Total": 223.5329608253
+    },
+    "308": {
+        "Buy Order Time": 1576655220000,
+        "Buy Price": 6616.15,
+        "Sell Order Time": 1576658520000,
+        "Sell Price": 6633.55,
+        "Share Quantity": 0.0755726518,
+        "Comission": 1.0013149641,
+        "(%) Change": 0.2478584227,
+        "Portfolio Total": 224.772252939
+    },
+    "309": {
+        "Buy Order Time": 1576660320000,
+        "Buy Price": 6630.75,
+        "Sell Order Time": 1576663440000,
+        "Sell Price": 6641.7,
+        "Share Quantity": 0.0754062512,
+        "Comission": 1.0008256985,
+        "(%) Change": 0.1500459873,
+        "Portfolio Total": 225.5224828754
+    },
+    "310": {
+        "Buy Order Time": 1576664880000,
+        "Buy Price": 6642.55,
+        "Sell Order Time": 1576667880000,
+        "Sell Price": 6646.55,
+        "Share Quantity": 0.0752722975,
+        "Comission": 1.0003010892,
+        "(%) Change": 0.0451588458,
+        "Portfolio Total": 225.7482771044
+    },
+    "311": {
+        "Buy Order Time": 1576676280000,
+        "Buy Price": 6507.95,
+        "Sell Order Time": 1576686120000,
+        "Sell Price": 6804.8,
+        "Share Quantity": 0.076829109,
+        "Comission": 1.022806721,
+        "(%) Change": 4.5456279363,
+        "Portfolio Total": 248.4764167857
+    },
+    "312": {
+        "Buy Order Time": 1576687080000,
+        "Buy Price": 6811.8,
+        "Sell Order Time": 1576690620000,
+        "Sell Price": 6865.75,
+        "Share Quantity": 0.0734020376,
+        "Comission": 1.0039600399,
+        "(%) Change": 0.7772694436,
+        "Portfolio Total": 252.3627640038
+    },
+    "313": {
+        "Buy Order Time": 1576692240000,
+        "Buy Price": 6863.4,
+        "Sell Order Time": 1576693020000,
+        "Sell Price": 6855.75,
+        "Share Quantity": 0.0728501909,
+        "Comission": 0.999442696,
+        "(%) Change": -0.1260227103,
+        "Portfolio Total": 251.7326504525
+    },
+    "314": {
+        "Buy Order Time": 1576695300000,
+        "Buy Price": 6840.75,
+        "Sell Order Time": 1576703100000,
+        "Sell Price": 7119.7,
+        "Share Quantity": 0.0730914008,
+        "Comission": 1.0203888463,
+        "(%) Change": 4.0628529204,
+        "Portfolio Total": 272.0469150546
+    },
+    "315": {
+        "Buy Order Time": 1576704060000,
+        "Buy Price": 7135.85,
+        "Sell Order Time": 1576706340000,
+        "Sell Price": 7148.5,
+        "Share Quantity": 0.0700687374,
+        "Comission": 1.0008863695,
+        "(%) Change": 0.1632477369,
+        "Portfolio Total": 272.8631537389
+    },
+    "316": {
+        "Buy Order Time": 1576708020000,
+        "Buy Price": 7147.5,
+        "Sell Order Time": 1576712100000,
+        "Sell Price": 7267.45,
+        "Share Quantity": 0.0699545296,
+        "Comission": 1.0083910458,
+        "(%) Change": 1.6641008598,
+        "Portfolio Total": 281.1836580379
+    },
+    "317": {
+        "Buy Order Time": 1576713780000,
+        "Buy Price": 7277.3,
+        "Sell Order Time": 1576715400000,
+        "Sell Price": 7282.35,
+        "Share Quantity": 0.0687068006,
+        "Comission": 1.0003469693,
+        "(%) Change": 0.0556477407,
+        "Portfolio Total": 281.4618967412
+    },
+    "318": {
+        "Buy Order Time": 1576720680000,
+        "Buy Price": 7151.2,
+        "Sell Order Time": 1576721700000,
+        "Sell Price": 7145.75,
+        "Share Quantity": 0.0699183354,
+        "Comission": 0.9996189451,
+        "(%) Change": -0.0901893241,
+        "Portfolio Total": 281.0109501207
+    },
+    "319": {
+        "Buy Order Time": 1576722420000,
+        "Buy Price": 7151.35,
+        "Sell Order Time": 1576724160000,
+        "Sell Price": 7156.25,
+        "Share Quantity": 0.0699168688,
+        "Comission": 1.0003425927,
+        "(%) Change": 0.0545303671,
+        "Portfolio Total": 281.2836019562
+    },
+    "320": {
+        "Buy Order Time": 1576725600000,
+        "Buy Price": 7158.95,
+        "Sell Order Time": 1576726020000,
+        "Sell Price": 7156.25,
+        "Share Quantity": 0.0698426445,
+        "Comission": 0.9998114249,
+        "(%) Change": -0.0516809228,
+        "Portfolio Total": 281.025197342
+    },
+    "321": {
+        "Buy Order Time": 1576726320000,
+        "Buy Price": 7156.15,
+        "Sell Order Time": 1576728360000,
+        "Sell Price": 7159.95,
+        "Share Quantity": 0.069869972,
+        "Comission": 1.0002655059,
+        "(%) Change": 0.0391234741,
+        "Portfolio Total": 281.2208147127
+    },
+    "322": {
+        "Buy Order Time": 1576733820000,
+        "Buy Price": 7129.3,
+        "Sell Order Time": 1576736520000,
+        "Sell Price": 7148.4,
+        "Share Quantity": 0.0701331126,
+        "Comission": 1.0013395425,
+        "(%) Change": 0.2538630785,
+        "Portfolio Total": 282.4901301053
+    },
+    "323": {
+        "Buy Order Time": 1576740300000,
+        "Buy Price": 7135.8,
+        "Sell Order Time": 1576740540000,
+        "Sell Price": 7135.1,
+        "Share Quantity": 0.0700692284,
+        "Comission": 0.9999509515,
+        "(%) Change": -0.0238228503,
+        "Portfolio Total": 282.3710158538
+    },
+    "324": {
+        "Buy Order Time": 1576744200000,
+        "Buy Price": 7105.2,
+        "Sell Order Time": 1576744980000,
+        "Sell Price": 7097.35,
+        "Share Quantity": 0.0703709959,
+        "Comission": 0.9994475877,
+        "(%) Change": -0.124548888,
+        "Portfolio Total": 281.748271414
+    },
+    "325": {
+        "Buy Order Time": 1576748760000,
+        "Buy Price": 7073.0,
+        "Sell Order Time": 1576752300000,
+        "Sell Price": 7159.75,
+        "Share Quantity": 0.0706913615,
+        "Comission": 1.0061324756,
+        "(%) Change": 1.2122701474,
+        "Portfolio Total": 287.8096221509
+    },
+    "326": {
+        "Buy Order Time": 1576753740000,
+        "Buy Price": 7163.05,
+        "Sell Order Time": 1576754220000,
+        "Sell Price": 7157.85,
+        "Share Quantity": 0.0698026679,
+        "Comission": 0.9996370261,
+        "(%) Change": -0.0865502408,
+        "Portfolio Total": 287.3768709467
+    },
+    "327": {
+        "Buy Order Time": 1576755780000,
+        "Buy Price": 7155.8,
+        "Sell Order Time": 1576757880000,
+        "Sell Price": 7164.2,
+        "Share Quantity": 0.0698733894,
+        "Comission": 1.0005869365,
+        "(%) Change": 0.1034044141,
+        "Portfolio Total": 287.8938930172
+    },
+    "328": {
+        "Buy Order Time": 1576757940000,
+        "Buy Price": 7164.7,
+        "Sell Order Time": 1576762560000,
+        "Sell Price": 7193.4,
+        "Share Quantity": 0.0697865926,
+        "Comission": 1.0020028752,
+        "(%) Change": 0.3865897682,
+        "Portfolio Total": 289.8268418584
+    },
+    "329": {
+        "Buy Order Time": 1576765500000,
+        "Buy Price": 7102.15,
+        "Sell Order Time": 1576766340000,
+        "Sell Price": 7095.65,
+        "Share Quantity": 0.0704012165,
+        "Comission": 0.9995423921,
+        "(%) Change": -0.1055953816,
+        "Portfolio Total": 289.2988649505
+    },
+    "330": {
+        "Buy Order Time": 1576767420000,
+        "Buy Price": 7099.7,
+        "Sell Order Time": 1576771800000,
+        "Sell Price": 7144.1,
+        "Share Quantity": 0.0704255109,
+        "Comission": 1.0031268927,
+        "(%) Change": 0.6112493923,
+        "Portfolio Total": 292.3551119122
+    },
+    "331": {
+        "Buy Order Time": 1576772700000,
+        "Buy Price": 7151.6,
+        "Sell Order Time": 1576774320000,
+        "Sell Price": 7148.7,
+        "Share Quantity": 0.0699144247,
+        "Comission": 0.9997972482,
+        "(%) Change": -0.0545304162,
+        "Portfolio Total": 292.082459831
+    },
+    "332": {
+        "Buy Order Time": 1576777380000,
+        "Buy Price": 7129.4,
+        "Sell Order Time": 1576779120000,
+        "Sell Price": 7134.75,
+        "Share Quantity": 0.0701321289,
+        "Comission": 1.0003752069,
+        "(%) Change": 0.0610096894,
+        "Portfolio Total": 292.3875082778
+    },
+    "333": {
+        "Buy Order Time": 1576779420000,
+        "Buy Price": 7138.25,
+        "Sell Order Time": 1576783200000,
+        "Sell Price": 7158.3,
+        "Share Quantity": 0.0700451791,
+        "Comission": 1.0014044058,
+        "(%) Change": 0.2668524582,
+        "Portfolio Total": 293.7217705685
+    },
+    "334": {
+        "Buy Order Time": 1576784520000,
+        "Buy Price": 7158.05,
+        "Sell Order Time": 1576786620000,
+        "Sell Price": 7165.0,
+        "Share Quantity": 0.069851426,
+        "Comission": 1.0004854674,
+        "(%) Change": 0.0831164148,
+        "Portfolio Total": 294.1373526427
+    },
+    "335": {
+        "Buy Order Time": 1576789980000,
+        "Buy Price": 7158.2,
+        "Sell Order Time": 1576791600000,
+        "Sell Price": 7156.95,
+        "Share Quantity": 0.0698499623,
+        "Comission": 0.9999126875,
+        "(%) Change": -0.0314312633,
+        "Portfolio Total": 293.9801963264
+    },
+    "336": {
+        "Buy Order Time": 1576793160000,
+        "Buy Price": 7154.25,
+        "Sell Order Time": 1576793580000,
+        "Sell Price": 7150.7,
+        "Share Quantity": 0.0698885278,
+        "Comission": 0.9997518957,
+        "(%) Change": -0.0635950924,
+        "Portfolio Total": 293.6622208645
+    },
+    "337": {
+        "Buy Order Time": 1576795620000,
+        "Buy Price": 7147.55,
+        "Sell Order Time": 1576798200000,
+        "Sell Price": 7154.2,
+        "Share Quantity": 0.0699540402,
+        "Comission": 1.0004651944,
+        "(%) Change": 0.079041557,
+        "Portfolio Total": 294.0574286494
+    },
+    "338": {
+        "Buy Order Time": 1576800240000,
+        "Buy Price": 7147.7,
+        "Sell Order Time": 1576801920000,
+        "Sell Price": 7146.9,
+        "Share Quantity": 0.0699525722,
+        "Comission": 0.9999440379,
+        "(%) Change": -0.025182143,
+        "Portfolio Total": 293.9315179342
+    },
+    "339": {
+        "Buy Order Time": 1576805040000,
+        "Buy Price": 7107.5,
+        "Sell Order Time": 1576805880000,
+        "Sell Price": 7105.85,
+        "Share Quantity": 0.0703482237,
+        "Comission": 0.9998839254,
+        "(%) Change": -0.0372829254,
+        "Portfolio Total": 293.745103307
+    },
+    "340": {
+        "Buy Order Time": 1576806720000,
+        "Buy Price": 7107.55,
+        "Sell Order Time": 1576811160000,
+        "Sell Price": 7127.65,
+        "Share Quantity": 0.0703477288,
+        "Comission": 1.0014139893,
+        "(%) Change": 0.2687084299,
+        "Portfolio Total": 295.0886454566
+    },
+    "341": {
+        "Buy Order Time": 1576812960000,
+        "Buy Price": 7127.5,
+        "Sell Order Time": 1576815180000,
+        "Sell Price": 7130.85,
+        "Share Quantity": 0.0701508243,
+        "Comission": 1.0002350053,
+        "(%) Change": 0.0329675902,
+        "Portfolio Total": 295.2534834079
+    },
+    "342": {
+        "Buy Order Time": 1576817640000,
+        "Buy Price": 7126.7,
+        "Sell Order Time": 1576818000000,
+        "Sell Price": 7125.9,
+        "Share Quantity": 0.070158699,
+        "Comission": 0.999943873,
+        "(%) Change": -0.0252563441,
+        "Portfolio Total": 295.1272016875
+    },
+    "343": {
+        "Buy Order Time": 1576818120000,
+        "Buy Price": 7126.45,
+        "Sell Order Time": 1576819020000,
+        "Sell Price": 7125.2,
+        "Share Quantity": 0.0701611602,
+        "Comission": 0.9999122985,
+        "(%) Change": -0.0315712914,
+        "Portfolio Total": 294.9693452303
+    },
+    "344": {
+        "Buy Order Time": 1576822980000,
+        "Buy Price": 7103.4,
+        "Sell Order Time": 1576825140000,
+        "Sell Price": 7112.4,
+        "Share Quantity": 0.0703888279,
+        "Comission": 1.0006334995,
+        "(%) Change": 0.1126132064,
+        "Portfolio Total": 295.5324112621
+    },
+    "345": {
+        "Buy Order Time": 1576826040000,
+        "Buy Price": 7115.55,
+        "Sell Order Time": 1576831020000,
+        "Sell Price": 7139.85,
+        "Share Quantity": 0.070268637,
+        "Comission": 1.0017075279,
+        "(%) Change": 0.3274278513,
+        "Portfolio Total": 297.1695505185
+    },
+    "346": {
+        "Buy Order Time": 1576833000000,
+        "Buy Price": 7132.4,
+        "Sell Order Time": 1576835160000,
+        "Sell Price": 7138.3,
+        "Share Quantity": 0.0701026303,
+        "Comission": 1.0004136055,
+        "(%) Change": 0.0686947787,
+        "Portfolio Total": 297.5130244119
+    },
+    "347": {
+        "Buy Order Time": 1576837320000,
+        "Buy Price": 7136.55,
+        "Sell Order Time": 1576839600000,
+        "Sell Price": 7140.7,
+        "Share Quantity": 0.0700618646,
+        "Comission": 1.0002907567,
+        "(%) Change": 0.0441349005,
+        "Portfolio Total": 297.7336989145
+    },
+    "348": {
+        "Buy Order Time": 1576839720000,
+        "Buy Price": 7141.5,
+        "Sell Order Time": 1576841040000,
+        "Sell Price": 7142.45,
+        "Share Quantity": 0.0700133025,
+        "Comission": 1.0000665126,
+        "(%) Change": -0.0007010644,
+        "Portfolio Total": 297.7301935926
+    },
+    "349": {
+        "Buy Order Time": 1576841820000,
+        "Buy Price": 7143.25,
+        "Sell Order Time": 1576843860000,
+        "Sell Price": 7145.1,
+        "Share Quantity": 0.0699961502,
+        "Comission": 1.0001294929,
+        "(%) Change": 0.0118975327,
+        "Portfolio Total": 297.7896812563
+    },
+    "350": {
+        "Buy Order Time": 1576844160000,
+        "Buy Price": 7145.8,
+        "Sell Order Time": 1576848300000,
+        "Sell Price": 7169.85,
+        "Share Quantity": 0.0699711719,
+        "Comission": 1.0016828067,
+        "(%) Change": 0.3225435528,
+        "Portfolio Total": 299.4023990201
+    },
+    "351": {
+        "Buy Order Time": 1576849620000,
+        "Buy Price": 7171.65,
+        "Sell Order Time": 1576851000000,
+        "Sell Price": 7171.45,
+        "Share Quantity": 0.0697189629,
+        "Comission": 0.9999860562,
+        "(%) Change": -0.0167323567,
+        "Portfolio Total": 299.3187372368
+    },
+    "352": {
+        "Buy Order Time": 1576853040000,
+        "Buy Price": 7164.7,
+        "Sell Order Time": 1576855860000,
+        "Sell Price": 7177.85,
+        "Share Quantity": 0.0697865926,
+        "Comission": 1.0009176937,
+        "(%) Change": 0.1695686115,
+        "Portfolio Total": 300.1665802942
+    },
+    "353": {
+        "Buy Order Time": 1576860300000,
+        "Buy Price": 7150.4,
+        "Sell Order Time": 1576868220000,
+        "Sell Price": 7188.4,
+        "Share Quantity": 0.069926158,
+        "Comission": 1.002657194,
+        "(%) Change": 0.5174164076,
+        "Portfolio Total": 302.753662332
+    },
+    "354": {
+        "Buy Order Time": 1576869300000,
+        "Buy Price": 7192.1,
+        "Sell Order Time": 1576869900000,
+        "Sell Price": 7189.65,
+        "Share Quantity": 0.0695207241,
+        "Comission": 0.9998296742,
+        "(%) Change": -0.0479669314,
+        "Portfolio Total": 302.5138276749
+    },
+    "355": {
+        "Buy Order Time": 1576872540000,
+        "Buy Price": 7187.3,
+        "Sell Order Time": 1576876680000,
+        "Sell Price": 7200.75,
+        "Share Quantity": 0.0695671532,
+        "Comission": 1.0009356782,
+        "(%) Change": 0.1732091929,
+        "Portfolio Total": 303.3798736395
+    },
+    "356": {
+        "Buy Order Time": 1576879320000,
+        "Buy Price": 7192.1,
+        "Sell Order Time": 1576879560000,
+        "Sell Price": 7190.2,
+        "Share Quantity": 0.0695207241,
+        "Comission": 0.9998679106,
+        "(%) Change": -0.0403201834,
+        "Portfolio Total": 303.1782727225
+    },
+    "357": {
+        "Buy Order Time": 1576881900000,
+        "Buy Price": 7184.7,
+        "Sell Order Time": 1576883280000,
+        "Sell Price": 7185.55,
+        "Share Quantity": 0.0695923281,
+        "Comission": 1.0000591535,
+        "(%) Change": -0.0020885932,
+        "Portfolio Total": 303.1678297566
+    },
+    "358": {
+        "Buy Order Time": 1576886280000,
+        "Buy Price": 7179.45,
+        "Sell Order Time": 1576887540000,
+        "Sell Price": 7177.75,
+        "Share Quantity": 0.0696432178,
+        "Comission": 0.9998816065,
+        "(%) Change": -0.0376056885,
+        "Portfolio Total": 302.9798013139
+    },
+    "359": {
+        "Buy Order Time": 1576891620000,
+        "Buy Price": 7165.35,
+        "Sell Order Time": 1576892820000,
+        "Sell Price": 7165.15,
+        "Share Quantity": 0.069780262,
+        "Comission": 0.9999860439,
+        "(%) Change": -0.0167470681,
+        "Portfolio Total": 302.8960659734
+    },
+    "360": {
+        "Buy Order Time": 1576894680000,
+        "Buy Price": 7160.75,
+        "Sell Order Time": 1576897320000,
+        "Sell Price": 7166.2,
+        "Share Quantity": 0.0698250882,
+        "Comission": 1.0003805467,
+        "(%) Change": 0.0621390141,
+        "Portfolio Total": 303.2067610439
+    },
+    "361": {
+        "Buy Order Time": 1576897440000,
+        "Buy Price": 7166.45,
+        "Sell Order Time": 1576897920000,
+        "Sell Price": 7166.7,
+        "Share Quantity": 0.0697695512,
+        "Comission": 1.0000174424,
+        "(%) Change": -0.0104656761,
+        "Portfolio Total": 303.1544326636
+    },
+    "362": {
+        "Buy Order Time": 1576900320000,
+        "Buy Price": 7160.35,
+        "Sell Order Time": 1576901040000,
+        "Sell Price": 7158.2,
+        "Share Quantity": 0.0698289888,
+        "Comission": 0.9998498677,
+        "(%) Change": -0.0439901662,
+        "Portfolio Total": 302.9344818325
+    },
+    "363": {
+        "Buy Order Time": 1576902120000,
+        "Buy Price": 7159.45,
+        "Sell Order Time": 1576903440000,
+        "Sell Price": 7158.95,
+        "Share Quantity": 0.0698377669,
+        "Comission": 0.9999650811,
+        "(%) Change": -0.0209508423,
+        "Portfolio Total": 302.8297276208
+    },
+    "364": {
+        "Buy Order Time": 1576905720000,
+        "Buy Price": 7151.5,
+        "Sell Order Time": 1576907820000,
+        "Sell Price": 7154.7,
+        "Share Quantity": 0.0699154024,
+        "Comission": 1.0002237293,
+        "(%) Change": 0.0307596486,
+        "Portfolio Total": 302.9835258639
+    },
+    "365": {
+        "Buy Order Time": 1576908960000,
+        "Buy Price": 7156.05,
+        "Sell Order Time": 1576910160000,
+        "Sell Price": 7154.55,
+        "Share Quantity": 0.0698709484,
+        "Comission": 0.9998951936,
+        "(%) Change": -0.0349340096,
+        "Portfolio Total": 302.8088558159
+    },
+    "366": {
+        "Buy Order Time": 1576915620000,
+        "Buy Price": 7132.65,
+        "Sell Order Time": 1576919880000,
+        "Sell Price": 7138.9,
+        "Share Quantity": 0.0701001731,
+        "Comission": 1.0004381261,
+        "(%) Change": 0.0735990393,
+        "Portfolio Total": 303.1768510122
+    },
+    "367": {
+        "Buy Order Time": 1576923240000,
+        "Buy Price": 7124.5,
+        "Sell Order Time": 1576924800000,
+        "Sell Price": 7124.35,
+        "Share Quantity": 0.0701803635,
+        "Comission": 0.9999894729,
+        "(%) Change": -0.0161413359,
+        "Portfolio Total": 303.096144333
+    },
+    "368": {
+        "Buy Order Time": 1576925100000,
+        "Buy Price": 7125.6,
+        "Sell Order Time": 1576930740000,
+        "Sell Price": 7143.95,
+        "Share Quantity": 0.0701695296,
+        "Comission": 1.0012876109,
+        "(%) Change": 0.2434701974,
+        "Portfolio Total": 304.3134953202
+    },
+    "369": {
+        "Buy Order Time": 1576932600000,
+        "Buy Price": 7143.45,
+        "Sell Order Time": 1576934280000,
+        "Sell Price": 7143.65,
+        "Share Quantity": 0.0699941905,
+        "Comission": 1.0000139988,
+        "(%) Change": -0.0111992664,
+        "Portfolio Total": 304.257498988
+    },
+    "370": {
+        "Buy Order Time": 1576938120000,
+        "Buy Price": 7126.9,
+        "Sell Order Time": 1576940640000,
+        "Sell Price": 7133.8,
+        "Share Quantity": 0.0701567301,
+        "Comission": 1.0004840814,
+        "(%) Change": 0.0827781492,
+        "Portfolio Total": 304.6713897342
+    },
+    "371": {
+        "Buy Order Time": 1576942080000,
+        "Buy Price": 7134.25,
+        "Sell Order Time": 1576944120000,
+        "Sell Price": 7137.2,
+        "Share Quantity": 0.0700844518,
+        "Comission": 1.0002067491,
+        "(%) Change": 0.0273300382,
+        "Portfolio Total": 304.8080399252
+    },
+    "372": {
+        "Buy Order Time": 1576947240000,
+        "Buy Price": 7133.6,
+        "Sell Order Time": 1576952940000,
+        "Sell Price": 7148.9,
+        "Share Quantity": 0.0700908377,
+        "Comission": 1.0010723898,
+        "(%) Change": 0.200444763,
+        "Portfolio Total": 305.81026374
+    },
+    "373": {
+        "Buy Order Time": 1576954620000,
+        "Buy Price": 7149.25,
+        "Sell Order Time": 1576955400000,
+        "Sell Price": 7147.7,
+        "Share Quantity": 0.069937406,
+        "Comission": 0.999891597,
+        "(%) Change": -0.0356665608,
+        "Portfolio Total": 305.6319309361
+    },
+    "374": {
+        "Buy Order Time": 1576958640000,
+        "Buy Price": 7143.2,
+        "Sell Order Time": 1576960260000,
+        "Sell Price": 7143.8,
+        "Share Quantity": 0.0699966402,
+        "Comission": 1.000041998,
+        "(%) Change": -0.0056003192,
+        "Portfolio Total": 305.6039293403
+    },
+    "375": {
+        "Buy Order Time": 1576961520000,
+        "Buy Price": 7145.0,
+        "Sell Order Time": 1576964400000,
+        "Sell Price": 7156.3,
+        "Share Quantity": 0.0699790063,
+        "Comission": 1.0007907628,
+        "(%) Change": 0.1441456856,
+        "Portfolio Total": 306.3246577684
+    },
+    "376": {
+        "Buy Order Time": 1576968120000,
+        "Buy Price": 7130.5,
+        "Sell Order Time": 1576970520000,
+        "Sell Price": 7135.15,
+        "Share Quantity": 0.0701213099,
+        "Comission": 1.0003260641,
+        "(%) Change": 0.0511839834,
+        "Portfolio Total": 306.5805776853
+    },
+    "377": {
+        "Buy Order Time": 1576972440000,
+        "Buy Price": 7133.2,
+        "Sell Order Time": 1576973040000,
+        "Sell Price": 7132.25,
+        "Share Quantity": 0.0700947681,
+        "Comission": 0.99993341,
+        "(%) Change": -0.027336026,
+        "Portfolio Total": 306.4438975551
+    },
+    "378": {
+        "Buy Order Time": 1576976100000,
+        "Buy Price": 7127.6,
+        "Sell Order Time": 1576982460000,
+        "Sell Price": 7143.2,
+        "Share Quantity": 0.0701498401,
+        "Comission": 1.0010943375,
+        "(%) Change": 0.2048221795,
+        "Portfolio Total": 307.4680084524
+    },
+    "379": {
+        "Buy Order Time": 1576983900000,
+        "Buy Price": 7143.3,
+        "Sell Order Time": 1576984560000,
+        "Sell Price": 7142.0,
+        "Share Quantity": 0.0699956603,
+        "Comission": 0.9999090056,
+        "(%) Change": -0.0321967299,
+        "Portfolio Total": 307.3070248029
+    },
+    "380": {
+        "Buy Order Time": 1576987560000,
+        "Buy Price": 7137.6,
+        "Sell Order Time": 1576987740000,
+        "Sell Price": 7137.55,
+        "Share Quantity": 0.0700515579,
+        "Comission": 0.9999964974,
+        "(%) Change": -0.0147107781,
+        "Portfolio Total": 307.2334709125
+    },
+    "381": {
+        "Buy Order Time": 1576988160000,
+        "Buy Price": 7137.95,
+        "Sell Order Time": 1576990860000,
+        "Sell Price": 7140.9,
+        "Share Quantity": 0.0700481231,
+        "Comission": 1.000206642,
+        "(%) Change": 0.027315873,
+        "Portfolio Total": 307.3700502776
+    },
+    "382": {
+        "Buy Order Time": 1576996920000,
+        "Buy Price": 7131.0,
+        "Sell Order Time": 1576999620000,
+        "Sell Price": 7133.45,
+        "Share Quantity": 0.0701163932,
+        "Comission": 1.0001717852,
+        "(%) Change": 0.020331345,
+        "Portfolio Total": 307.4717070028
+    },
+    "383": {
+        "Buy Order Time": 1577000160000,
+        "Buy Price": 7133.45,
+        "Sell Order Time": 1577003160000,
+        "Sell Price": 7161.0,
+        "Share Quantity": 0.0700923116,
+        "Comission": 1.0019310432,
+        "(%) Change": 0.3721631042,
+        "Portfolio Total": 309.3325225238
+    },
+    "384": {
+        "Buy Order Time": 1577004120000,
+        "Buy Price": 7165.05,
+        "Sell Order Time": 1577005380000,
+        "Sell Price": 7163.2,
+        "Share Quantity": 0.0697831836,
+        "Comission": 0.9998709011,
+        "(%) Change": -0.0397746129,
+        "Portfolio Total": 309.1336494593
+    },
+    "385": {
+        "Buy Order Time": 1577007060000,
+        "Buy Price": 7164.3,
+        "Sell Order Time": 1577008440000,
+        "Sell Price": 7164.4,
+        "Share Quantity": 0.069790489,
+        "Comission": 1.000006979,
+        "(%) Change": -0.0125623854,
+        "Portfolio Total": 309.0708375322
+    },
+    "386": {
+        "Buy Order Time": 1577009460000,
+        "Buy Price": 7165.5,
+        "Sell Order Time": 1577011980000,
+        "Sell Price": 7174.1,
+        "Share Quantity": 0.0697788012,
+        "Comission": 1.0006000977,
+        "(%) Change": 0.106055403,
+        "Portfolio Total": 309.6011145472
+    },
+    "387": {
+        "Buy Order Time": 1577013720000,
+        "Buy Price": 7174.35,
+        "Sell Order Time": 1577015160000,
+        "Sell Price": 7174.6,
+        "Share Quantity": 0.0696927248,
+        "Comission": 1.0000174232,
+        "(%) Change": -0.0104541516,
+        "Portfolio Total": 309.5488437894
+    },
+    "388": {
+        "Buy Order Time": 1577017800000,
+        "Buy Price": 7167.65,
+        "Sell Order Time": 1577021940000,
+        "Sell Price": 7172.25,
+        "Share Quantity": 0.0697578704,
+        "Comission": 1.0003208862,
+        "(%) Change": 0.0502211898,
+        "Portfolio Total": 309.7999497386
+    },
+    "389": {
+        "Buy Order Time": 1577024100000,
+        "Buy Price": 7170.15,
+        "Sell Order Time": 1577025480000,
+        "Sell Price": 7169.15,
+        "Share Quantity": 0.0697335481,
+        "Comission": 0.9999302665,
+        "(%) Change": -0.0278924467,
+        "Portfolio Total": 309.6604875051
+    },
+    "390": {
+        "Buy Order Time": 1577027220000,
+        "Buy Price": 7169.55,
+        "Sell Order Time": 1577035020000,
+        "Sell Price": 7224.9,
+        "Share Quantity": 0.0697393839,
+        "Comission": 1.0038600749,
+        "(%) Change": 0.7580132634,
+        "Portfolio Total": 313.450553822
+    },
+    "391": {
+        "Buy Order Time": 1577035200000,
+        "Buy Price": 7225.4,
+        "Sell Order Time": 1577039280000,
+        "Sell Price": 7331.3,
+        "Share Quantity": 0.0692003211,
+        "Comission": 1.007328314,
+        "(%) Change": 1.4517213121,
+        "Portfolio Total": 320.7091603826
+    },
+    "392": {
+        "Buy Order Time": 1577039700000,
+        "Buy Price": 7331.75,
+        "Sell Order Time": 1577043480000,
+        "Sell Price": 7411.85,
+        "Share Quantity": 0.0681965424,
+        "Comission": 1.005462543,
+        "(%) Change": 1.078794796,
+        "Portfolio Total": 326.1031343627
+    },
+    "393": {
+        "Buy Order Time": 1577045100000,
+        "Buy Price": 7407.65,
+        "Sell Order Time": 1577047200000,
+        "Sell Price": 7419.55,
+        "Share Quantity": 0.0674977894,
+        "Comission": 1.0008032237,
+        "(%) Change": 0.1471343378,
+        "Portfolio Total": 326.8388060519
+    },
+    "394": {
+        "Buy Order Time": 1577050980000,
+        "Buy Price": 7399.75,
+        "Sell Order Time": 1577052720000,
+        "Sell Price": 7401.0,
+        "Share Quantity": 0.0675698503,
+        "Comission": 1.0000844623,
+        "(%) Change": 0.0033773511,
+        "Portfolio Total": 326.8556928074
+    },
+    "395": {
+        "Buy Order Time": 1577054940000,
+        "Buy Price": 7393.25,
+        "Sell Order Time": 1577061840000,
+        "Sell Price": 7556.8,
+        "Share Quantity": 0.0676292564,
+        "Comission": 1.0110607649,
+        "(%) Change": 2.1984775198,
+        "Portfolio Total": 337.8480804065
+    },
+    "396": {
+        "Buy Order Time": 1577063580000,
+        "Buy Price": 7558.6,
+        "Sell Order Time": 1577065020000,
+        "Sell Price": 7559.0,
+        "Share Quantity": 0.0661498161,
+        "Comission": 1.0000264599,
+        "(%) Change": -0.007938328,
+        "Portfolio Total": 337.8083887665
+    },
+    "397": {
+        "Buy Order Time": 1577066040000,
+        "Buy Price": 7567.35,
+        "Sell Order Time": 1577068260000,
+        "Sell Price": 7592.5,
+        "Share Quantity": 0.0660733282,
+        "Comission": 1.0016617442,
+        "(%) Change": 0.3191122157,
+        "Portfolio Total": 339.4039498451
+    },
+    "398": {
+        "Buy Order Time": 1577070600000,
+        "Buy Price": 7570.05,
+        "Sell Order Time": 1577072940000,
+        "Sell Price": 7580.75,
+        "Share Quantity": 0.0660497619,
+        "Comission": 1.0007067325,
+        "(%) Change": 0.1281272022,
+        "Portfolio Total": 340.0445858559
+    },
+    "399": {
+        "Buy Order Time": 1577074260000,
+        "Buy Price": 7582.3,
+        "Sell Order Time": 1577074980000,
+        "Sell Price": 7579.25,
+        "Share Quantity": 0.0659430516,
+        "Comission": 0.9997988737,
+        "(%) Change": -0.0534112192,
+        "Portfolio Total": 339.7775297599
+    },
+    "400": {
+        "Buy Order Time": 1577079360000,
+        "Buy Price": 7558.35,
+        "Sell Order Time": 1577080680000,
+        "Sell Price": 7555.35,
+        "Share Quantity": 0.0661520041,
+        "Comission": 0.999801544,
+        "(%) Change": -0.0529189776,
+        "Portfolio Total": 339.5129348719
+    },
+    "401": {
+        "Buy Order Time": 1577085840000,
+        "Buy Price": 7477.2,
+        "Sell Order Time": 1577088840000,
+        "Sell Price": 7499.95,
+        "Share Quantity": 0.0668699513,
+        "Comission": 1.0015212914,
+        "(%) Change": 0.2908639425,
+        "Portfolio Total": 340.9672545844
+    },
+    "402": {
+        "Buy Order Time": 1577089320000,
+        "Buy Price": 7502.8,
+        "Sell Order Time": 1577092080000,
+        "Sell Price": 7519.65,
+        "Share Quantity": 0.0666417871,
+        "Comission": 1.0011229141,
+        "(%) Change": 0.2112394984,
+        "Portfolio Total": 342.0234520764
+    },
+    "403": {
+        "Buy Order Time": 1577094180000,
+        "Buy Price": 7512.1,
+        "Sell Order Time": 1577096520000,
+        "Sell Price": 7524.45,
+        "Share Quantity": 0.0665592844,
+        "Comission": 1.0008220072,
+        "(%) Change": 0.151078633,
+        "Portfolio Total": 342.7788452416
+    },
+    "404": {
+        "Buy Order Time": 1577098740000,
+        "Buy Price": 7523.65,
+        "Sell Order Time": 1577098920000,
+        "Sell Price": 7522.85,
+        "Share Quantity": 0.0664571053,
+        "Comission": 0.9999468343,
+        "(%) Change": -0.0239238512,
+        "Portfolio Total": 342.6592259854
+    },
+    "405": {
+        "Buy Order Time": 1577100540000,
+        "Buy Price": 7522.15,
+        "Sell Order Time": 1577103900000,
+        "Sell Price": 7550.45,
+        "Share Quantity": 0.0664703575,
+        "Comission": 1.0018811111,
+        "(%) Change": 0.3629031446,
+        "Portfolio Total": 344.4737417082
+    },
+    "406": {
+        "Buy Order Time": 1577105700000,
+        "Buy Price": 7550.75,
+        "Sell Order Time": 1577109540000,
+        "Sell Price": 7577.45,
+        "Share Quantity": 0.0662185876,
+        "Comission": 1.0017680363,
+        "(%) Change": 0.3403401247,
+        "Portfolio Total": 346.1754423316
+    },
+    "407": {
+        "Buy Order Time": 1577111940000,
+        "Buy Price": 7539.25,
+        "Sell Order Time": 1577114760000,
+        "Sell Price": 7565.2,
+        "Share Quantity": 0.0663195941,
+        "Comission": 1.0017209935,
+        "(%) Change": 0.3309119476,
+        "Portfolio Total": 347.8300020694
+    },
+    "408": {
+        "Buy Order Time": 1577115480000,
+        "Buy Price": 7570.5,
+        "Sell Order Time": 1577119020000,
+        "Sell Price": 7602.3,
+        "Share Quantity": 0.0660458358,
+        "Comission": 1.0021002576,
+        "(%) Change": 0.4068146059,
+        "Portfolio Total": 349.864075099
+    },
+    "409": {
+        "Buy Order Time": 1577125020000,
+        "Buy Price": 7421.25,
+        "Sell Order Time": 1577127060000,
+        "Sell Price": 7430.65,
+        "Share Quantity": 0.0673740947,
+        "Comission": 1.0006333165,
+        "(%) Change": 0.1131799452,
+        "Portfolio Total": 350.4299748251
+    },
+    "410": {
+        "Buy Order Time": 1577129760000,
+        "Buy Price": 7410.35,
+        "Sell Order Time": 1577131800000,
+        "Sell Price": 7419.85,
+        "Share Quantity": 0.0674731963,
+        "Comission": 1.0006409954,
+        "(%) Change": 0.1146957837,
+        "Portfolio Total": 351.0034537434
+    },
+    "411": {
+        "Buy Order Time": 1577134140000,
+        "Buy Price": 7407.75,
+        "Sell Order Time": 1577135040000,
+        "Sell Price": 7404.55,
+        "Share Quantity": 0.0674968783,
+        "Comission": 0.99978401,
+        "(%) Change": -0.056694462,
+        "Portfolio Total": 350.7199814333
+    },
+    "412": {
+        "Buy Order Time": 1577138700000,
+        "Buy Price": 7311.3,
+        "Sell Order Time": 1577138880000,
+        "Sell Price": 7309.3,
+        "Share Quantity": 0.0683872909,
+        "Comission": 0.9998632254,
+        "(%) Change": -0.0410305038,
+        "Portfolio Total": 350.5148289142
+    },
+    "413": {
+        "Buy Order Time": 1577140260000,
+        "Buy Price": 7307.25,
+        "Sell Order Time": 1577140800000,
+        "Sell Price": 7305.6,
+        "Share Quantity": 0.0684251942,
+        "Comission": 0.9998870984,
+        "(%) Change": -0.0362638078,
+        "Portfolio Total": 350.333509875
+    },
+    "414": {
+        "Buy Order Time": 1577142660000,
+        "Buy Price": 7299.95,
+        "Sell Order Time": 1577146020000,
+        "Sell Price": 7324.45,
+        "Share Quantity": 0.0684936198,
+        "Comission": 1.0016780937,
+        "(%) Change": 0.3218970254,
+        "Portfolio Total": 351.9429950021
+    },
+    "415": {
+        "Buy Order Time": 1577149800000,
+        "Buy Price": 7305.95,
+        "Sell Order Time": 1577151360000,
+        "Sell Price": 7306.2,
+        "Share Quantity": 0.0684373695,
+        "Comission": 1.0000171093,
+        "(%) Change": -0.0102658396,
+        "Portfolio Total": 351.891665804
+    },
+    "416": {
+        "Buy Order Time": 1577153220000,
+        "Buy Price": 7304.6,
+        "Sell Order Time": 1577157900000,
+        "Sell Price": 7325.1,
+        "Share Quantity": 0.0684500178,
+        "Comission": 1.0014032254,
+        "(%) Change": 0.2669358592,
+        "Portfolio Total": 353.2263451002
+    },
+    "417": {
+        "Buy Order Time": 1577161140000,
+        "Buy Price": 7314.7,
+        "Sell Order Time": 1577162760000,
+        "Sell Price": 7316.7,
+        "Share Quantity": 0.0683555033,
+        "Comission": 1.000136711,
+        "(%) Change": 0.0136692317,
+        "Portfolio Total": 353.2946912586
+    },
+    "418": {
+        "Buy Order Time": 1577163060000,
+        "Buy Price": 7319.0,
+        "Sell Order Time": 1577163960000,
+        "Sell Price": 7318.45,
+        "Share Quantity": 0.0683153436,
+        "Comission": 0.9999624266,
+        "(%) Change": -0.0211772432,
+        "Portfolio Total": 353.1888050428
+    },
+    "419": {
+        "Buy Order Time": 1577164980000,
+        "Buy Price": 7318.6,
+        "Sell Order Time": 1577169840000,
+        "Sell Price": 7333.45,
+        "Share Quantity": 0.0683190774,
+        "Comission": 1.0010145383,
+        "(%) Change": 0.189229982,
+        "Portfolio Total": 354.1349549527
+    },
+    "420": {
+        "Buy Order Time": 1577176080000,
+        "Buy Price": 7267.7,
+        "Sell Order Time": 1577181660000,
+        "Sell Price": 7351.2,
+        "Share Quantity": 0.0687975563,
+        "Comission": 1.005744596,
+        "(%) Change": 1.1350806363,
+        "Portfolio Total": 359.8103581342
+    },
+    "421": {
+        "Buy Order Time": 1577181960000,
+        "Buy Price": 7352.55,
+        "Sell Order Time": 1577186280000,
+        "Sell Price": 7382.5,
+        "Share Quantity": 0.0680036178,
+        "Comission": 1.0020367084,
+        "(%) Change": 0.3937132463,
+        "Portfolio Total": 361.7789243658
+    },
+    "422": {
+        "Buy Order Time": 1577188380000,
+        "Buy Price": 7370.05,
+        "Sell Order Time": 1577189940000,
+        "Sell Price": 7369.3,
+        "Share Quantity": 0.0678421449,
+        "Comission": 0.9999491184,
+        "(%) Change": -0.0237440603,
+        "Portfolio Total": 361.6602040641
+    },
+    "423": {
+        "Buy Order Time": 1577192820000,
+        "Buy Price": 7363.85,
+        "Sell Order Time": 1577196000000,
+        "Sell Price": 7382.2,
+        "Share Quantity": 0.0678992647,
+        "Comission": 1.0012459515,
+        "(%) Change": 0.2355935285,
+        "Portfolio Total": 362.8381717066
+    },
+    "424": {
+        "Buy Order Time": 1577196540000,
+        "Buy Price": 7384.6,
+        "Sell Order Time": 1577198820000,
+        "Sell Price": 7391.55,
+        "Share Quantity": 0.0677084744,
+        "Comission": 1.0004705739,
+        "(%) Change": 0.0805667122,
+        "Portfolio Total": 363.2410052674
+    },
+    "425": {
+        "Buy Order Time": 1577202900000,
+        "Buy Price": 7279.7,
+        "Sell Order Time": 1577202960000,
+        "Sell Price": 7279.15,
+        "Share Quantity": 0.0686841491,
+        "Comission": 0.9999622237,
+        "(%) Change": -0.0212915673,
+        "Portfolio Total": 363.134547431
+    },
+    "426": {
+        "Buy Order Time": 1577205420000,
+        "Buy Price": 7263.9,
+        "Sell Order Time": 1577208780000,
+        "Sell Price": 7287.4,
+        "Share Quantity": 0.0688335467,
+        "Comission": 1.0016175883,
+        "(%) Change": 0.3097286914,
+        "Portfolio Total": 364.6831908878
+    },
+    "427": {
+        "Buy Order Time": 1577214300000,
+        "Buy Price": 7200.1,
+        "Sell Order Time": 1577216160000,
+        "Sell Price": 7205.25,
+        "Share Quantity": 0.06944348,
+        "Comission": 1.0003576339,
+        "(%) Change": 0.0576331213,
+        "Portfolio Total": 364.9713564942
+    },
+    "428": {
+        "Buy Order Time": 1577216700000,
+        "Buy Price": 7208.3,
+        "Sell Order Time": 1577219820000,
+        "Sell Price": 7246.2,
+        "Share Quantity": 0.0693644826,
+        "Comission": 1.0026289139,
+        "(%) Change": 0.511873411,
+        "Portfolio Total": 367.5307235493
+    },
+    "429": {
+        "Buy Order Time": 1577222040000,
+        "Buy Price": 7224.0,
+        "Sell Order Time": 1577226000000,
+        "Sell Price": 7249.05,
+        "Share Quantity": 0.069213732,
+        "Comission": 1.001733804,
+        "(%) Change": 0.3328940503,
+        "Portfolio Total": 369.195193801
+    },
+    "430": {
+        "Buy Order Time": 1577228640000,
+        "Buy Price": 7238.95,
+        "Sell Order Time": 1577230020000,
+        "Sell Price": 7238.75,
+        "Share Quantity": 0.0690707907,
+        "Comission": 0.9999861858,
+        "(%) Change": -0.0165767989,
+        "Portfolio Total": 369.1123098063
+    },
+    "431": {
+        "Buy Order Time": 1577231760000,
+        "Buy Price": 7237.35,
+        "Sell Order Time": 1577233920000,
+        "Sell Price": 7248.3,
+        "Share Quantity": 0.0690860605,
+        "Comission": 1.0007564924,
+        "(%) Change": 0.1374708078,
+        "Portfolio Total": 369.7996638453
+    },
+    "432": {
+        "Buy Order Time": 1577237700000,
+        "Buy Price": 7232.45,
+        "Sell Order Time": 1577241420000,
+        "Sell Price": 7247.0,
+        "Share Quantity": 0.0691328665,
+        "Comission": 1.0010058832,
+        "(%) Change": 0.1873361602,
+        "Portfolio Total": 370.7363446462
+    },
+    "433": {
+        "Buy Order Time": 1577245140000,
+        "Buy Price": 7230.55,
+        "Sell Order Time": 1577247060000,
+        "Sell Price": 7235.7,
+        "Share Quantity": 0.0691510328,
+        "Comission": 1.0003561278,
+        "(%) Change": 0.0573904319,
+        "Portfolio Total": 371.0232968056
+    },
+    "434": {
+        "Buy Order Time": 1577248380000,
+        "Buy Price": 7238.15,
+        "Sell Order Time": 1577250960000,
+        "Sell Price": 7248.95,
+        "Share Quantity": 0.0690784247,
+        "Comission": 1.000746047,
+        "(%) Change": 0.1353834053,
+        "Portfolio Total": 371.7002138322
+    },
+    "435": {
+        "Buy Order Time": 1577254980000,
+        "Buy Price": 7238.45,
+        "Sell Order Time": 1577256000000,
+        "Sell Price": 7236.85,
+        "Share Quantity": 0.0690755618,
+        "Comission": 0.9998894791,
+        "(%) Change": -0.0359177653,
+        "Portfolio Total": 371.520625006
+    },
+    "436": {
+        "Buy Order Time": 1577259600000,
+        "Buy Price": 7223.9,
+        "Sell Order Time": 1577262660000,
+        "Sell Price": 7255.75,
+        "Share Quantity": 0.0692146901,
+        "Comission": 1.0022044879,
+        "(%) Change": 0.4270241215,
+        "Portfolio Total": 373.6557456134
+    },
+    "437": {
+        "Buy Order Time": 1577265060000,
+        "Buy Price": 7252.8,
+        "Sell Order Time": 1577266200000,
+        "Sell Price": 7251.0,
+        "Share Quantity": 0.0689388926,
+        "Comission": 0.99987591,
+        "(%) Change": -0.0386040689,
+        "Portfolio Total": 373.4627252688
+    },
+    "438": {
+        "Buy Order Time": 1577271660000,
+        "Buy Price": 7224.1,
+        "Sell Order Time": 1577274060000,
+        "Sell Price": 7227.6,
+        "Share Quantity": 0.0692127739,
+        "Comission": 1.0002422447,
+        "(%) Change": 0.0346030337,
+        "Portfolio Total": 373.6357404372
+    },
+    "439": {
+        "Buy Order Time": 1577276700000,
+        "Buy Price": 7219.7,
+        "Sell Order Time": 1577278680000,
+        "Sell Price": 7233.25,
+        "Share Quantity": 0.0692549552,
+        "Comission": 1.0009384046,
+        "(%) Change": 0.1738169397,
+        "Portfolio Total": 374.5048251357
+    },
+    "440": {
+        "Buy Order Time": 1577283660000,
+        "Buy Price": 7196.7,
+        "Sell Order Time": 1577284260000,
+        "Sell Price": 7194.2,
+        "Share Quantity": 0.0694762877,
+        "Comission": 0.9998263093,
+        "(%) Change": -0.0486309879,
+        "Portfolio Total": 374.261670196
+    },
+    "441": {
+        "Buy Order Time": 1577285820000,
+        "Buy Price": 7194.35,
+        "Sell Order Time": 1577287260000,
+        "Sell Price": 7192.2,
+        "Share Quantity": 0.0694989818,
+        "Comission": 0.9998505772,
+        "(%) Change": -0.0437822816,
+        "Portfolio Total": 374.0427587879
+    },
+    "442": {
+        "Buy Order Time": 1577288460000,
+        "Buy Price": 7193.2,
+        "Sell Order Time": 1577290200000,
+        "Sell Price": 7193.5,
+        "Share Quantity": 0.0695100929,
+        "Comission": 1.000020853,
+        "(%) Change": -0.0097317029,
+        "Portfolio Total": 373.9941002734
+    },
+    "443": {
+        "Buy Order Time": 1577294400000,
+        "Buy Price": 7150.15,
+        "Sell Order Time": 1577296080000,
+        "Sell Price": 7152.55,
+        "Share Quantity": 0.0699286029,
+        "Comission": 1.0001678286,
+        "(%) Change": 0.0195776616,
+        "Portfolio Total": 374.0919885814
+    },
+    "444": {
+        "Buy Order Time": 1577297520000,
+        "Buy Price": 7153.65,
+        "Sell Order Time": 1577298360000,
+        "Sell Price": 7151.65,
+        "Share Quantity": 0.0698943896,
+        "Comission": 0.9998602112,
+        "(%) Change": -0.0419346797,
+        "Portfolio Total": 373.8823151831
+    },
+    "445": {
+        "Buy Order Time": 1577298840000,
+        "Buy Price": 7152.5,
+        "Sell Order Time": 1577299020000,
+        "Sell Price": 7152.45,
+        "Share Quantity": 0.0699056274,
+        "Comission": 0.9999965047,
+        "(%) Change": -0.0146801329,
+        "Portfolio Total": 373.8089145187
+    },
+    "446": {
+        "Buy Order Time": 1577299440000,
+        "Buy Price": 7153.7,
+        "Sell Order Time": 1577308140000,
+        "Sell Price": 7245.45,
+        "Share Quantity": 0.0698939011,
+        "Comission": 1.0064127654,
+        "(%) Change": 1.2684846616,
+        "Portfolio Total": 380.1513378266
+    },
+    "447": {
+        "Buy Order Time": 1577313600000,
+        "Buy Price": 7198.2,
+        "Sell Order Time": 1577315820000,
+        "Sell Price": 7207.7,
+        "Share Quantity": 0.0694618099,
+        "Comission": 1.0006598872,
+        "(%) Change": 0.1180759094,
+        "Portfolio Total": 380.7417173737
+    },
+    "448": {
+        "Buy Order Time": 1577318160000,
+        "Buy Price": 7200.4,
+        "Sell Order Time": 1577318280000,
+        "Sell Price": 7200.2,
+        "Share Quantity": 0.0694405866,
+        "Comission": 0.9999861119,
+        "(%) Change": -0.0166655479,
+        "Portfolio Total": 380.6583896342
+    },
+    "449": {
+        "Buy Order Time": 1577318400000,
+        "Buy Price": 7200.25,
+        "Sell Order Time": 1577320320000,
+        "Sell Price": 7204.55,
+        "Share Quantity": 0.0694420333,
+        "Comission": 1.0002986007,
+        "(%) Change": 0.0458275949,
+        "Portfolio Total": 380.8875276085
+    },
+    "450": {
+        "Buy Order Time": 1577324040000,
+        "Buy Price": 7197.3,
+        "Sell Order Time": 1577327280000,
+        "Sell Price": 7205.1,
+        "Share Quantity": 0.0694704959,
+        "Comission": 1.0005418699,
+        "(%) Change": 0.0944723456,
+        "Portfolio Total": 381.3598893365
+    },
+    "451": {
+        "Buy Order Time": 1577334360000,
+        "Buy Price": 7187.1,
+        "Sell Order Time": 1577335800000,
+        "Sell Price": 7187.0,
+        "Share Quantity": 0.0695690891,
+        "Comission": 0.9999930431,
+        "(%) Change": -0.0153051028,
+        "Portfolio Total": 381.2833638225
+    },
+    "452": {
+        "Buy Order Time": 1577337480000,
+        "Buy Price": 7186.35,
+        "Sell Order Time": 1577339580000,
+        "Sell Price": 7188.65,
+        "Share Quantity": 0.0695763496,
+        "Comission": 1.0001600256,
+        "(%) Change": 0.0180876241,
+        "Portfolio Total": 381.373801943
+    },
+    "453": {
+        "Buy Order Time": 1577340900000,
+        "Buy Price": 7189.25,
+        "Sell Order Time": 1577344560000,
+        "Sell Price": 7206.25,
+        "Share Quantity": 0.0695482839,
+        "Comission": 1.0011823208,
+        "(%) Change": 0.2225380628,
+        "Portfolio Total": 382.486492257
+    },
+    "454": {
+        "Buy Order Time": 1577345880000,
+        "Buy Price": 7208.55,
+        "Sell Order Time": 1577346960000,
+        "Sell Price": 7206.7,
+        "Share Quantity": 0.069362077,
+        "Comission": 0.9998716802,
+        "(%) Change": -0.0395346038,
+        "Portfolio Total": 382.2888192381
+    },
+    "455": {
+        "Buy Order Time": 1577347320000,
+        "Buy Price": 7207.8,
+        "Sell Order Time": 1577350620000,
+        "Sell Price": 7228.05,
+        "Share Quantity": 0.0693692944,
+        "Comission": 1.0014047282,
+        "(%) Change": 0.2670522943,
+        "Portfolio Total": 383.6240807098
+    },
+    "456": {
+        "Buy Order Time": 1577355420000,
+        "Buy Price": 7215.75,
+        "Sell Order Time": 1577357700000,
+        "Sell Price": 7219.55,
+        "Share Quantity": 0.0692928663,
+        "Comission": 1.0002633129,
+        "(%) Change": 0.038800356,
+        "Portfolio Total": 383.8180824898
+    },
+    "457": {
+        "Buy Order Time": 1577362500000,
+        "Buy Price": 7195.45,
+        "Sell Order Time": 1577365980000,
+        "Sell Price": 7208.1,
+        "Share Quantity": 0.0694883572,
+        "Comission": 1.0008790277,
+        "(%) Change": 0.1618956559,
+        "Portfolio Total": 384.6275607693
+    },
+    "458": {
+        "Buy Order Time": 1577367600000,
+        "Buy Price": 7206.75,
+        "Sell Order Time": 1577370780000,
+        "Sell Price": 7212.0,
+        "Share Quantity": 0.0693794013,
+        "Comission": 1.0003642419,
+        "(%) Change": 0.0589674369,
+        "Portfolio Total": 384.9223979537
+    },
+    "459": {
+        "Buy Order Time": 1577371260000,
+        "Buy Price": 7213.05,
+        "Sell Order Time": 1577373540000,
+        "Sell Price": 7214.65,
+        "Share Quantity": 0.0693188041,
+        "Comission": 1.0001109101,
+        "(%) Change": 0.0083167189,
+        "Portfolio Total": 384.963981548
+    },
+    "460": {
+        "Buy Order Time": 1577375100000,
+        "Buy Price": 7214.8,
+        "Sell Order Time": 1577377020000,
+        "Sell Price": 7221.35,
+        "Share Quantity": 0.0693019904,
+        "Comission": 1.000453928,
+        "(%) Change": 0.0769189177,
+        "Portfolio Total": 385.3485761364
+    },
+    "461": {
+        "Buy Order Time": 1577377920000,
+        "Buy Price": 7226.25,
+        "Sell Order Time": 1577382660000,
+        "Sell Price": 7354.45,
+        "Share Quantity": 0.0691921813,
+        "Comission": 1.0088704376,
+        "(%) Change": 1.7601263389,
+        "Portfolio Total": 394.1492078307
+    },
+    "462": {
+        "Buy Order Time": 1577383440000,
+        "Buy Price": 7358.9,
+        "Sell Order Time": 1577385300000,
+        "Sell Price": 7360.9,
+        "Share Quantity": 0.0679449374,
+        "Comission": 1.0001358899,
+        "(%) Change": 0.0135871409,
+        "Portfolio Total": 394.2171435351
+    },
+    "463": {
+        "Buy Order Time": 1577386500000,
+        "Buy Price": 7362.2,
+        "Sell Order Time": 1577390160000,
+        "Sell Price": 7378.45,
+        "Share Quantity": 0.0679144821,
+        "Comission": 1.0011036103,
+        "(%) Change": 0.2071241801,
+        "Portfolio Total": 395.2527644357
+    },
+    "464": {
+        "Buy Order Time": 1577401080000,
+        "Buy Price": 7180.25,
+        "Sell Order Time": 1577405220000,
+        "Sell Price": 7203.1,
+        "Share Quantity": 0.0696354584,
+        "Comission": 1.0015911702,
+        "(%) Change": 0.3042847927,
+        "Portfolio Total": 396.7741883994
+    },
+    "465": {
+        "Buy Order Time": 1577406480000,
+        "Buy Price": 7204.15,
+        "Sell Order Time": 1577408100000,
+        "Sell Price": 7204.9,
+        "Share Quantity": 0.0694044405,
+        "Comission": 1.0000520533,
+        "(%) Change": -0.0034709446,
+        "Portfolio Total": 396.7568336765
+    },
+    "466": {
+        "Buy Order Time": 1577409900000,
+        "Buy Price": 7203.9,
+        "Sell Order Time": 1577410800000,
+        "Sell Price": 7202.15,
+        "Share Quantity": 0.0694068491,
+        "Comission": 0.999878538,
+        "(%) Change": -0.0381720809,
+        "Portfolio Total": 396.5659732719
+    },
+    "467": {
+        "Buy Order Time": 1577411400000,
+        "Buy Price": 7203.95,
+        "Sell Order Time": 1577415000000,
+        "Sell Price": 7223.6,
+        "Share Quantity": 0.0694063673,
+        "Comission": 1.0013638351,
+        "(%) Change": 0.2588668184,
+        "Portfolio Total": 397.8603073639
+    },
+    "468": {
+        "Buy Order Time": 1577415720000,
+        "Buy Price": 7226.35,
+        "Sell Order Time": 1577416440000,
+        "Sell Price": 7225.0,
+        "Share Quantity": 0.0691912238,
+        "Comission": 0.9999065918,
+        "(%) Change": -0.0325185826,
+        "Portfolio Total": 397.6977144511
+    },
+    "469": {
+        "Buy Order Time": 1577417400000,
+        "Buy Price": 7226.4,
+        "Sell Order Time": 1577420880000,
+        "Sell Price": 7231.75,
+        "Share Quantity": 0.069190745,
+        "Comission": 1.0003701705,
+        "(%) Change": 0.0601908257,
+        "Portfolio Total": 397.9986685796
+    },
+    "470": {
+        "Buy Order Time": 1577424360000,
+        "Buy Price": 7204.8,
+        "Sell Order Time": 1577426460000,
+        "Sell Price": 7209.7,
+        "Share Quantity": 0.069398179,
+        "Comission": 1.0003400511,
+        "(%) Change": 0.0541258598,
+        "Portfolio Total": 398.2692978788
+    },
+    "471": {
+        "Buy Order Time": 1577426520000,
+        "Buy Price": 7210.3,
+        "Sell Order Time": 1577427180000,
+        "Sell Price": 7211.8,
+        "Share Quantity": 0.0693452422,
+        "Comission": 1.0001040179,
+        "(%) Change": 0.0069330816,
+        "Portfolio Total": 398.3039632868
+    },
+    "472": {
+        "Buy Order Time": 1577429460000,
+        "Buy Price": 7205.05,
+        "Sell Order Time": 1577430720000,
+        "Sell Price": 7202.15,
+        "Share Quantity": 0.069395771,
+        "Comission": 0.9997987523,
+        "(%) Change": -0.0541259082,
+        "Portfolio Total": 398.0333337455
+    },
+    "473": {
+        "Buy Order Time": 1577433360000,
+        "Buy Price": 7194.65,
+        "Sell Order Time": 1577435760000,
+        "Sell Price": 7196.05,
+        "Share Quantity": 0.0694960839,
+        "Comission": 1.0000972945,
+        "(%) Change": 0.0055583344,
+        "Portfolio Total": 398.0611254175
+    },
+    "474": {
+        "Buy Order Time": 1577436060000,
+        "Buy Price": 7197.05,
+        "Sell Order Time": 1577437980000,
+        "Sell Price": 7201.1,
+        "Share Quantity": 0.069472909,
+        "Comission": 1.0002813653,
+        "(%) Change": 0.0423745651,
+        "Portfolio Total": 398.2729982428
+    },
+    "475": {
+        "Buy Order Time": 1577441880000,
+        "Buy Price": 7191.1,
+        "Sell Order Time": 1577443980000,
+        "Sell Price": 7195.05,
+        "Share Quantity": 0.0695303917,
+        "Comission": 1.000274645,
+        "(%) Change": 0.0410191119,
+        "Portfolio Total": 398.4780938022
+    },
+    "476": {
+        "Buy Order Time": 1577450340000,
+        "Buy Price": 7129.2,
+        "Sell Order Time": 1577453760000,
+        "Sell Price": 7205.25,
+        "Share Quantity": 0.0701340964,
+        "Comission": 1.005333698,
+        "(%) Change": 1.052637972,
+        "Portfolio Total": 403.7412836624
+    },
+    "477": {
+        "Buy Order Time": 1577455920000,
+        "Buy Price": 7197.5,
+        "Sell Order Time": 1577457840000,
+        "Sell Price": 7201.95,
+        "Share Quantity": 0.0694685655,
+        "Comission": 1.0003091351,
+        "(%) Change": 0.0479290151,
+        "Portfolio Total": 403.9809287381
+    },
+    "478": {
+        "Buy Order Time": 1577459640000,
+        "Buy Price": 7202.65,
+        "Sell Order Time": 1577464800000,
+        "Sell Price": 7245.4,
+        "Share Quantity": 0.0694188944,
+        "Comission": 1.0029676577,
+        "(%) Change": 0.5796065662,
+        "Portfolio Total": 406.8789615692
+    },
+    "479": {
+        "Buy Order Time": 1577467440000,
+        "Buy Price": 7205.0,
+        "Sell Order Time": 1577469540000,
+        "Sell Price": 7206.8,
+        "Share Quantity": 0.0693962526,
+        "Comission": 1.0001249133,
+        "(%) Change": 0.0111016667,
+        "Portfolio Total": 406.9344699028
+    },
+    "480": {
+        "Buy Order Time": 1577469960000,
+        "Buy Price": 7210.9,
+        "Sell Order Time": 1577472420000,
+        "Sell Price": 7222.85,
+        "Share Quantity": 0.0693394722,
+        "Comission": 1.0008286067,
+        "(%) Change": 0.1518419531,
+        "Portfolio Total": 407.6936796681
+    },
+    "481": {
+        "Buy Order Time": 1577474160000,
+        "Buy Price": 7222.4,
+        "Sell Order Time": 1577474700000,
+        "Sell Price": 7219.85,
+        "Share Quantity": 0.0692290651,
+        "Comission": 0.9998234659,
+        "(%) Change": -0.049150192,
+        "Portfolio Total": 407.4479287082
+    },
+    "482": {
+        "Buy Order Time": 1577476920000,
+        "Buy Price": 7216.25,
+        "Sell Order Time": 1577479140000,
+        "Sell Price": 7223.7,
+        "Share Quantity": 0.0692880651,
+        "Comission": 1.0005161961,
+        "(%) Change": 0.0893744508,
+        "Portfolio Total": 407.894800962
+    },
+    "483": {
+        "Buy Order Time": 1577482140000,
+        "Buy Price": 7222.8,
+        "Sell Order Time": 1577486400000,
+        "Sell Price": 7238.3,
+        "Share Quantity": 0.0692252312,
+        "Comission": 1.0010729911,
+        "(%) Change": 0.2007383149,
+        "Portfolio Total": 408.8984925366
+    },
+    "484": {
+        "Buy Order Time": 1577487360000,
+        "Buy Price": 7242.45,
+        "Sell Order Time": 1577488500000,
+        "Sell Price": 7238.85,
+        "Share Quantity": 0.0690374114,
+        "Comission": 0.9997514653,
+        "(%) Change": -0.0635109868,
+        "Portfolio Total": 408.5809376024
+    },
+    "485": {
+        "Buy Order Time": 1577490360000,
+        "Buy Price": 7238.5,
+        "Sell Order Time": 1577496180000,
+        "Sell Price": 7301.55,
+        "Share Quantity": 0.0690750846,
+        "Comission": 1.0043551841,
+        "(%) Change": 0.8571616332,
+        "Portfolio Total": 412.8667457682
+    },
+    "486": {
+        "Buy Order Time": 1577497200000,
+        "Buy Price": 7304.45,
+        "Sell Order Time": 1577499540000,
+        "Sell Price": 7308.5,
+        "Share Quantity": 0.0684514234,
+        "Comission": 1.0002772283,
+        "(%) Change": 0.041751573,
+        "Portfolio Total": 413.0755036331
+    },
+    "487": {
+        "Buy Order Time": 1577501940000,
+        "Buy Price": 7292.05,
+        "Sell Order Time": 1577503440000,
+        "Sell Price": 7291.7,
+        "Share Quantity": 0.0685678239,
+        "Comission": 0.9999760013,
+        "(%) Change": -0.0185129833,
+        "Portfolio Total": 412.9829387164
+    },
+    "488": {
+        "Buy Order Time": 1577506200000,
+        "Buy Price": 7287.9,
+        "Sell Order Time": 1577515260000,
+        "Sell Price": 7329.6,
+        "Share Quantity": 0.0686068689,
+        "Comission": 1.0028609064,
+        "(%) Change": 0.5584206574,
+        "Portfolio Total": 415.7750420036
+    },
+    "489": {
+        "Buy Order Time": 1577517900000,
+        "Buy Price": 7314.75,
+        "Sell Order Time": 1577518140000,
+        "Sell Price": 7313.4,
+        "Share Quantity": 0.0683550361,
+        "Comission": 0.9999077207,
+        "(%) Change": -0.0321256054,
+        "Portfolio Total": 415.6144139766
+    },
+    "490": {
+        "Buy Order Time": 1577518380000,
+        "Buy Price": 7312.45,
+        "Sell Order Time": 1577518440000,
+        "Sell Price": 7312.2,
+        "Share Quantity": 0.0683765359,
+        "Comission": 0.9999829059,
+        "(%) Change": -0.0170939002,
+        "Portfolio Total": 415.5289444756
+    },
+    "491": {
+        "Buy Order Time": 1577522940000,
+        "Buy Price": 7285.45,
+        "Sell Order Time": 1577524680000,
+        "Sell Price": 7287.85,
+        "Share Quantity": 0.0686299405,
+        "Comission": 1.0001647119,
+        "(%) Change": 0.0192141225,
+        "Portfolio Total": 415.6250150881
+    },
+    "492": {
+        "Buy Order Time": 1577525280000,
+        "Buy Price": 7291.6,
+        "Sell Order Time": 1577528700000,
+        "Sell Price": 7301.85,
+        "Share Quantity": 0.0685720555,
+        "Comission": 1.0007028636,
+        "(%) Change": 0.1268486633,
+        "Portfolio Total": 416.2592584048
+    },
+    "493": {
+        "Buy Order Time": 1577529540000,
+        "Buy Price": 7302.5,
+        "Sell Order Time": 1577531640000,
+        "Sell Price": 7304.1,
+        "Share Quantity": 0.0684697022,
+        "Comission": 1.0001095515,
+        "(%) Change": 0.0082148641,
+        "Portfolio Total": 416.3003327251
+    },
+    "494": {
+        "Buy Order Time": 1577533920000,
+        "Buy Price": 7295.25,
+        "Sell Order Time": 1577538240000,
+        "Sell Price": 7304.2,
+        "Share Quantity": 0.0685377472,
+        "Comission": 1.0006134128,
+        "(%) Change": 0.1089666096,
+        "Portfolio Total": 416.8451657732
+    },
+    "495": {
+        "Buy Order Time": 1577540880000,
+        "Buy Price": 7297.6,
+        "Sell Order Time": 1577547240000,
+        "Sell Price": 7319.85,
+        "Share Quantity": 0.0685156764,
+        "Comission": 1.0015244738,
+        "(%) Change": 0.2911707346,
+        "Portfolio Total": 418.301019446
+    },
+    "496": {
+        "Buy Order Time": 1577550120000,
+        "Buy Price": 7305.65,
+        "Sell Order Time": 1577553000000,
+        "Sell Price": 7322.45,
+        "Share Quantity": 0.0684401799,
+        "Comission": 1.001149795,
+        "(%) Change": 0.2162552299,
+        "Portfolio Total": 419.3822955957
+    },
+    "497": {
+        "Buy Order Time": 1577554620000,
+        "Buy Price": 7323.35,
+        "Sell Order Time": 1577559120000,
+        "Sell Price": 7345.8,
+        "Share Quantity": 0.068274765,
+        "Comission": 1.0015327685,
+        "(%) Change": 0.2928778118,
+        "Portfolio Total": 420.8466846547
+    },
+    "498": {
+        "Buy Order Time": 1577560920000,
+        "Buy Price": 7343.45,
+        "Sell Order Time": 1577562360000,
+        "Sell Price": 7343.7,
+        "Share Quantity": 0.0680878878,
+        "Comission": 1.000017022,
+        "(%) Change": -0.010213415,
+        "Portfolio Total": 420.7956175798
+    },
+    "499": {
+        "Buy Order Time": 1577563740000,
+        "Buy Price": 7345.45,
+        "Sell Order Time": 1577565300000,
+        "Sell Price": 7346.05,
+        "Share Quantity": 0.0680693491,
+        "Comission": 1.0000408416,
+        "(%) Change": -0.0054461039,
+        "Portfolio Total": 420.7683870602
+    },
+    "500": {
+        "Buy Order Time": 1577569560000,
+        "Buy Price": 7335.5,
+        "Sell Order Time": 1577570520000,
+        "Sell Price": 7333.8,
+        "Share Quantity": 0.0681616795,
+        "Comission": 0.9998841251,
+        "(%) Change": -0.0368057273,
+        "Portfolio Total": 420.5843584237
+    },
+    "501": {
+        "Buy Order Time": 1577573340000,
+        "Buy Price": 7320.5,
+        "Sell Order Time": 1577576040000,
+        "Sell Price": 7324.35,
+        "Share Quantity": 0.0683013455,
+        "Comission": 1.0002629602,
+        "(%) Change": 0.0389281748,
+        "Portfolio Total": 420.778999298
+    },
+    "502": {
+        "Buy Order Time": 1577580180000,
+        "Buy Price": 7307.4,
+        "Sell Order Time": 1577581740000,
+        "Sell Price": 7306.3,
+        "Share Quantity": 0.0684237896,
+        "Comission": 0.9999247338,
+        "(%) Change": -0.0287369616,
+        "Portfolio Total": 420.6353144898
+    },
+    "503": {
+        "Buy Order Time": 1577584140000,
+        "Buy Price": 7299.5,
+        "Sell Order Time": 1577584440000,
+        "Sell Price": 7298.3,
+        "Share Quantity": 0.0684978423,
+        "Comission": 0.9999178026,
+        "(%) Change": -0.0301379246,
+        "Portfolio Total": 420.4846248671
+    },
+    "504": {
+        "Buy Order Time": 1577586060000,
+        "Buy Price": 7296.55,
+        "Sell Order Time": 1577589480000,
+        "Sell Price": 7306.45,
+        "Share Quantity": 0.068525536,
+        "Comission": 1.0006784028,
+        "(%) Change": 0.1219661566,
+        "Portfolio Total": 421.0944556499
+    },
+    "505": {
+        "Buy Order Time": 1577590800000,
+        "Buy Price": 7306.35,
+        "Sell Order Time": 1577592120000,
+        "Sell Price": 7306.0,
+        "Share Quantity": 0.0684336228,
+        "Comission": 0.9999760482,
+        "(%) Change": -0.0184767503,
+        "Portfolio Total": 421.0020718983
+    },
+    "506": {
+        "Buy Order Time": 1577593800000,
+        "Buy Price": 7306.1,
+        "Sell Order Time": 1577594040000,
+        "Sell Price": 7305.2,
+        "Share Quantity": 0.0684359645,
+        "Comission": 0.9999384076,
+        "(%) Change": -0.0260048235,
+        "Portfolio Total": 420.8720477809
+    },
+    "507": {
+        "Buy Order Time": 1577598120000,
+        "Buy Price": 7298.0,
+        "Sell Order Time": 1577601300000,
+        "Sell Price": 7313.85,
+        "Share Quantity": 0.0685119211,
+        "Comission": 1.0010859139,
+        "(%) Change": 0.203465526,
+        "Portfolio Total": 421.8893754108
+    },
+    "508": {
+        "Buy Order Time": 1577603040000,
+        "Buy Price": 7314.65,
+        "Sell Order Time": 1577604960000,
+        "Sell Price": 7316.0,
+        "Share Quantity": 0.0683559706,
+        "Comission": 1.0000922806,
+        "(%) Change": 0.0047836564,
+        "Portfolio Total": 421.9132936926
+    },
+    "509": {
+        "Buy Order Time": 1577606760000,
+        "Buy Price": 7315.35,
+        "Sell Order Time": 1577610960000,
+        "Sell Price": 7335.85,
+        "Share Quantity": 0.0683494296,
+        "Comission": 1.0014011633,
+        "(%) Change": 0.2665436218,
+        "Portfolio Total": 423.2460118015
+    },
+    "510": {
+        "Buy Order Time": 1577614920000,
+        "Buy Price": 7319.5,
+        "Sell Order Time": 1577617200000,
+        "Sell Price": 7323.05,
+        "Share Quantity": 0.068310677,
+        "Comission": 1.0002425029,
+        "(%) Change": 0.0348351321,
+        "Portfolio Total": 423.4201874622
+    },
+    "511": {
+        "Buy Order Time": 1577617920000,
+        "Buy Price": 7324.7,
+        "Sell Order Time": 1577621220000,
+        "Sell Price": 7338.5,
+        "Share Quantity": 0.0682621814,
+        "Comission": 1.0009420181,
+        "(%) Change": 0.1747383235,
+        "Portfolio Total": 424.2938790798
+    },
+    "512": {
+        "Buy Order Time": 1577622420000,
+        "Buy Price": 7339.8,
+        "Sell Order Time": 1577625660000,
+        "Sell Price": 7354.15,
+        "Share Quantity": 0.0681217472,
+        "Comission": 1.0009775471,
+        "(%) Change": 0.1818717465,
+        "Portfolio Total": 425.2032378125
+    },
+    "513": {
+        "Buy Order Time": 1577625780000,
+        "Buy Price": 7356.15,
+        "Sell Order Time": 1577630820000,
+        "Sell Price": 7396.65,
+        "Share Quantity": 0.0679703377,
+        "Comission": 1.0027527987,
+        "(%) Change": 0.5369282465,
+        "Portfolio Total": 427.8878790447
+    },
+    "514": {
+        "Buy Order Time": 1577633700000,
+        "Buy Price": 7385.45,
+        "Sell Order Time": 1577637660000,
+        "Sell Price": 7404.4,
+        "Share Quantity": 0.0677006817,
+        "Comission": 1.0012829279,
+        "(%) Change": 0.2430280764,
+        "Portfolio Total": 429.103019427
+    },
+    "515": {
+        "Buy Order Time": 1577639040000,
+        "Buy Price": 7406.6,
+        "Sell Order Time": 1577639580000,
+        "Sell Price": 7404.9,
+        "Share Quantity": 0.0675073583,
+        "Comission": 0.9998852375,
+        "(%) Change": -0.036452424,
+        "Portfolio Total": 428.9207573069
+    },
+    "516": {
+        "Buy Order Time": 1577641800000,
+        "Buy Price": 7397.45,
+        "Sell Order Time": 1577644320000,
+        "Sell Price": 7407.5,
+        "Share Quantity": 0.067590859,
+        "Comission": 1.0006792881,
+        "(%) Change": 0.1223302721,
+        "Portfolio Total": 429.5324086673
+    },
+    "517": {
+        "Buy Order Time": 1577645520000,
+        "Buy Price": 7409.75,
+        "Sell Order Time": 1577652060000,
+        "Sell Price": 7468.1,
+        "Share Quantity": 0.0674786599,
+        "Comission": 1.0039373798,
+        "(%) Change": 0.7739270909,
+        "Portfolio Total": 433.4020441219
+    },
+    "518": {
+        "Buy Order Time": 1577655840000,
+        "Buy Price": 7381.2,
+        "Sell Order Time": 1577660160000,
+        "Sell Price": 7416.05,
+        "Share Quantity": 0.0677396629,
+        "Comission": 1.0023607273,
+        "(%) Change": 0.458565535,
+        "Portfolio Total": 435.6948717972
+    },
+    "519": {
+        "Buy Order Time": 1577667240000,
+        "Buy Price": 7348.5,
+        "Sell Order Time": 1577668440000,
+        "Sell Price": 7344.1,
+        "Share Quantity": 0.0680410968,
+        "Comission": 0.9997006192,
+        "(%) Change": -0.0734803105,
+        "Portfolio Total": 435.3274702445
+    },
+    "520": {
+        "Buy Order Time": 1577670000000,
+        "Buy Price": 7343.85,
+        "Sell Order Time": 1577672100000,
+        "Sell Price": 7350.15,
+        "Share Quantity": 0.0680841793,
+        "Comission": 1.0004289303,
+        "(%) Change": 0.0721633894,
+        "Portfolio Total": 435.6882871913
+    },
+    "521": {
+        "Buy Order Time": 1577673120000,
+        "Buy Price": 7353.15,
+        "Sell Order Time": 1577675580000,
+        "Sell Price": 7362.3,
+        "Share Quantity": 0.0679980689,
+        "Comission": 1.0006221823,
+        "(%) Change": 0.1108283908,
+        "Portfolio Total": 436.2424291453
+    },
+    "522": {
+        "Buy Order Time": 1577677680000,
+        "Buy Price": 7356.7,
+        "Sell Order Time": 1577678580000,
+        "Sell Price": 7353.2,
+        "Share Quantity": 0.0679652562,
+        "Comission": 0.9997621216,
+        "(%) Change": -0.0611654971,
+        "Portfolio Total": 435.93660166
+    },
+    "523": {
+        "Buy Order Time": 1577679720000,
+        "Buy Price": 7355.25,
+        "Sell Order Time": 1577686740000,
+        "Sell Price": 7374.4,
+        "Share Quantity": 0.0679786547,
+        "Comission": 1.0013017912,
+        "(%) Change": 0.2467448178,
+        "Portfolio Total": 437.1703257489
+    },
+    "524": {
+        "Buy Order Time": 1577688300000,
+        "Buy Price": 7375.75,
+        "Sell Order Time": 1577692260000,
+        "Sell Price": 7390.5,
+        "Share Quantity": 0.0677897163,
+        "Comission": 1.0009998983,
+        "(%) Change": 0.1864081633,
+        "Portfolio Total": 438.1023665652
+    },
+    "525": {
+        "Buy Order Time": 1577696160000,
+        "Buy Price": 7366.6,
+        "Sell Order Time": 1577698740000,
+        "Sell Price": 7368.85,
+        "Share Quantity": 0.0678739174,
+        "Comission": 1.0001527163,
+        "(%) Change": 0.0169664063,
+        "Portfolio Total": 438.1871985965
+    },
+    "526": {
+        "Buy Order Time": 1577704560000,
+        "Buy Price": 7317.85,
+        "Sell Order Time": 1577705580000,
+        "Sell Price": 7314.4,
+        "Share Quantity": 0.0683260794,
+        "Comission": 0.999764275,
+        "(%) Change": -0.0608069894,
+        "Portfolio Total": 437.8831636494
+    },
+    "527": {
+        "Buy Order Time": 1577706600000,
+        "Buy Price": 7316.15,
+        "Sell Order Time": 1577707860000,
+        "Sell Price": 7314.65,
+        "Share Quantity": 0.0683419558,
+        "Comission": 0.9998974871,
+        "(%) Change": -0.0341695767,
+        "Portfolio Total": 437.7123157658
+    },
+    "528": {
+        "Buy Order Time": 1577708340000,
+        "Buy Price": 7316.65,
+        "Sell Order Time": 1577710800000,
+        "Sell Price": 7326.25,
+        "Share Quantity": 0.0683372855,
+        "Comission": 1.0006560379,
+        "(%) Change": 0.1175311647,
+        "Portfolio Total": 438.2999715893
+    },
+    "529": {
+        "Buy Order Time": 1577712300000,
+        "Buy Price": 7323.15,
+        "Sell Order Time": 1577714040000,
+        "Sell Price": 7325.05,
+        "Share Quantity": 0.0682766296,
+        "Comission": 1.0001297256,
+        "(%) Change": 0.0122880219,
+        "Portfolio Total": 438.3614116987
+    },
+    "530": {
+        "Buy Order Time": 1577715480000,
+        "Buy Price": 7327.6,
+        "Sell Order Time": 1577716560000,
+        "Sell Price": 7324.35,
+        "Share Quantity": 0.0682351657,
+        "Comission": 0.9997782357,
+        "(%) Change": -0.0579968644,
+        "Portfolio Total": 438.0714273767
+    },
+    "531": {
+        "Buy Order Time": 1577720820000,
+        "Buy Price": 7286.4,
+        "Sell Order Time": 1577721480000,
+        "Sell Price": 7280.5,
+        "Share Quantity": 0.0686209925,
+        "Comission": 0.9995951361,
+        "(%) Change": -0.0946914133,
+        "Portfolio Total": 437.5979703104
+    },
+    "532": {
+        "Buy Order Time": 1577725020000,
+        "Buy Price": 7248.3,
+        "Sell Order Time": 1577726400000,
+        "Sell Price": 7244.3,
+        "Share Quantity": 0.0689816923,
+        "Comission": 0.9997240732,
+        "(%) Change": -0.0689778855,
+        "Portfolio Total": 437.253080883
+    },
+    "533": {
+        "Buy Order Time": 1577727180000,
+        "Buy Price": 7248.5,
+        "Sell Order Time": 1577730660000,
+        "Sell Price": 7259.45,
+        "Share Quantity": 0.0689797889,
+        "Comission": 1.0007553287,
+        "(%) Change": 0.1372593595,
+        "Portfolio Total": 437.9393776804
+    },
+    "534": {
+        "Buy Order Time": 1577734980000,
+        "Buy Price": 7245.1,
+        "Sell Order Time": 1577741100000,
+        "Sell Price": 7269.75,
+        "Share Quantity": 0.0690121599,
+        "Comission": 1.0017011497,
+        "(%) Change": 0.3264040365,
+        "Portfolio Total": 439.571397863
+    },
+    "535": {
+        "Buy Order Time": 1577743200000,
+        "Buy Price": 7265.2,
+        "Sell Order Time": 1577748360000,
+        "Sell Price": 7277.85,
+        "Share Quantity": 0.06882123,
+        "Comission": 1.0008705886,
+        "(%) Change": 0.1603414828,
+        "Portfolio Total": 440.3731052772
+    },
+    "536": {
+        "Buy Order Time": 1577753040000,
+        "Buy Price": 7226.4,
+        "Sell Order Time": 1577756160000,
+        "Sell Price": 7249.6,
+        "Share Quantity": 0.069190745,
+        "Comission": 1.0016052253,
+        "(%) Change": 0.3071846947,
+        "Portfolio Total": 441.9090287505
+    },
+    "537": {
+        "Buy Order Time": 1577757420000,
+        "Buy Price": 7253.95,
+        "Sell Order Time": 1577759160000,
+        "Sell Price": 7256.5,
+        "Share Quantity": 0.0689279634,
+        "Comission": 1.0001757663,
+        "(%) Change": 0.0213652456,
+        "Portfolio Total": 442.0158549785
+    },
+    "538": {
+        "Buy Order Time": 1577761500000,
+        "Buy Price": 7245.15,
+        "Sell Order Time": 1577763000000,
+        "Sell Price": 7242.2,
+        "Share Quantity": 0.0690116837,
+        "Comission": 0.9997964155,
+        "(%) Change": -0.0545164202,
+        "Portfolio Total": 441.7432728777
+    },
+    "539": {
+        "Buy Order Time": 1577765280000,
+        "Buy Price": 7235.85,
+        "Sell Order Time": 1577768340000,
+        "Sell Price": 7249.05,
+        "Share Quantity": 0.0691003821,
+        "Comission": 1.000912125,
+        "(%) Change": 0.1685923267,
+        "Portfolio Total": 442.5862345114
+    },
+    "540": {
+        "Buy Order Time": 1577769720000,
+        "Buy Price": 7249.45,
+        "Sell Order Time": 1577772960000,
+        "Sell Price": 7258.1,
+        "Share Quantity": 0.0689707495,
+        "Comission": 1.000596597,
+        "(%) Change": 0.1055170172,
+        "Portfolio Total": 443.1138195974
+    },
+    "541": {
+        "Buy Order Time": 1577774760000,
+        "Buy Price": 7255.9,
+        "Sell Order Time": 1577775420000,
+        "Sell Price": 7253.3,
+        "Share Quantity": 0.0689094392,
+        "Comission": 0.9998208355,
+        "(%) Change": -0.049612327,
+        "Portfolio Total": 442.8657579624
+    },
+    "542": {
+        "Buy Order Time": 1577778360000,
+        "Buy Price": 7244.3,
+        "Sell Order Time": 1577780220000,
+        "Sell Price": 7245.4,
+        "Share Quantity": 0.0690197811,
+        "Comission": 1.0000759218,
+        "(%) Change": 0.0013793476,
+        "Portfolio Total": 442.8726547004
+    },
+    "543": {
+        "Buy Order Time": 1577784060000,
+        "Buy Price": 7234.55,
+        "Sell Order Time": 1577785320000,
+        "Sell Price": 7233.6,
+        "Share Quantity": 0.069112799,
+        "Comission": 0.9999343428,
+        "(%) Change": -0.0269530841,
+        "Portfolio Total": 442.7378892801
+    },
+    "544": {
+        "Buy Order Time": 1577787900000,
+        "Buy Price": 7228.75,
+        "Sell Order Time": 1577790180000,
+        "Sell Price": 7240.2,
+        "Share Quantity": 0.0691682518,
+        "Comission": 1.0007919765,
+        "(%) Change": 0.1445506903,
+        "Portfolio Total": 443.4606427315
+    },
+    "545": {
+        "Buy Order Time": 1577790360000,
+        "Buy Price": 7242.1,
+        "Sell Order Time": 1577792580000,
+        "Sell Price": 7244.9,
+        "Share Quantity": 0.0690407478,
+        "Comission": 1.0001933141,
+        "(%) Change": 0.0248519999,
+        "Portfolio Total": 443.584902731
+    },
+    "546": {
+        "Buy Order Time": 1577792700000,
+        "Buy Price": 7245.5,
+        "Sell Order Time": 1577793840000,
+        "Sell Price": 7244.4,
+        "Share Quantity": 0.06900835,
+        "Comission": 0.9999240908,
+        "(%) Change": -0.0289824593,
+        "Portfolio Total": 443.4399904344
+    },
+    "547": {
+        "Buy Order Time": 1577795940000,
+        "Buy Price": 7236.05,
+        "Sell Order Time": 1577798760000,
+        "Sell Price": 7243.85,
+        "Share Quantity": 0.0690984722,
+        "Comission": 1.0005389681,
+        "(%) Change": 0.0939664739,
+        "Portfolio Total": 443.9098228037
+    },
+    "548": {
+        "Buy Order Time": 1577799900000,
+        "Buy Price": 7245.15,
+        "Sell Order Time": 1577801100000,
+        "Sell Price": 7243.8,
+        "Share Quantity": 0.0690116837,
+        "Comission": 0.9999068342,
+        "(%) Change": -0.0324342054,
+        "Portfolio Total": 443.7476517766
+    },
+    "549": {
+        "Buy Order Time": 1577802420000,
+        "Buy Price": 7243.65,
+        "Sell Order Time": 1577804820000,
+        "Sell Price": 7259.6,
+        "Share Quantity": 0.0690259745,
+        "Comission": 1.0011009643,
+        "(%) Change": 0.2063724647,
+        "Portfolio Total": 444.7795140998
+    },
+    "550": {
+        "Buy Order Time": 1577809200000,
+        "Buy Price": 7211.45,
+        "Sell Order Time": 1577811540000,
+        "Sell Price": 7215.65,
+        "Share Quantity": 0.0693341838,
+        "Comission": 1.0002912036,
+        "(%) Change": 0.0443698396,
+        "Portfolio Total": 445.0013632977
+    },
+    "551": {
+        "Buy Order Time": 1577817480000,
+        "Buy Price": 7158.55,
+        "Sell Order Time": 1577819460000,
+        "Sell Price": 7162.7,
+        "Share Quantity": 0.0698465471,
+        "Comission": 1.0002898632,
+        "(%) Change": 0.0439992755,
+        "Portfolio Total": 445.2213596753
+    },
+    "552": {
+        "Buy Order Time": 1577819940000,
+        "Buy Price": 7164.65,
+        "Sell Order Time": 1577823060000,
+        "Sell Price": 7175.15,
+        "Share Quantity": 0.0697870796,
+        "Comission": 1.0007327643,
+        "(%) Change": 0.1325852238,
+        "Portfolio Total": 445.8842857942
+    },
+    "553": {
+        "Buy Order Time": 1577824860000,
+        "Buy Price": 7174.45,
+        "Sell Order Time": 1577826120000,
+        "Sell Price": 7174.0,
+        "Share Quantity": 0.0696917534,
+        "Comission": 0.9999686387,
+        "(%) Change": -0.0202101714,
+        "Portfolio Total": 445.7832349374
+    },
+    "554": {
+        "Buy Order Time": 1577826840000,
+        "Buy Price": 7175.4,
+        "Sell Order Time": 1577834400000,
+        "Sell Price": 7197.4,
+        "Share Quantity": 0.0696825264,
+        "Comission": 1.0015330156,
+        "(%) Change": 0.292645246,
+        "Portfolio Total": 447.2464611676
+    },
+    "555": {
+        "Buy Order Time": 1577836380000,
+        "Buy Price": 7194.55,
+        "Sell Order Time": null,
+        "Sell Price": null,
+        "Share Quantity": 0.0694970499,
+        "Comission": null,
+        "(%) Change": null,
+        "Portfolio Total": null
+    }
+}
